@@ -1,7 +1,13 @@
+import Filter from "./Filters"
+
 export default function Servants() {
 
     return (
-        <><h1>SERVANTS PAGE</h1></>
+        <>
+            <main>
+                <Filter />
+                <div><h1>SERVANTS</h1></div>
+            </main>
+        </>
     )
-    
 }
