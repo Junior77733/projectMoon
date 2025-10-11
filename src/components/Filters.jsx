@@ -1,7 +1,7 @@
 export default function Filter() {
 
     return (
-    <div className="filters">
+                <div className="filters">
                     <select className="filter-class">
                         <option value="CLASS">CLASS</option>
                         <option>Saber</option>
@@ -54,5 +54,5 @@ export default function Filter() {
                         <option>Collab</option>
                     </select>
                 </div>
-    )
+            )
 }
