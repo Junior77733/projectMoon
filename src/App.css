@@ -65,10 +65,11 @@ h1 {
 }
 
 .search-function input {
-  width:200px;
+  width:300px;
   height:30px;
   border-radius: 0%;
   border:1px solid rgba(0, 0, 0, 0.4);
+  font-size: large;
 }
 
 .search-function button {
@@ -81,6 +82,38 @@ h1 {
 
 .search-function button:hover {
   background-color: rgb(53, 53, 209);
+  cursor: pointer;
+}
+
+.search-container {
+  display:flex;
+  flex-direction: column;
+  font-size: medium;
+}
+
+.search-container input {
+  font-family: "Inria Sans";
+  padding:2px;
+}
+
+.search-results {
+  list-style: none;
+  display:flex;
+  flex-direction: column;
+  gap:5px;
+  justify-content: start;
+  padding:3px;
+}
+
+.search-results li {
+  font-family: "inria Sans";
+  padding:4px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  border-left:1px solid rgba(0, 0, 0, 0.4);
+}
+
+.search-results li:hover {
+  background-color: aliceblue;
   cursor: pointer;
 }
 

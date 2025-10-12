@@ -1,4 +1,4 @@
-export default function Table({ gender, name, className, rarity, attribute, hpBase, atkBase, hpMax, atkMax, starGen, starAbsorb}) {
+export default function Table({ gender, name, servantClass, rarity, attribute, hpBase, atkBase, hpMax, atkMax, starGen, starAbsorb}) {
 
     return (
         <table className="servant-profile">
@@ -10,7 +10,7 @@ export default function Table({ gender, name, className, rarity, attribute, hpBa
                 </tr>
                 <tr>
                     <td className="first-col">Class</td>
-                    <td className="second-col">{className}</td>
+                    <td className="second-col">{servantClass}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Gender</td>

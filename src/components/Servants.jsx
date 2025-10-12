@@ -1,29 +1,32 @@
-import Filter from "./Filters"
-import ServantDetails from "./ServantDetails"
-import { useState, useRef } from 'react'
+// src/Servants.jsx
+import Filter from "./Filters";
+import ServantDetails from "./ServantDetails";
+import SearchBar from "./SearchBar"; // Import the new SearchBar component
+import { useState } from 'react'; // useRef and the old state/logic are no longer needed
 
 export default function Servants() {
-
-    const [number, setNumber] = useState(0)
-
-    const fieldRef = useRef(null)
-
-    const enterServant = () => {
-        if (fieldRef.current) {
-            setNumber(fieldRef.current.value)
-        }
-    }
+    // This state will hold the ID of the servant selected from the search bar
+    const [selectedServantId, setSelectedServantId] = useState(null);
 
     return (
         <>
             <main>
                 <Filter />
+                {/* 
+                    Replace the old search-function div with our new SearchBar.
+                    The onSelectServant prop is the function that will be called
+                    by the SearchBar to update the selectedServantId state.
+                */}
                 <div className="search-function">
-                    <input type="text" ref={fieldRef} placeholder="Enter the name here..." />
-                    <button className="search-servant-btn" onClick={enterServant}>SEARCH</button>
+                    <SearchBar onSelectServant={setSelectedServantId} />
                 </div>
-                    <ServantDetails servantId={number}/>
+                
+                {/* 
+                    Conditionally render ServantDetails only if a servant ID has been selected.
+                    This prevents it from rendering when the page first loads.
+                */}
+                {selectedServantId && <ServantDetails servantId={selectedServantId} />}
             </main>
         </>
-    )
+    );
 }
