@@ -58,3 +58,91 @@ h1 {
   color:white;
   padding:5px;
 }
+
+.search-function {
+  display:flex;
+  justify-content: center;
+}
+
+.search-function input {
+  width:200px;
+  height:30px;
+  border-radius: 0%;
+  border:1px solid rgba(0, 0, 0, 0.4);
+}
+
+.search-function button {
+  border: none;
+  width:80px;
+  background-color: purple;
+  color:white;
+  transition: 0.2s;
+}
+
+.search-function button:hover {
+  background-color: rgb(53, 53, 209);
+  cursor: pointer;
+}
+
+.grand-container {
+  display: flex;
+  justify-content: center;
+  gap:20px;
+  flex-wrap: wrap;
+}
+
+.servant-h1 {
+  font-size: 50px;
+  padding:10px;
+}
+
+@media screen and (width < 700px) {
+  .servant-h1 {
+    text-align: center;
+  }
+}
+
+.grand-container p {
+  text-align: center;
+  font-family: "Inria Sans";
+  font-size: large;
+}
+
+.servant-img {
+  width:300px;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+}
+
+.servant-profile {
+  display: inline-flex;
+  border:1px solid black;
+  padding:10px;
+  gap:20px;
+  flex-direction: column;
+  text-align: center;
+  align-items: start;
+}
+
+.table-heading {
+  font-family: "Orbitron";
+  font-size: larger;
+  font-weight: 700;
+}
+
+.first-col {
+  background-color: aliceblue;
+  font-family: "Inria Sans";
+  font-weight: 700;
+  text-align: start;
+  padding:10px;
+  border:1px solid black;
+}
+
+.second-col {
+  background-color: white;
+  font-family: "Arial";
+  text-align: center;
+  padding:10px;
+  border:1px solid black;
+}

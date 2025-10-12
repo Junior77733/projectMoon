@@ -18,10 +18,11 @@ export default function Servants() {
         <>
             <main>
                 <Filter />
-                <div><h1>SERVANTS</h1></div>
-                <input type="text" ref={fieldRef} />
-                <button onClick={enterServant}>SEARCH</button>
-                <ServantDetails servantId={number}/>
+                <div className="search-function">
+                    <input type="text" ref={fieldRef} placeholder="Enter the name here..." />
+                    <button className="search-servant-btn" onClick={enterServant}>SEARCH</button>
+                </div>
+                    <ServantDetails servantId={number}/>
             </main>
         </>
     )
