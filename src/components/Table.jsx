@@ -1,8 +1,8 @@
-export default function Table({ gender, name, servantClass, rarity, attribute, hpBase, atkBase, hpMax, atkMax, starGen, starAbsorb}) {
+export default function Table({ gender, name, servantClass, rarity, cost, attribute, alignment, hpBase, atkBase, hpMax, atkMax, npGain, starGen, starAbsorb, instantDeath, cardDeck  }) {
 
     return (
         <table className="servant-profile">
-            <caption className="table-heading">-Servant Profile-</caption>
+            <caption className="table-heading">⮞ Servant Profile ⮜</caption>
             <tbody>
                 <tr className="row">
                     <td className="first-col">Name</td>
@@ -18,11 +18,17 @@ export default function Table({ gender, name, servantClass, rarity, attribute, h
                 </tr>
                 <tr>
                     <td className="first-col">Rarity</td>
-                    <td className="second-col">{rarity}★</td>
+                    <td className="second-col">{rarity}</td>
+                    <td className="first-col">Cost</td>
+                    <td className="second-col">{cost}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Attribute</td>
                     <td className="second-col">{attribute}</td>
+                </tr>
+                <tr>
+                    <td className="first-col">Alignment</td>
+                    <td className="second-col">{alignment}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Base HP</td>
@@ -37,12 +43,24 @@ export default function Table({ gender, name, servantClass, rarity, attribute, h
                     <td className="second-col">{atkMax}</td>
                 </tr>
                 <tr>
+                    <td className="first-col">NP Gain</td>
+                    <td className="second-col">{npGain}</td>
+                </tr>
+                <tr>
                     <td className="first-col">Star Absorb</td>
                     <td className="second-col">{starAbsorb}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Star Gen</td>
                     <td className="second-col">{starGen}</td>
+                </tr>
+                <tr>
+                    <td className="first-col">Death Chance</td>
+                    <td className="second-col">{instantDeath}</td>
+                </tr>
+                <tr>
+                    <td className="first-col">Deck</td>
+                    <td className="second-col">{cardDeck}</td>
                 </tr>
             </tbody>
         </table>

@@ -89,7 +89,7 @@
   },
   {
     "id": 103100,
-    "name": "Frankenstein"
+    "name": "Frankenstein (Saber)"
   },
   {
     "id": 103200,
@@ -101,11 +101,11 @@
   },
   {
     "id": 103400,
-    "name": "Queen Medb"
+    "name": "Queen Medb (Saber)"
   },
   {
     "id": 103500,
-    "name": "Diarmuid Ua Duibhne"
+    "name": "Diarmuid Ua Duibhne (Saber)"
   },
   {
     "id": 103600,
@@ -129,7 +129,7 @@
   },
   {
     "id": 104100,
-    "name": "Astolfo"
+    "name": "Astolfo (Saber)"
   },
   {
     "id": 104200,
@@ -145,7 +145,7 @@
   },
   {
     "id": 104500,
-    "name": "Tomoe Gozen"
+    "name": "Tomoe Gozen (Saber)"
   },
   {
     "id": 104600,
@@ -169,7 +169,7 @@
   },
   {
     "id": 105100,
-    "name": "Okita Souji (Alter)"
+    "name": "Okita Souji (Alter) (Saber)"
   },
   {
     "id": 105200,
@@ -181,7 +181,7 @@
   },
   {
     "id": 105400,
-    "name": "Gareth"
+    "name": "Gareth (Saber)"
   },
   {
     "id": 105500,
@@ -189,7 +189,7 @@
   },
   {
     "id": 105600,
-    "name": "Medusa"
+    "name": "Medusa (Saber)"
   },
   {
     "id": 105700,
@@ -217,7 +217,7 @@
   },
   {
     "id": 106300,
-    "name": "Passionlip"
+    "name": "Passionlip (Saber)"
   },
   {
     "id": 106400,
@@ -305,11 +305,11 @@
   },
   {
     "id": 202500,
-    "name": "Anne Bonny & Mary Read"
+    "name": "Anne Bonny & Mary Read (Archer)"
   },
   {
     "id": 202600,
-    "name": "Artoria Pendragon"
+    "name": "Artoria Pendragon (Archer)"
   },
   {
     "id": 202700,
@@ -317,7 +317,7 @@
   },
   {
     "id": 202800,
-    "name": "Helena Blavatsky"
+    "name": "Helena Blavatsky (Archer)"
   },
   {
     "id": 202900,
@@ -333,7 +333,7 @@
   },
   {
     "id": 203200,
-    "name": "Jeanne d'Arc"
+    "name": "Jeanne d'Arc (Archer)"
   },
   {
     "id": 203300,
@@ -349,7 +349,7 @@
   },
   {
     "id": 203600,
-    "name": "Osakabehime"
+    "name": "Osakabehime (Archer)"
   },
   {
     "id": 203700,
@@ -373,7 +373,7 @@
   },
   {
     "id": 204200,
-    "name": "Illyasviel von Einzbern"
+    "name": "Illyasviel von Einzbern (Archer)"
   },
   {
     "id": 204300,
@@ -381,7 +381,7 @@
   },
   {
     "id": 204400,
-    "name": "Anastasia & Viy"
+    "name": "Anastasia & Viy (Archer)"
   },
   {
     "id": 204500,
@@ -421,7 +421,7 @@
   },
   {
     "id": 205400,
-    "name": "Larva/Tiamat"
+    "name": "Larva/Tiamat (Archer)"
   },
   {
     "id": 300100,
@@ -489,27 +489,27 @@
   },
   {
     "id": 301900,
-    "name": "Artoria Pendragon (Alter)"
+    "name": "Artoria Pendragon (Alter) (Lancer)"
   },
   {
     "id": 302000,
-    "name": "Artoria Pendragon"
+    "name": "Artoria Pendragon (Lancer)"
   },
   {
     "id": 302400,
-    "name": "Tamamo-no-Mae"
+    "name": "Tamamo-no-Mae (Lancer)"
   },
   {
     "id": 302500,
-    "name": "Kiyohime"
+    "name": "Kiyohime (Lancer)"
   },
   {
     "id": 302600,
-    "name": "Jeanne d'Arc Alter Santa Lily"
+    "name": "Jeanne d'Arc Alter Santa (Lily)"
   },
   {
     "id": 302700,
-    "name": "Medusa"
+    "name": "Medusa (Lily)"
   },
   {
     "id": 302800,
@@ -517,7 +517,7 @@
   },
   {
     "id": 302900,
-    "name": "Minamoto-no-Raikou"
+    "name": "Minamoto-no-Raikou (Lancer)"
   },
   {
     "id": 303000,
@@ -537,7 +537,7 @@
   },
   {
     "id": 303400,
-    "name": "Ibaraki-Douji"
+    "name": "Ibaraki-Douji (Lancer)"
   },
   {
     "id": 303500,
@@ -585,7 +585,7 @@
   },
   {
     "id": 304800,
-    "name": "Mélusine"
+    "name": "Mélusine / Tam Lin Lancelot"
   },
   {
     "id": 304900,
@@ -593,7 +593,7 @@
   },
   {
     "id": 305000,
-    "name": "Sakamoto Ryouma"
+    "name": "Sakamoto Ryouma (Lancer)"
   },
   {
     "id": 305100,
@@ -609,7 +609,7 @@
   },
   {
     "id": 305500,
-    "name": "Dobrynya Nikitich"
+    "name": "Dobrynya Nikitich (Lancer)"
   },
   {
     "id": 305600,
@@ -629,7 +629,7 @@
   },
   {
     "id": 306000,
-    "name": "Miyu Edelfelt"
+    "name": "Miyu Edelfelt (Lancer)"
   },
   {
     "id": 306100,
@@ -705,7 +705,7 @@
   },
   {
     "id": 402400,
-    "name": "Mordred"
+    "name": "Mordred (Rider)"
   },
   {
     "id": 402500,
@@ -713,11 +713,11 @@
   },
   {
     "id": 402600,
-    "name": "Ishtar"
+    "name": "Ishtar (Rider)"
   },
   {
     "id": 402700,
-    "name": "Artoria Pendragon (Alter)"
+    "name": "Artoria Pendragon (Alter) (Rider)"
   },
   {
     "id": 402800,
@@ -745,11 +745,11 @@
   },
   {
     "id": 403500,
-    "name": "Leonardo da Vinci"
+    "name": "Leonardo da Vinci (Rider)"
   },
   {
     "id": 403600,
-    "name": "Carmilla"
+    "name": "Carmilla (Rider)"
   },
   {
     "id": 403700,
@@ -769,7 +769,7 @@
   },
   {
     "id": 404100,
-    "name": "Murasaki Shikibu"
+    "name": "Murasaki Shikibu (Rider)"
   },
   {
     "id": 404200,
@@ -785,7 +785,7 @@
   },
   {
     "id": 404500,
-    "name": "Caenis"
+    "name": "Caenis (Rider)"
   },
   {
     "id": 404600,
@@ -825,7 +825,7 @@
   },
   {
     "id": 405800,
-    "name": "Kriemhild"
+    "name": "Kriemhild (Rider)"
   },
   {
     "id": 500100,
@@ -833,7 +833,7 @@
   },
   {
     "id": 500200,
-    "name": "Gilles de Rais"
+    "name": "Gilles de Rais (Caster)"
   },
   {
     "id": 500300,
@@ -889,7 +889,7 @@
   },
   {
     "id": 501800,
-    "name": "Gilgamesh"
+    "name": "Gilgamesh (Caster)"
   },
   {
     "id": 501900,
@@ -901,7 +901,7 @@
   },
   {
     "id": 502100,
-    "name": "Cú Chulainn"
+    "name": "Cú Chulainn (Caster)"
   },
   {
     "id": 502200,
@@ -921,7 +921,7 @@
   },
   {
     "id": 502700,
-    "name": "Marie Antoinette"
+    "name": "Marie Antoinette (Caster)"
   },
   {
     "id": 502800,
@@ -933,7 +933,7 @@
   },
   {
     "id": 503200,
-    "name": "Nero Claudius"
+    "name": "Nero Claudius (Caster)"
   },
   {
     "id": 503300,
@@ -993,7 +993,7 @@
   },
   {
     "id": 504800,
-    "name": "Charlotte Corday"
+    "name": "Charlotte Corday (Caster)"
   },
   {
     "id": 504900,
@@ -1009,11 +1009,11 @@
   },
   {
     "id": 505200,
-    "name": "Wu Zetian"
+    "name": "Wu Zetian (Caster)"
   },
   {
     "id": 505300,
-    "name": "Aesc the Rain Witch"
+    "name": "Aesc the Rain Witch / Tonelico the Savior "
   },
   {
     "id": 505400,
@@ -1101,11 +1101,11 @@
   },
   {
     "id": 602300,
-    "name": "Ryougi Shiki"
+    "name": "Ryougi Shiki (Assassin)"
   },
   {
     "id": 602400,
-    "name": "Scáthach"
+    "name": "Scáthach (Assassin)"
   },
   {
     "id": 602500,
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 603400,
-    "name": "Ushiwakamaru"
+    "name": "Ushiwakamaru (Assassin)"
   },
   {
     "id": 603500,
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 603600,
-    "name": "Li Shuwen"
+    "name": "Li Shuwen (Assassin)"
   },
   {
     "id": 603700,
@@ -1169,7 +1169,7 @@
   },
   {
     "id": 604000,
-    "name": "Okita Souji"
+    "name": "Okita Souji (Assassin)"
   },
   {
     "id": 604100,
@@ -1181,15 +1181,15 @@
   },
   {
     "id": 604300,
-    "name": "Ortlinde"
+    "name": "Ortlinde (Assassin)"
   },
   {
     "id": 604400,
-    "name": "Hildr"
+    "name": "Hildr (Assassin)"
   },
   {
     "id": 604500,
-    "name": "Thrúd"
+    "name": "Thrúd (Assassin)"
   },
   {
     "id": 604600,
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 700200,
-    "name": "Lancelot"
+    "name": "Lancelot (Berserker)"
   },
   {
     "id": 700300,
@@ -1309,7 +1309,7 @@
   },
   {
     "id": 702900,
-    "name": "Oda Nobunaga"
+    "name": "Oda Nobunaga (Berserker)"
   },
   {
     "id": 703000,
@@ -1317,7 +1317,7 @@
   },
   {
     "id": 703100,
-    "name": "Jeanne d'Arc (Alter)"
+    "name": "Jeanne d'Arc (Alter) (Berserker)"
   },
   {
     "id": 703200,
@@ -1337,7 +1337,7 @@
   },
   {
     "id": 703600,
-    "name": "Miyamoto Musashi"
+    "name": "Miyamoto Musashi (Berserker)"
   },
   {
     "id": 703700,
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 703800,
-    "name": "Brynhild"
+    "name": "Brynhild (Berserker)"
   },
   {
     "id": 703900,
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 704100,
-    "name": "Sei Shounagon"
+    "name": "Sei Shounagon (Berserker)"
   },
   {
     "id": 704200,
@@ -1365,7 +1365,7 @@
   },
   {
     "id": 704300,
-    "name": "Ibuki-Douji"
+    "name": "Ibuki-Douji (Berserker)"
   },
   {
     "id": 704400,
@@ -1377,7 +1377,7 @@
   },
   {
     "id": 704700,
-    "name": "Artoria Caster"
+    "name": "Artoria Caster (Berserker)"
   },
   {
     "id": 704800,
@@ -1413,7 +1413,7 @@
   },
   {
     "id": 900400,
-    "name": "Martha"
+    "name": "Martha (Ruler)"
   },
   {
     "id": 900500,
@@ -1433,7 +1433,7 @@
   },
   {
     "id": 900900,
-    "name": "Artoria Pendragon"
+    "name": "Artoria Pendragon (Ruler)"
   },
   {
     "id": 901000,
@@ -1445,15 +1445,15 @@
   },
   {
     "id": 901200,
-    "name": "Leonardo da Vinci"
+    "name": "Leonardo da Vinci (Ruler)"
   },
   {
     "id": 901300,
-    "name": "James Moriarty"
+    "name": "James Moriarty (Ruler)"
   },
   {
     "id": 901400,
-    "name": "Scáthach-Skadi"
+    "name": "Scáthach-Skadi (Ruler)"
   },
   {
     "id": 901500,
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 1101100,
-    "name": "Kama"
+    "name": "Kama (Avenger)"
   },
   {
     "id": 1101200,
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 1101400,
-    "name": "Utsumi Erice"
+    "name": "Utsumi Erice (Avenger)"
   },
   {
     "id": 1101500,
@@ -1605,7 +1605,7 @@
   },
   {
     "id": 1101600,
-    "name": "Chloe von Einzbern"
+    "name": "Chloe von Einzbern (Avenger)"
   },
   {
     "id": 1101700,
@@ -1613,7 +1613,7 @@
   },
   {
     "id": 1101800,
-    "name": "Minamoto-no-Raikou/Ushi Gozen"
+    "name": "Minamoto-no-Raikou / Ushi Gozen"
   },
   {
     "id": 1101900,
@@ -1633,7 +1633,7 @@
   },
   {
     "id": 2300200,
-    "name": "BB"
+    "name": "BB (Summer)"
   },
   {
     "id": 2300300,
@@ -1641,7 +1641,7 @@
   },
   {
     "id": 2300400,
-    "name": "Sessyoin Kiara"
+    "name": "Sessyoin Kiara (Moon Cancer)"
   },
   {
     "id": 2300500,
@@ -1653,23 +1653,23 @@
   },
   {
     "id": 2300700,
-    "name": "Kishinami Hakuno"
+    "name": "Kishinami Hakuno (Male)"
   },
   {
     "id": 2300800,
-    "name": "Kishinami Hakuno"
+    "name": "Kishinami Hakuno (Female)"
   },
   {
     "id": 2300900,
-    "name": "Mysterious Executor C.I.E.L"
+    "name": "Mysterious Executor C.I.E.L / Ciel"
   },
   {
     "id": 2301000,
-    "name": "Tenochtitlan"
+    "name": "Tenochtitlan / Tlaloc (Moon Cancer)"
   },
   {
     "id": 2301100,
-    "name": "Jade Rabbit"
+    "name": "Ryougi Shiki (Jade Rabbit)"
   },
   {
     "id": 2500100,
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 2500300,
-    "name": "Mysterious Heroine XX"
+    "name": "Mysterious Heroine XX (Foreigner)"
   },
   {
     "id": 2500400,
@@ -1728,10 +1728,6 @@
     "name": "Aozaki Aoko"
   },
   {
-    "id": 2501500,
-    "name": "Aozaki Aoko"
-  },
-  {
     "id": 2501600,
     "name": "Mysterious Heroine XX (Alter)"
   },
@@ -1753,7 +1749,7 @@
   },
   {
     "id": 2800500,
-    "name": "Tenochtitlan"
+    "name": "Tenochtitlan / Tlaloc"
   },
   {
     "id": 2800600,
@@ -1785,7 +1781,7 @@
   },
   {
     "id": 3300200,
-    "name": "Ereshkigal"
+    "name": "Space Ereshkigal"
   },
   {
     "id": 4000100,

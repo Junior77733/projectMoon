@@ -27,7 +27,7 @@ export default function SearchBar({ onSelectServant }) {
     <div className="search-container">
       <input
         type="text"
-        placeholder="Search for a servant..."
+        placeholder="Search"
         value={searchTerm}
         onChange={handleSearchChange}
       />

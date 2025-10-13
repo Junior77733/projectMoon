@@ -19,10 +19,18 @@ export default function ServantDetails({servantId}) {
     [servantId]
     )
 
-    const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
-    // const servantGender = servant.gender;
+    if (!servant.name) {
+      return <p>LOADING...</p>
+    }
 
-    const { name, gender, className, rarity, atkBase, hpBase, hpMax, atkMax, attribute, starAbsorb, starGen } = servant;
+    const { name, gender, className, cost, atkBase, hpBase, hpMax, atkMax, attribute, starAbsorb, cards, limits, noblePhantasms } = servant;
+
+    const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
+    const servantRarity = `${"★".repeat(servant.rarity)}`;
+    const servantStarGen = `${servant.starGen * 0.1}%`
+    const servantDeathChance = `${(servant.instantDeathChance * 0.1).toFixed(1)}%`
+    const servantAlignment = `${limits?.[1]?.policy} ${limits?.[1]?.personality}`;
+    const servantNpGain = `${(noblePhantasms?.[0]?.npGain?.np[0]) / 100}%`
 
     return (
     <div>
@@ -45,14 +53,19 @@ export default function ServantDetails({servantId}) {
           gender={gender}
           name={name}
           servantClass={className}
-          rarity={rarity}
+          rarity={servantRarity}
+          cost={cost}
           attribute={attribute}
+          alignment={servantAlignment}
           hpBase={hpBase}
           atkBase={atkBase}
           hpMax={hpMax}
           atkMax={atkMax}
+          npGain={servantNpGain}
           starAbsorb={starAbsorb}
-          starGen={starGen}
+          starGen={servantStarGen}
+          instantDeath={servantDeathChance}
+          cardDeck={cards}
         />
       </>
     </div>
