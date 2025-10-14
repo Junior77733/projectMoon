@@ -1,36 +1,55 @@
 import { useState, useEffect } from 'react'
-import Table from './Table'
+import TableProfile from './TableProfile'
+import TableSkills from './TableSkills'
 
 export default function ServantDetails({servantId}) {
 
     const [servant, setServant] = useState({})
-    // const [loading, setLoading] = useState(true)
-    // const [error, setError] = useState(null)
+    const [loading, setLoading] = useState(true)
+    const [error, setError] = useState(null)
 
     useEffect(() => {
 
         const fetchServantDetails = async () => {
+
+          try {
             const response = await fetch(`https://api.atlasacademy.io/nice/JP/servant/${servantId}?lang=en&lore=true`)
+
+            if (!response.ok) {
+              throw new Error("Request Failed!")
+            }
+
             const data = await response.json();
             setServant(data)
+
+          } catch (e) {
+              setError(e.message)
+          } finally {
+              setLoading(false)
+          }
 
         }
     fetchServantDetails();},
     [servantId]
     )
 
-    if (!servant.name) {
+    if (loading) {
       return <p>LOADING...</p>
     }
 
-    const { name, gender, className, cost, atkBase, hpBase, hpMax, atkMax, attribute, starAbsorb, cards, limits, noblePhantasms } = servant;
+    if (error) {
+      return <p>Error!</p>
+    }
+
+    const { name, gender, className, cost, atkBase, hpBase, hpMax, atkMax, attribute, starAbsorb, cards, limits, noblePhantasms, skills } = servant;
 
     const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
     const servantRarity = `${"★".repeat(servant.rarity)}`;
-    const servantStarGen = `${servant.starGen * 0.1}%`
+    const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`
     const servantDeathChance = `${(servant.instantDeathChance * 0.1).toFixed(1)}%`
     const servantAlignment = `${limits?.[1]?.policy} ${limits?.[1]?.personality}`;
     const servantNpGain = `${(noblePhantasms?.[0]?.npGain?.np[0]) / 100}%`
+    // const servantSkills = `${skills[1]?.name} ${skills[1].detail}`;
 
     return (
     <div>
@@ -49,7 +68,7 @@ export default function ServantDetails({servantId}) {
         <p>No ascension art available.</p>
       )}
       <>
-        <Table 
+        <TableProfile 
           gender={gender}
           name={name}
           servantClass={className}
@@ -68,6 +87,9 @@ export default function ServantDetails({servantId}) {
           cardDeck={cards}
         />
       </>
+        <div>
+           <TableSkills skills={skills} />
+        </div>
     </div>
   );
 }

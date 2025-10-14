@@ -1,4 +1,4 @@
-export default function Table({ gender, name, servantClass, rarity, cost, attribute, alignment, hpBase, atkBase, hpMax, atkMax, npGain, starGen, starAbsorb, instantDeath, cardDeck  }) {
+export default function TableProfile({ gender, name, servantClass, rarity, cost, attribute, alignment, hpBase, atkBase, hpMax, atkMax, npGain, starGen, starAbsorb, instantDeath, cardDeck  }) {
 
     return (
         <table className="servant-profile">

@@ -180,3 +180,10 @@ h1 {
   padding:10px;
   border:1px solid black;
 }
+
+.skill-table {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin:10px;
+}
