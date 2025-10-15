@@ -1,5 +1,4 @@
-// src/SearchBar.jsx
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import servantNames from './servant-names.json';
 
 export default function SearchBar({ onSelectServant }) {

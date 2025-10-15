@@ -1,0 +1,3368 @@
+[
+  {
+    "collectionNo": 2,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Gain a large amount of Critical Stars ",
+      "Increase Buster Card effectiveness (1 turn) & NP Strength (1 turn) ▲ & change all Command Cards to Buster type (1 turn) ▲ for yourself",
+      "Increase NP Gauge ▲ & gain a large amount of C. Stars for yourself"
+    ]
+  },
+  {
+    "collectionNo": 3,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Gain a large amount of Critical Stars ",
+      "Increase all allies' ATK (3 turns)",
+      "Increase Buster Card effectiveness (3 times, 3 turns ▲) & apply a state that \"increase NP Gauge when attacking with Buster Card for yourself\" (3 times, 3 turns) ▲ & apply Ignore Invincible (3 turns) ▲ for yourself",
+      "Increase NP Gauge ▲ & gain a large amount of Critical Stars ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 4,
+    "skills": [
+      "Gain a large amount of Critical Stars ",
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Increase all allies' NP Gain (3 turns)",
+      "Gain a large amount of C. Stars ▲ + Increase NP Gauge ▲ & HP Recovery amount (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 5,
+    "skills": [
+      "Increase Mental Debuff Resist (3 turns) & restore HP for yourself",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Apply Guts to yourself (3 times, 5 turns) ",
+      "Increase NP Gauge ▲ & increase Arts Card effectiveness when on a [Near Water] or [City] field (3 turns) ▲ & increase Mental Debuff Resist (3 turns) & recover HP for yourself",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP & increase Arts Card effectiveness (3 turns) ▲ & gain C. Stars each turn (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 90,
+    "skills": [
+      "Increase NP Gain for one ally (3 turns)",
+      "Increase ATK (3 turns) & C. Star Drop Rate (3 turns) for one ally",
+      "Restore HP & increase DEF (3 turns) for one ally",
+      "Increase NP Gain (3 turns) & increase NP Gauge ▲ for one ally",
+      "Restore HP & increase DEF (3 turns) & apply Special Attack against enemies with the [Heaven Attribute] (3 turns) ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 123,
+    "skills": [
+      "Increase ATK (3 turns) & increase Buster Card effectiveness (3 turns) when on a [Sunlight] field for yourself",
+      "Increase all allies' ATK (3 turns)",
+      "Increase NP Gauge & gain C. Stars & apply Guts (1 time, 1 turn) for yourself",
+      "Increase all allies' ATK ▲ (3 turns) + Apply \"Change field to [Sunlight]\" status (1 turn) to yourself"
+    ]
+  },
+  {
+    "collectionNo": 6,
+    "skills": [
+      "Increase your NP Gain (3 turns)",
+      "Remove Debuffs & restore HP for yourself",
+      "Apply Special Attack [Dragon] (3 turns) & Special Defense [Dragon] (3 turns) for yourself",
+      "Apply Special Attack [Dragon] (3 turns) & Special Defense [Dragon] (3 turns) & increase Buster Card effectiveness ▲ (1 turn) for yourself",
+      "Increase NP Gauge ▲ & NP Gain (3 turns) & ATK (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 76,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Gain a large amount of Critical Stars ",
+      "Remove all Debuffs & greatly increase DEF (1 turn) & increase NP Gauge for yourself",
+      "Increase Buster Card effectiveness (3 times, 3 turns ▲) & Buster Card's Critical Strength (3 turns) ▲ & ATK (3 turns) ▲ for yourself",
+      "Increase Buster Card's C. Star Gather Rate (1 turn) ▲ & increase Critical Strength (3 times, 3 turns) ▲ for yourself + Gain a large amount of C. Stars ▲ "
+    ]
+  },
+  {
+    "collectionNo": 138,
+    "skills": [
+      "Apply Invincible (1 turn) & increase NP Gain (1 turn) for yourself",
+      "Increase Buster Cards effectiveness (1 turn) & increase DEF (1 turn) for yourself",
+      "[Usable only when NP gauge is 100% or higher] Reduce your NP gauge by 100% [Demerit] + increase your Buster Card effectiveness (3 turns) or apply Invincible for all allies (1 turn) or restore HP for all allies or increase ATK for all allies (1 turn) or gain a large amount of C. Stars ",
+      "[Usable only when NP gauge is 50% ▲ or higher] Reduce your NP gauge by 50% ▲ [Demerit] + Increase Buster Card effectiveness for yourself (3 turns) or apply Invincible for all allies (1 turn) or restore HP for all allies or increase ATK for all allies (1 turn) or gain a large amount of C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 126,
+    "skills": [
+      "Increase all allies' NP Strength (1 turn)",
+      "Increase NP Gauge & Mental Debuff Resist (3 turns) for yourself",
+      "Increase DEF (1 turn) & Debuff Resist (1 turn) for all allies",
+      "Increase NP Strength ▲ (3 turns ▲) & increase NP Gain (3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 7,
+    "skills": [
+      "Increase all allies' NP Strength (1 turn)",
+      "Increase all allies' ATK (3 turns)",
+      "Increase Critical Strength (3 turns) & decrease DEF (3 turns) [Demerit] for one ally",
+      "Increase Critical Strength (3 turns) & C. Star Drop Rate ▲ (3 turns) & decrease DEF (3 turns) [Demerit] for one ally"
+    ]
+  },
+  {
+    "collectionNo": 72,
+    "skills": [
+      "Increase ATK (3 turns) & increase Mental Debuff Resist (3 turns) for yourself",
+      "Increase DEF (3 turns) & decrease Attack Buff Success Rate (3 turns) for yourself [Demerit]",
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 turns) ▲ & Buster Card Critical Strength (3 turns) ▲ & DEF (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 153,
+    "skills": [
+      "Double the number of hits of normal attacks (strength greatly decreases for each hit, but overall damage increases according to skill level) (1 turn) for yourself",
+      "Apply Ignore Invincible (1 turn) & increase Buster Card effectiveness (1 turn) for yourself",
+      "Apply Invincible (1 turn) & increase C. Star drop rate (3 turns) & remove Debuffs for yourself",
+      "Double the number of hits of normal attacks (strength greatly decreases for each hit, but overall damage increases according to skill level) (3 turns ▲) & apply Incoming Damage Cut (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 8,
+    "skills": [
+      "Increase all allies' NP Strength (1 turn)",
+      "Increase Attack Debuff Resist (3 turns) & greatly restore HP for yourself",
+      "Increase your own Attack Power (3 turns) + gain Critical Stars ",
+      "Increase NP Strength ▲ (3 turns ▲) for all allies + Remove DEF Buffs ▲ for all enemies",
+      "Increase Attack Debuff Resist ▲ (3 turns) & C. Star Gather Rate ▲ (1 turn) & greatly recover HP ▲ for yourself",
+      "Increase NP Gauge ▲ & Critical Strength (3 turns) ▲ & Attack Debuff Resist ▲ (3 turns) & greatly restore HP ▲ & C. Star Gather Rate ▲ (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 101,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) for yourself",
+      "Increase all allies' ATK (3 turns)",
+      "Apply Guts (1 time, 3 turns) & restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 121,
+    "skills": [
+      "Increase NP Gauge & gain C. Stars for yourself",
+      "Increase your C. Star Gather Rate (3 turns)",
+      "Gain C. Stars each turn (3 turns) & increase Critical Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 9,
+    "skills": [
+      "Increase all allies' NP Strength (1 turn)",
+      "Increase your NP Gain (3 turns)",
+      "Increase your Buster Card effectiveness (5 turns)"
+    ]
+  },
+  {
+    "collectionNo": 10,
+    "skills": [
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Remove Debuffs & increase Debuff Resist for yourself (3 turns)",
+      "Apply Target Focus (3 turns) & greatly restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 68,
+    "skills": [
+      "Increase your Quick Card effectiveness (1 turn)",
+      "Greatly increase your C. Star Gather Rate (1 turn)",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Increase Quick Card effectiveness (1 turn) & apply a state where you \"increase your ATK (1 turn) before inflicting damage with normal attacks\" (1 turn) for yourself ▲",
+      "Greatly increase C. Star Gather Rate (1 turn) & increase Critical Strength (1 turn) ▲ & NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 91,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase Arts card effectiveness (1 turn) for yourself + decrease Death resistance for all enemies (1 turn)",
+      "Increase ATK (3 turns) & Mental Debuff Resist (3 turns) for yourself",
+      "Restore HP & decrease NP Gauge [Demerit] for yourself",
+      "Apply Ignore Invincible (3 turns ▲) & increase Arts Card effectiveness (3 turns ▲) for yourself + Decrease Death Resist (3 turns) ▲ for all enemies",
+      "Increase NP Gauge ▲ for yourself + Restore HP & decrease NP Gauge [Demerit] for a single ally ▲"
+    ]
+  },
+  {
+    "collectionNo": 160,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Gain a large amount of Critical Stars ",
+      "Apply Special Attack [Super Giant] (1 turn) & increase NP Gauge for yourself",
+      "Increase Buster Card effectiveness (3 turns ▲) & NP Gain (3 turns) ▲ for yourself",
+      "Gain large amounts of C. Stars ▲ + Increase your Critical Strength (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 165,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) & C. Star Drop Rate (1 turn) for yourself",
+      "Chance to inflict Charm (1 turn) to one [Male] enemy & decrease ATK (1 turn) for one enemy",
+      "Increase NP Gauge each turn (5 turns) & apply Sure Hit (3 turns) & increase NP Strength (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 times, 3 turns ▲) & increase C. Star Drop Rate (3 turns ▲) & increase Critical Strength (3 times, 3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 176,
+    "skills": [
+      "[Usable only when your NP gauge is 10% or higher] Increase NP Gain (3 turns) & decrease NP by 10% [Demerit] for yourself",
+      "[Usable only when your HP is 500 or higher] Decrease ATK (3 turns) & remove Buffs from one enemy + decrease your HP by 500 [Demerit]",
+      "Increase ATK (3 turns) & NP Strength (3 turns) & inflict Burn (5 turns) [Demerit] to yourself "
+    ]
+  },
+  {
+    "collectionNo": 187,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) & Arts Card C. Star Gather Rate (1 turn) & Debuff Resist (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase ATK (1 turn) for yourself",
+      "Greatly decrease ATK (1 turn) for one enemy + increase NP Gain (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase ATK (1 turn) & increase Critical Strength (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 213,
+    "skills": [
+      "Increase your Critical Strength (3 times, 3 turns)",
+      "Increase Buster Card effectiveness (1 turn) & apply Guts (1 time, 3 turns) for yourself",
+      "Increase Critical Star drop rate (1 turn) & apply Debuff Immune (1 turn) for a single ally",
+      "Increase Buster Card effectiveness (3 times, 3 turns ▲) & apply Guts (1 time, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 221,
+    "skills": [
+      "Increase NP Gauge each turn (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Chance to inflict Charm (1 turn) & decrease Arts ATK resist (3 turns) for all enemies",
+      "Increase ATK (3 turns) for all allies + Increase Critical Strength for all allies (excluding yourself) (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 223,
+    "skills": [
+      "Apply Evade (1 turn) & increase Quick Card effectiveness (1 turn) & increase ATK (1 turn) for yourself",
+      "Increase C. Star Gather Rate (3 turns) & gain Critical Stars for yourself",
+      "Increase DEF (3 turns) & increase NP Gain (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 227,
+    "skills": [
+      "Apply Invincible (2 times, 3 turns) for yourself + increase ATK (3 turns) for all allies",
+      "Increase NP Gauge & Buff Success Rate (1 turn) for one ally",
+      "Increase Arts Card effectiveness (3 turns) & chance to increase C. Star Drop Rate (3 turns) & chance to increase Critical Strength (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 234,
+    "skills": [
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Decrease DEF (3 turns) & decrease Critical Rate (3 turns) & apply NP Seal (1 turn) & restore HP [Demerit] for all enemies",
+      "Increase ATK (3 turns) & increase Buff Removal Resist (1 turn) & increase NP Gauge & restore HP for all allies + Restore HP for all enemies [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 254,
+    "skills": [
+      "Restore HP & remove 1 Debuff for one ally",
+      "Apply Evade (1 time, 1 turn) & increase C. Star Gather Rate (1 turn) for one ally + Decrease your DEF [Demerit]",
+      "Increase all allies' ATK (3 turns) + Increase NP Gauge & Critical Strength (3 turns) & C. Star Drop Rate (3 turns) for all allies [Associated to the Argo] except yourself"
+    ]
+  },
+  {
+    "collectionNo": 245,
+    "skills": [
+      "Increase ATK (3 turns) & chance to increase C. Star Drop Rate (3 turns) & chance to increase Critical Strength (3 turns) for all allies",
+      "Apply Invincible (1 turn) & chance to restore HP each turn (3 turns) & chance to apply Damage Cut (3 times, 3 turns) for a single ally",
+      "Apply Guts (1 time, 3 turns) & decrease Debuff Resist (3 turns) [Demerit] for yourself + Increase Buff Success Rate (3 turns) for all allies",
+      "Apply Guts (1 time, 3 turns) & increase Quick Card effectiveness (3 turns) ▲ & increase NP Gain (3 turns) ▲ & decrease Debuff Resist (3 turns) [Demerit] for yourself + Increase Buff Success Rate (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 264,
+    "skills": [
+      "Increase NP Gauge for yourself + Gain C. Stars ",
+      "Increase C. Star Gather Rate (3 turns) & apply Guts (1 time, 3 turns) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & apply a state where \"your Critical Strength increases during Critical Attacks (3 turns)\" (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 270,
+    "skills": [
+      "Increase NP Gauge each turn (3 turns) & remove Debuffs for yourself",
+      "Inflict Fear (3 turns) on all enemies + Apply Evade (3 times, 3 turns) for yourself",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for yourself & increase your Buster Card's C. Star Gather Rate (3 turns)",
+      "Increase NP Gauge ▲ & apply NP Gain each turn (3 turns) & remove Debuff for yourself + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 278,
+    "skills": [
+      "Apply a state to yourself: \"Gain NP Gauge when attacking with Quick Card\" (3 turns) & \"gain C. Stars when attacking with Arts Card\" (3 turns)",
+      "Increase NP Strength (1 turn) & increase ATK (1 turn) & apply Debuff Immune (1 time, 3 turns) for all allies",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & apply Evade (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 344,
+    "skills": [
+      "Apply Invincible (1 turn) & increase DEF (1 turn) & NP Gauge for yourself",
+      "Increase Buster Card effectiveness (3 turns) & remove debuffs & decrease Charm Resist (3 turns) [Demerit] for yourself + Remove buffs for all enemies",
+      "Gain C. Stars + Increase C. Star Gather Rate (1 turn) & slightly increase NP Gauge & decrease HP by 500 [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 293,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself + Gain C. Stars ",
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Increase ATK (3 times, 3 turns) & Critical Strength (3 times, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 290,
+    "skills": [
+      "Apply Guts (1 time, 3 turns) & increase Critical Strength (3 turns) & apply [Staying Up Late] where \"Stun is applied after 3 turns (1 turn) [Demerit] for yourself\" <treated as a Buff> for yourself [Demerit]",
+      "Increase Arts Card effectiveness (1 turn) & increase Arts Card's C. Star Gather Rate (1 turn) for yourself",
+      "Gain a large amount of C. Stars + Gain C. Stars each turn (3 turns) & apply Debuff Immune (1 time, 5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 299,
+    "skills": [
+      "Increase ATK (3 times, 3 turns) & increase NP Gauge for yourself",
+      "Increase Buster Card effectiveness (3 turns) & increase DEF (3 turns) for yourself + Gain C. Stars ",
+      "Apply NP Seal (1 turn) for one enemy + Increase Critical Strength (3 turns) & apply Special Attack [Undead] (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 298,
+    "skills": [
+      "Increase Buster Card C. Star Gather Rate (3 turns) & increase Critical Strength (3 times, 3 turns) for yourself",
+      "Apply Evade (1 turn) & increase Arts Card C. Star Gather Rate (1 turn) & increase NP Gain (1 turn) for yourself",
+      "Increase Buster Card effectiveness (3 turns) & apply Sure Hit (3 turns) for yourself + Decrease Critical Rate (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 301,
+    "skills": [
+      "Increase Quick Card effectiveness (3 times, 3 turns) & increase Buster Card effectiveness (3 times, 3 turns) & increase Critical Strength (3 turns) for yourself",
+      "Apply Evade (2 times, 3 turns) & increase C. Star Gather Rate (1 turn) & increase Quick Card Critical Strength (1 turn) for yourself",
+      "Increase NP Gauge & apply Debuff Immune (3 times, 3 turns) for a single ally"
+    ]
+  },
+  {
+    "collectionNo": 302,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) & Arts Card effectiveness (1 turn) & Buster Card effectiveness (1 turn) & C. Star Gather Rate (1 turn) for yourself + Gain C. Stars ",
+      "Apply Ignore Invincible (1 turn) & increase Critical Strength against enemies with Evade or Invincible (1 turn) & increase C. Star Drop Rate (3 turns) & increase Critical Strength (3 turns) for yourself",
+      "Increase NP Gauge & apply [Flame] state (that increases NP Gauge during normal attacks ) (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 310,
+    "skills": [
+      "Increase ATK (3 turns) & increase Buster Card effectiveness (3 turns) when on a [Sunlight] field for yourself",
+      "Increase Buster Card effectiveness (3 turns) & apply [Strong Eater] state that \"Restores HP for yourself during normal attacks + Removes 1 Buff of a single enemy & when successfully removed, decreases DEF of a single enemy\" (3 turns)",
+      "Apply Incoming Damage Cut (3 times, 3 turns) for all allies + Apply a state that \"increases NP Gauge for all allies each turn\" for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 317,
+    "skills": [
+      "Increase ATK (3 turns) & Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself",
+      "Increase NP Gauge & increase Critical Strength (3 turns) & increase C. Star Gather Rate (1 turn) for yourself",
+      "Apply Invincible (2 times, 3 turns) & increase NP Gain (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 343,
+    "skills": [
+      "Apply Invincible (2 times, 3 turns) to one ally + Increase NP Gain (5 turns) & apply a state where \"[Heroic King] is applied to yourself (5 turns) when damaged\" (5 turns) for yourself when you are not Invincible + Inflict NP Seal (1 turn) to yourself when you are Invincible [Demerit]",
+      "Increase ATK (3 turns) for all allies + Apply Special Attack [Demonic] (3 turns) & Special Defense [Divine] (3 turns) & increase NP Gauge for yourself",
+      "Increase Quick Card effectiveness (3 turns) & Critical Strength (3 turns) & Critical Strength against [Evil] enemies (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 337,
+    "skills": [
+      "Increase ATK (3 turns) & Arts Card effectiveness (3 turns) for all allies",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply \"Increase Buster Card effectiveness (1 turn) when attacking with Arts Card\" (3 turns) & \"Increase Arts Card effectiveness (1 turn) when attacking with Buster Card\" (3 turns) for yourself",
+      "Increase NP Gauge for yourself + Increase NP Gain (3 turns) & Critical Resistance (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 354,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself + Gain C. Stars ",
+      "Apply Guts (1 time, 3 turns) to a single ally + Gain C. Stars each turn (3 turns) & \"Change field to [Sunlight] status\" (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 turns) & NP Gauge & apply an \"inflict Burn (3 turns) during normal attacks\" state (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 363,
+    "skills": [
+      "Increase ATK (3 turns) & NP Gain (3 turns) for all allies + Gain C. Stars",
+      "Increase Quick Card effectiveness (3 turns) & Arts card effectiveness (3 turns) & NP Gauge for yourself",
+      "Apply Evade (1 time, 3 turns) & recover HP & remove Poison, Curse, Burn for all allies"
+    ]
+  },
+  {
+    "collectionNo": 384,
+    "skills": [
+      "Chance to immobilize (1 turn) a single enemy + Increase Quick Card Critical Strength (3 turns) & apply \"a state that inflicts Curse (5 turns) to a single enemy during Quick attacks\" (3 turns) for yourself",
+      "Increase NP Gauge for yourself + Increase ATK (3 turns) for all allies + Increase Critical Strength (3 turns) of all [Demonic] allies",
+      "Apply Invincible (3 times, 3 turns) & apply Debuff Immune (3 times, 3 turns) & increase incoming Critical Resistance (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 379,
+    "skills": [
+      "Increase ATK (3 turns) & remove Debuffs for yourself + Gain C. Stars ",
+      "Apply Special Attack [Wild Beast] (3 turns) & increase Quick Card effectiveness (3 turns) for yourself",
+      "Chance to increase Critical Strength (3 turns) & chance to increase C. Star Gather Rate (3 turns) & apply Evade (2 times, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 11,
+    "skills": [
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Increase your Arts Card effectiveness (1 turn)",
+      "Increase C. Star Drop Rate ▲ (3 turns) & Critical Strength ▲ (3 turns) for yourself",
+      "Increase Quick ▲ (1 turn) & Arts ▲ (1 turn) & Buster ▲ (1 turn) Card effectiveness for yourself",
+      "Increase Quick Card effectiveness (1 turn) ▲▲ & Arts Card effectiveness ▲▲ (1 turn) & Buster Card effectiveness (1 turn) ▲▲ & switch NP Card type to either Arts or Buster (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 12,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Increase your NP Gain (3 turns)",
+      "Greatly increase your C. Star Gather Rate (3 turns)",
+      "Increase ATK (3 turns) for all allies + Increase NP Strength (3 turns) ▲ for all allies that are [Servants with Heaven Attribute] + Gain C. Stars ▲",
+      "Greatly increase C. Star Gather Rate (3 turns) & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 13,
+    "skills": [
+      "Decrease ATK (3 turns) & inflict Poison (5 turns) for all enemies",
+      "Increase your NP Gain (3 turns)",
+      "Apply Sure Hit (1 turn) & Evade (1 turn) & gain C. Stars for yourself"
+    ]
+  },
+  {
+    "collectionNo": 14,
+    "skills": [
+      "Increase Quick Card effectiveness for all allies (1 turn)",
+      "Greatly increase your C. Star Gather Rate (1 turn)",
+      "Apply Evade (1 turn) & increase NP Gain (3 turns) for yourself",
+      "Increase Quick Card effectiveness for all allies ▲(1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 63,
+    "skills": [
+      "Greatly increase DEF (1 turn) & recover HP for yourself",
+      "Remove all Mental Debuff Effects & apply Evade (1 time) & recover HP for all allies",
+      "Increase all allies' ATK (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 122,
+    "skills": [
+      "Remove all Mental Debuff Effects & apply Evade (1 time) & Recover HP for all allies",
+      "Increase NP Gauge & apply NP Seal (1 turn) [Demerit] for yourself",
+      "Remove Buffs & decrease Critical Rate (3 turns) for one enemy",
+      "Increase Quick Card effectiveness (3 turns) for yourself ▲ + Remove Debuffs ▲ & apply Evade (1 time) & Recover HP ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 60,
+    "skills": [
+      "Greatly increase DEF (1 turn) & increase ATK (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Apply Special Attack [Male] for yourself (1 turn)",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 105,
+    "skills": [
+      "Increase your Critical Strength (1 turn)",
+      "Increase your NP Gauge ",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 77,
+    "skills": [
+      "Increase your NP Gain (3 turns)",
+      "Chance to increase DEF (3 turns) & chance to increase NP Strength (1 turn) & apply Guts (1 time, 3 turns) for yourself",
+      "Increase your NP Gauge & apply Ignore Invincible (3 turns) + gain Critical Stars",
+      "Increase NP Gain for yourself (3 turns) + Increase NP Gain (3 turns) ▲ for all allies excluding yourself",
+      "Chance to increase DEF (3 turns) & chance to increase NP Strength (3 turns ▲) & increase ATK (3 turns) ▲ & apply Guts (1 time, 3 turns) for yourself",
+      "Increase NP Gain (3 turns) & Debuff Success Rate (1 turn) ▲ for yourself + Increase NP Gain (3 turns) for all allies excluding yourself ▲ + Increase Buff Success Rate (3 turns) for all allies ▲"
+    ]
+  },
+  {
+    "collectionNo": 15,
+    "skills": [
+      "Medium chance to decrease specific enemy's Charge + Increase your own NP Gauge ",
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Increase your Arts Card effectiveness (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 16,
+    "skills": [
+      "Increase DEF (3 turns) & Poison Resist (3 turns) for yourself",
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Increase NP Gauge & restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 125,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & restore HP for yourself",
+      "Apply Evade (2 times) & increase DEF (3 turns) for yourself",
+      "Increase all allies' Max HP (3 turns)",
+      "Increase Max HP (3 turns) & Buster Card effectiveness (3 turns) ▲ & slightly increase NP Gauge ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 84,
+    "skills": [
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Increase NP Gauge & restore HP per turn (5 turns) & gain C. Stars per turn (5 turns) for yourself",
+      "Increase Buster Card effectiveness (1 turn) & NP Strength (1 turn) for yourself",
+      "Increase C. Star Drop Rate ▲ (3 turns) & apply Debuff Immune ▲ (5 turns) for yourself",
+      "Increase NP Gauge & restore HP each turn (5 turns) & gain C. Stars each turn (5 turns) & increase NP Gauge each turn (5 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 157,
+    "skills": [
+      "Increase DEF (3 times, 5 turns) & apply Damage Cut (3 times) for yourself",
+      "Increase Quick (1 turn) & Arts (1 turn) & Buster (1 turn) Card effectiveness for yourself",
+      "Increase your ATK (3 times, 5 turns) ",
+      "Increase Quick (3 times, 3 turns ▲) & Arts (3 times, 3 turns ▲) & Buster (3 times, 3 turns ▲) Card effectiveness & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 95,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Chance to inflict Charm to one [Humanoid] enemy (1 turn)",
+      "Increase your NP Gain (3 turns)",
+      "Chance ▲ to inflict Charm to one [Humanoid] enemy (1 turn) + Gain C. Stars each turn (3 turns) ▲ for yourself "
+    ]
+  },
+  {
+    "collectionNo": 142,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies",
+      "Chance to apply Ignore Invincible (1 turn) & chance to apply Invincible (1 turn) & increase NP Gauge for yourself",
+      "After 1 turn increase ATK (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 184,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + increase NP Strength (3 turns) for yourself",
+      "Increase C. Star Gather Rate (3 turns) for yourself + Increase C. Star Drop Rate (3 turns) for all allies",
+      "Apply Guts (1 time, 5 turns) & increase Max HP (5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 197,
+    "skills": [
+      "Increase NP Gauge & C. Star Drop Rate (3 turns) for one ally",
+      "Increase NP Strength (1 turn) & Critical Strength (1 turn) for one ally",
+      "Apply Ignore Invincible (3 turns) & Increase C. Star Gather Rate (3 turns) & DEF (3 turns) for yourself & Inflict Stun (1 turn) 3 turns later [Demerit] to yourself"
+    ]
+  },
+  {
+    "collectionNo": 156,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase C. Star Gather Rate (1 turn) for yourself",
+      "[Usable only when there are 10 C. Stars or more] Increase NP Gauge & NP Strength (3 turns) for yourself + decrease 10 C. Stars [Demerit]   ",
+      "Increase all allies' ATK (3 turns) + Increase ATK for all [Evil] allies except yourself (3 turns)",
+      "Apply Ignore Invincible (1 turn) & Ignore DEF (1 turn) ▲ & increase C. Star Gather Rate (1 turn) for yourself + Gain C. Stars ▲",
+      "[Usable only when there are 10 C. Stars or more] Increase NP Gauge & NP Strength (3 turns) for yourself + Apply [Evil] to all allies excluding yourself (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 69,
+    "skills": [
+      "Increase all allies' NP Gain (3 turns)",
+      "Apply Special Attack [Divine] to yourself (1 turn)",
+      "Increase C. Star Gather Rate (3 turns) & Critical Strength (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 turns) ▲ & NP Strength (3 turns) ▲ & NP Gain (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 131,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + Increase C. Star Drop Rate for all [Male] allies (3 turns)",
+      "Increase C. Star Gather Rate (1 turn) + gain Critical Stars for yourself",
+      "Increase ATK (3 turns) & apply Guts (1 time) & decrease Debuff Resist (3 turns) [Demerit] for yourself  ",
+      "Increase C. Star Gather Rate (1 turn) & increase NP Gauge ▲ for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 129,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) for yourself + Increase DEF (3 turns) for all allies",
+      "Restore HP & decrease NP [Demerit] for yourself",
+      "Increase all allies' ATK (3 turns) + Increase C. Star Drop Rate for all [Male] allies (3 turns)",
+      "Increase Arts Card effectiveness (3 turns) & NP Gauge ▲ & apply Sure Hit (3 turns) ▲ for yourself + Increase DEF (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 137,
+    "skills": [
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Increase Quick (1 turn) & Arts (1 turn) & Buster (1 turn) Card effectiveness for yourself",
+      "Increase NP Gauge & C. Star Drop Rate (3 turns) for yourself",
+      "Increase NP Gauge & increase C. Star Drop Rate for yourself (3 turns) + increase [Illya] Buff Success Rate for all allies ▲ (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 180,
+    "skills": [
+      "Increase NP Gauge for all allies + Gain C. Stars each turn for yourself (5 turns)",
+      "Apply Damage Up (5 times, 5 turns) for yourself + decrease charge by 1 for a single enemy",
+      "Increase Arts Card effectiveness (1 turn) & apply Debuff Immune (1 time, 5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 200,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & apply Ignore DEF (3 turns) & increase NP Gain (3 turns) for yourself",
+      "Apply Sure Hit (3 turns) & gain C. Stars for yourself",
+      "Decrease Max HP by 2000 (3 turns) [Demerit] & apply Damage Cut (3 turns) & Guts (1 time, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 207,
+    "skills": [
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Increase all allies' Critical Strength (3 turns) + Gain C. Stars + Decrease your HP by 500 [Demerit]",
+      "Increase Quick (3 turns) & Arts (3 turns) & Buster (3 turns) Card effectiveness for one ally"
+    ]
+  },
+  {
+    "collectionNo": 212,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + increase your ATK (1 turn)",
+      "Increase NP Strength (1 turn) & C. Star Drop Rate (1 turn) for all allies",
+      "Increase NP Gauge & apply Ignore Invincible (3 turns) & gain C. Stars each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 216,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & apply Invincible (2 times, 3 turns) for yourself",
+      "Increase NP Gauge & NP Strength (3 turns) & increase Critical Strength when on a [Near Water] field (3 turns) for yourself",
+      "Increase ATK for all allies (3 turns) + Increase ATK for all [Good] allies (except yourself) (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 248,
+    "skills": [
+      "Apply Invincible (1 turn) & increase NP Gauge for yourself",
+      "Increase your Buster Card effectiveness (3 turns) & decrease target enemy's DEF (3 turns) when attacking with your own Buster Cards (3 times, 5 turns)",
+      "Increase your Quick Card effectiveness (3 turns) & increase your Critical Strength (3 turns) when attacking with your own Quick Cards (3 times, 5 turns)"
+    ]
+  },
+  {
+    "collectionNo": 246,
+    "skills": [
+      "Chance to inflict Skill Seal to a single enemy (1 turn) + Gain a large amount of C. Stars ",
+      "Increase Arts Card effectiveness (3 turns) & apply Debuff Immune (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & apply Debuff Immune (3 turns) for yourself + Apply [Marking] (3 turns) to all enemies with the Evade status (excluding statuses that cannot be removed) ▲ + Apply Evade Trap (a state that \"applies [Marking] (3 turns) to all enemies with the Evade status at the end of a turn (excluding statuses that cannot be removed)\") to all enemies without the [Marking] status (1 time, 5 turns) ▲ <[Marking] is treated as a Debuff and counts for the Special Attack [Evade] effect in your Noble Phantasm>"
+    ]
+  },
+  {
+    "collectionNo": 255,
+    "skills": [
+      "Apply Evade (1 time, 1 turn) to yourself + Decrease Critical Rate (1 turn) & remove Buffs & if Buff removal succeeds, apply a [Weakness Detected] state (3 turns) to a single enemy",
+      "Increase ATK (1 turn) & DEF (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Increase NP Gauge & restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 262,
+    "skills": [
+      "Increase Critical Strength (3 times, 3 turns) & apply Evade (1 time, 1 turn) for yourself",
+      "Apply Target Focus to one enemy (3 turns) [Demerit] + Increase ATK (3 turns) & apply Sure Hit (3 turns) for all allies",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 269,
+    "skills": [
+      "Decrease ATK (3 turns) & Critical Rate (3 turns) for all enemies",
+      "Decrease Charge by 1 for all enemies + Increase ATK (3 turns) for yourself + Chance to increase ATK (3 turn) for all allies excluding yourself + Slightly increase NP Gauge for all allies",
+      "Increase Buff Success Rate (3 turns) & increase Critical Strength (3 turns) only when there are 10 C. Stars or more & increase C. Star Gather Rate (3 turns) only when there are 20 C. Stars or more & apply Evade (1 turn) only when there are 30 C. Stars or more & apply Ignore Invincible (3 turns) only when there are 40 C. Stars or more & increase NP Gauge only when there are 50 C. Stars or more for one ally"
+    ]
+  },
+  {
+    "collectionNo": 272,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) + Apply Special Attack [Wild Beasts and Demonic] (1 turn) for yourself",
+      "Apply Guts (1 time, 3 turns) & increase ATK (3 turns) for yourself + Gain C. Stars ",
+      "Increase C. Star Gather Rate (3 turns) & apply status \"Greatly increase your Critical Strength  (1 turn) before dealing damage with Buster Cards\" for yourself (3 times, 3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 271,
+    "skills": [
+      "Remove one Buff for all enemies + Remove one Debuff & restore HP for all allies",
+      "Apply Guts (1 time, 3 turns) & increase Buff Removal Resist (3 turns) & NP Strength (3 turns) for one ally",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 276,
+    "skills": [
+      "Increase ATK (3 turns) & increase NP Gauge each turn (3 turns) & restore HP each turn (3 turns) for all allies",
+      "Apply Evade (3 times, 3 turns) & increase Critical Strength (3 times, 3 turns) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & NP Gauge for yourself + Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 294,
+    "skills": [
+      "Apply [Confusion] that has a \"low chance to inflict Skill Seal each turn\" (3 turns) & decrease Buster ATK resist (3 turns) to a single enemy",
+      "Gain C. Stars each turn (3 turns) for yourself + Increase Critical Strength for all allies (3 turns) + Increase Critical Strength (3 turns) & increase C. Star Gather Rate (3 turns) for all [Nobunaga] allies",
+      "Apply Target Focus (1 turn) & increase the amount of NP gained when damaged (1 turn) & apply a state that \"restores all allies' HP when you are defeated (5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 286,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & increase Quick Card's C. Star Gather Rate (1 turn) & increase Critical Strength (1 turn)",
+      "Apply Invincible (1 time, 3 turns) & increase NP Gain (3 turns) for yourself + Increase ATK (3 turns) for all [Child Servant] allies",
+      "Increase NP Gauge & increase Critical Strength (3 turns) & chance to restore HP each turn (5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 311,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & apply Invincible (1 turn) for yourself + Apply Evade (1 time) for all allies + Decrease 500 HP for all allies excluding yourself [Demerit]",
+      "Inflict NP Seal (1 turn) & Skill Seal (1 turn) to all enemies + Increase NP Gauge for yourself",
+      "Absorb HP & high chance to decrease Charge of a single enemy + Increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 318,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & NP Gauge for yourself",
+      "Apply Invincible (1 turn) & Buff Removal Resist (1 turn) for yourself + Gain C. Stars ",
+      "Apply Sure Hit (3 turns) & increase Arts Card C. Star Gather Rate (3 turns) & Critical Strength (3 turns) & NP Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 325,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & increase NP Gauge each turn (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & increase C. Star Gather Rate (1 turn) for yourself + Gain C. Stars ",
+      "Increase ATK (3 turns) & Critical Resistance (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 350,
+    "skills": [
+      "Increase Buster Card effectiveness (3 times, 3 turns) & Critical Strength (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & apply a state where \"your NP Strength increases (1 time, 3 turns) & apply Remove Debuff when Guts is activated\" (3 turns) & increase NP Gauge for yourself",
+      "Apply Sure Hit (5 turns) & apply a state where \"your NP Strength increases (1 time, 5 turns) each turn\" (5 turns) & increase NP Gauge each turn (5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 375,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies",
+      "Increase Critical Strength (3 turns) & reduce skill cooldown by 1 for a single ally",
+      "Apply Guts (1 time, 3 turns) & increase NP Gauge & increase ATK (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 383,
+    "skills": [
+      "Increase NP Gauge for yourself + Increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies",
+      "Apply Invincible (3 times, 3 turns) & increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself",
+      "Increase NP Strength (3 turns) & change all Command Cards to Arts type (1 turn) & apply Ignore Invincible (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 391,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & apply a [Protecting the Weak] state that \"recovers HP for all allies during normal attacks\" (3 turns) for yourself + If there are any [★3 or lower allies] on the field, increase ATK (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Increase NP Gauge for yourself + Apply Invincible (1 turn) & recover HP & reduce skill cooldown by 1 for all allies excluding yourself",
+      "Increase NP Strength (3 turns) & apply NP Change <Changes NP from AOE attack to single target> (3 turns) [Change is selectable] & apply [Super Giant] trait (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 394,
+    "skills": [
+      "Increases party's attack for 3 turns + Recovers party's HP every turn for 3 turns + Gains critical stars for 3 turns",
+      "Increases party's Arts performance for 3 turns + Increases party's Buster performance for 3 turns + Increases party's critical attack chance resistance for 3 turns + Charges own NP gauge",
+      "Transform self into Stage 3 + Charges own NP gauge + Increases own NP damage for 3 turns",
+      "Transform self into Stage 1 + Increases own NP generation rate for 3 turns + Increases own critical damage for 3 turns + Increases own critical star absorption for 3 turns + Gains critical stars"
+    ]
+  },
+  {
+    "collectionNo": 395,
+    "skills": [
+      "Increases own Buster performance for 3 turns + Increases own critical damage of Buster Cards for 3 turns",
+      "Removes own debuffs + Grants self Regeneration buff for 5 turns (Increases own critical damage (1 time, 5 turns) every turn for 5 turns.) + Gains critical stars every turn for 3 turns. ",
+      "Grants self Evasion for 3 attacks, 3 turns + Increases own critical star absorption of Buster Cards for 3 turns + Grants self Regeneration buff for 3 turns ( Increases own buff success rate by 15% <5 turns> every turn for 3 turns.)"
+    ]
+  },
+  {
+    "collectionNo": 17,
+    "skills": [
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Apply Evade (3 times) & increase DEF (3 turns) for yourself",
+      "Remove Debuffs & restore HP for yourself",
+      "Apply Guts (1 time, 5 turns) & increase ATK the less HP you have (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 71,
+    "skills": [
+      "Apply Evade (1 turn) & increase DEF (3 turns) for yourself",
+      "Greatly decrease ATK for all [Female] enemies (1 turn)",
+      "Greatly increase your C. Star Drop Rate (3 turns)",
+      "Increase Quick Card effectiveness (3 turns) ▲ & Arts Card effectiveness (3 turns) ▲ & Critical Strength (3 turns) ▲ & greatly increase C. Star Drop Rate (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 140,
+    "skills": [
+      "Increase Debuff Resist (3 turns) & greatly restore HP & DEF (1 turn) & ATK (3 turns) for yourself",
+      "Increase all allies' NP Strength (1 turn)",
+      "Gain Critical Stars with each turn (3 turns) & apply Target Focus(1 turn) for yourself",
+      "Increase NP Strength ▲ (3 turns ▲) & Buster Card effectiveness (3 turns) ▲ for all allies + Apply a state that applies \"Decrease DEF (3 turns)\" for a single enemy when damaged (5 times, 3 turns) ▲ to yourself"
+    ]
+  },
+  {
+    "collectionNo": 85,
+    "skills": [
+      "Decrease Debuff Resist (1 turn) & inflict NP Seal (1 turn) for one enemy",
+      "Increase Buster Card effectiveness (1 turn) & NP Strength (1 turn) for yourself",
+      "Increase NP Gauge & C. Star Drop Rate (3 turns) & Critical Strength (3 turns) for yourself",
+      "Increase NP Gauge ▲ & C. Star Drop Rate ▲ (3 turns) & Critical Strength ▲ (3 turns) for yourself + Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 18,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Decrease one enemy's DEF (3 turns)",
+      "Apply Guts for yourself (1 time, 4 turns) ",
+      "Increase all allies' ATK ▲ (3 turns) + increase ATK for all [Female] allies except for yourself ▲ (3 turns)",
+      "Decrease DEF (3 turns) & remove 1 Buff ▲ & inflict Skill Seal (1 turn) ▲ for all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 19,
+    "skills": [
+      "Chance to inflict Skill Seal to one enemy (1 Turn)",
+      "Apply Target Focus (1 turn) & greatly increase DEF (1 turn) for yourself",
+      "Chance to inflict NP Seal to all enemies (1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 20,
+    "skills": [
+      "Increase Critical Strength (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Apply Evade (3 times) & increase DEF (3 turns) for yourself",
+      "Apply Special Attack [Wild Beast] (3 turns) for yourself",
+      "Apply Special Attack [Wild Beast] ▲ (3 turns) & increase C. Star Gather Rate ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 143,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) & randomly increase Quick or Arts Card effectiveness (1 turn) for yourself ",
+      "Decrease Critical Rate (3 turns) & remove Evade for one enemy",
+      "Significantly restore HP & remove Debuffs for yourself",
+      "Decrease Critical Rate (3 turns) & remove Evade for one enemy + Apply Evade ▲ (1 turn) for yourself",
+      "Significantly restore HP & remove Debuffs & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 21,
+    "skills": [
+      "Apply Target Focus (1 turn) & increase NP Gain (3 turns) for yourself",
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Increase all allies' Buster Card effectiveness (3 turns)",
+      "Apply Guts (1 time, 5 turns, stackable with other Guts) ▲ & apply a state that \"increases ATK (3 turns) for all allies when Guts is activated\" (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 22,
+    "skills": [
+      "Increase Attack Debuff Resist (3 turns) & greatly restore HP for yourself",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Apply Guts (1 time, 1 turn) & increase Buster Card effectiveness (1 turn) for one ally",
+      "Increase Attack Debuff Resist (3 turns) & greatly restore HP ▲ & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 87,
+    "skills": [
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Chance to Evade incoming attacks (1 turn) & apply Target Focus (1 turn) & decrease Charm Resist from [Female] enemies (3 turns) [Demerit] for yourself",
+      "Increase your Arts Card effectiveness (1 turn)",
+      "Increase C. Star Drop Rate ▲ (3 turns) & NP Gain ▲ (3 turns) for all allies ",
+      "Chance to Evade incoming attacks (1 turn) & apply Target Focus (1 turn) & increase NP Gauge ▲ & decrease Charm Resist from [Female] enemies (3 turns) [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 88,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) & NP Strength (1 turn) for yourself",
+      "Decrease Critical Rate (3 turns) & NP Strength (1 turn) for one enemy",
+      "Increase C. Star Gather Rate (3 turns) & restore HP for one ally",
+      "Increase your NP Gauge ▲ + Decrease Critical Rate (3 turns) & NP Strength (1 turn) for a single enemy",
+      "Increase C. Star Gather Rate ▲ (3 turns) & Critical Strength ▲ (3 turns) & restore HP for one ally"
+    ]
+  },
+  {
+    "collectionNo": 70,
+    "skills": [
+      "Chance to increase Critical Strength (3 turns) & chance to increase C. Star Gather Rate (3 turns) & apply Evade (1 turn) for yourself",
+      "Increase one ally's Quick Card effectiveness (1 turn)",
+      "Apply Special Attack [Divine] (1 turn) & Special Attack [Undead] (1 turn) for yourself",
+      "Increase Quick Card effectiveness (1 turn) & increase Buff Success Rate when receiving a Buff (3 turns) ▲ & increase NP Gauge ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 186,
+    "skills": [
+      "Apply Sure Hit (3 turns) & increase C. Star Drop Rate (3 turns) for yourself",
+      "Increase Quick Card effectiveness (1 turn) & greatly increase Mental Debuff Resist (3 turns) for yourself",
+      "Inflict NP Seal (1 turn) & decrease DEF (3 turns) for one enemy"
+    ]
+  },
+  {
+    "collectionNo": 64,
+    "skills": [
+      "Increase all allies' NP Strength (1 turn)",
+      "Medium chance to inflict Stun (1 turn) & medium chance to decrease Charge for one enemy",
+      "Remove Debuffs & restore HP for yourself",
+      "Increase NP Strength ▲ (3 turns ▲) & apply Incoming Damage Cut (2 times, 3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 102,
+    "skills": [
+      "Apply Sure Hit (1 turn) & increase Critical Strength (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase C. Star Gather Rate (1 turn) for yourself",
+      "Apply Ignore Invincible (1 turn) & increase Arts Card effectiveness (1 turn) for yourself",
+      "Apply Ignore Invincible (1 turn) & increase Arts card effectiveness (1 turn) for yourself + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 78,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Increase your C. Star Gather Rate (1 turn) & increase Critical Strength (1 turn) + gain Critical Stars ",
+      "Increase all allies' ATK (3 turns)",
+      "Increase Buster Card effectiveness (3 times, 3 turns ▲) & increase NP Gauge ▲ for yourself",
+      "Increase ATK ▲ (3 turns) for all allies + Apply Special Attack [Lawful] (3 turns) ▲ & Special Attack [Good] (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 119,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Increase all allies' ATK (3 turns)",
+      "Increase NP Gauge & remove all Debuffs for yourself",
+      "Increase Buster Card effectiveness (1 turn) & apply Special Attack [Chaotic] (1 turn) ▲ & apply Special Attack [Evil] (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 128,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + Increase C. Star Drop Rate for all [Male] allies (3 turns)",
+      "Inflict Charm (1 turn) & decrease DEF (3 turns) & inflict Curse (5 turns) & increase Charge by 1 [Demerit] for one enemy ",
+      "Apply Invincible (1 turn) & increase Critical Strength, C. Star Drop Rate, NP Gain, Debuff Resist, and HP Recovery Amount (1 turn) & inflict Stun after 1 turn [Demerit] for yourself ",
+      "Apply Invincible (1 turn) & increase Critical Strength (3 turns ▲) & C. Star Drop Rate (3 turns ▲) & NP Gain (1 turn) & Debuff Resist (1 turn) & HP Recovery amount (1 turn) & NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 134,
+    "skills": [
+      "Decrease Critical Rate (3 turns) for all enemies",
+      "Increase your Buster Card effectiveness (3 turns)",
+      "Decrease DEF (3 turns) + increase ATK (3 turns) [Demerit] for one enemy",
+      "Decrease Critical Rate (3 turns) & inflict Burn (5 turns) ▲ to all enemies + Increase NP Gauge ▲ & apply a state that \"inflicts Spreading Fire (increase Burn damage) to target when attacking (5 turns)\" (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 141,
+    "skills": [
+      "Greatly restore HP & increase C. Star Drop Rate (3 turns) for one ally",
+      "Increase NP Gauge & Debuff Resist (3 turns) for yourself",
+      "Increase Buster Card effectiveness (1 turn) & apply Invincible (1 turn) & decrease HP [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 146,
+    "skills": [
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Increase your ATK (1 turn)",
+      "Apply Guts (1 time, 3 turns) & Invincible (1 time) for yourself",
+      "Chance ▲ to inflict Charm to one enemy of [Opposite Gender] (1 turn) + Decrease Quick Card Resistance (3 turns) ▲ for one enemy",
+      "Apply Guts (1 time, 3 turns) & Invincible (1 time) & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 148,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & increase Mental Debuff Resist (3 turns) & apply Evade (2 times) for yourself + Gain a large amount of C. Stars ",
+      "Increase your ATK (2 turns)",
+      "Increase Critical Strength (3 turns) for yourself + only when on a [Forest] field, increase C. Star Drop Rate (3 turns) & C. Star Gather Rate (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 turns) & increase Mental Debuff Resist (3 turns) & apply Evade (2 times) & apply \"Change field to [Forest]\" status (3 turns) ▲ for yourself + Gain a large amount of C. Stars ▲ "
+    ]
+  },
+  {
+    "collectionNo": 181,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) for yourself",
+      "Increase Buster Card effectiveness (3 turns) & remove Debuffs for one ally",
+      "Increase ATK (3 turns) & C. Star Drop Rate (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 183,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & NP Gain (3 turns) for yourself",
+      "Increase ATK (1 turn) & DEF (1 turn) & C. Star Drop Rate (1 turn) & Debuff Resist (1 turn) for yourself ",
+      "[Usable only when your NP Gauge is 10% or higher] Decrease NP Gauge [Demerit] for yourself + Increase NP Gauge & restore HP for one ally"
+    ]
+  },
+  {
+    "collectionNo": 193,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself",
+      "Apply Guts (1 time, 5 turns) & increase NP Gauge for yourself ",
+      "Increase C. Star Gather Rate (1 turn) & remove Debuffs for yourself",
+      "Increase C. Star Gather Rate (1 turn) & apply Special Attack [Demonic] (3 turns) ▲ & apply Special Defense [Demonic] (3 turns) ▲ & remove Debuffs for yourself + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 196,
+    "skills": [
+      "Chance to apply Debuff Immune (1 turn) & chance to apply Death Immune (1 turn) & chance to increase Buff Removal Resist (1 turn) & apply Invincible (1 turn) for yourself",
+      "Increase Buster Card effectiveness (1 turn) & NP Gauge for yourself",
+      "Apply [Blessing of Kur] <Enables target to receive additional effects from the Noble Phantasm \"Kur Ki Gal Irkalla\"> (3 turns) & increase DEF (3 turns) & increase NP Gain (3 turns) & increase MAX HP for all allies"
+    ]
+  },
+  {
+    "collectionNo": 214,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & increase NP Strength (3 turns) for yourself",
+      "Apply Evade (1 time, 3 turns) & apply Debuff Immune (1 time, 3 turns) & apply Incoming Damage Cut (3 times, 3 turns) for yourself",
+      "Increase NP Gauge each turn (3 turns) & restore HP each turn (3 turns) & gain C. Stars each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 217,
+    "skills": [
+      "Increase ATK for all allies (3 turns) + Increase NP Strength (3 turns) & NP Gain (3 turns) for yourself",
+      "Remove Debuffs & increase Max HP (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) & chance to increase Debuff Resist (1 turn) or decrease Debuff Resist (1 turn) [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 228,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & apply Debuff Immune (3 times, 3 turns) & increase Buff Removal Resist (3 times, 3 turns) for yourself",
+      "Apply Guts (2 times, 3 turns) & increase NP Gauge for yourself",
+      "Apply Guts (2 times, 5 turns ▲) & increase NP Gauge ▲ & gain C. Stars each turn (5 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 232,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & increase DEF (3 turns) for yourself",
+      "Increase NP Gauge & remove Debuffs for a single ally",
+      "Increase NP Gauge ▲ & remove Debuffs for one ally + Apply Special Attack [Enemies with the Earth Attribute] (3 turns) ▲ & increase NP Gain (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 252,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) & increase C. Star Gather Rate (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase NP Gain (1 turn) for yourself",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & C. Star Drop Rate (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 256,
+    "skills": [
+      "Apply Guts for yourself (1 time, 3 turns) ",
+      "Increase NP Gauge & apply \"increase your ATK when damaged (1 time, 5 turns)\" state (3 turns) for yourself",
+      "Apply Target Focus (1 turn) & greatly increase DEF (1 turn) & increase NP Gain (1 turn) for yourself",
+      "Apply Guts (1 time, 3 turns) ▲ & increase Critical Strength (3 turns) ▲ for yourself + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 266,
+    "skills": [
+      "Increase Arts Card effectiveness (5 turns) for yourself",
+      "Apply Invincible (1 turn) & Buff Removal Resist (1 turn) & \"Change field to [Near Water]\" status (3 turns) for yourself",
+      "Absorb NP from all allies, excluding yourself + Increase C. Star Gather Rate  (1 turn) & increase ATK (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 279,
+    "skills": [
+      "Increase ATK (2 turns) for yourself",
+      "Apply a state where you \"increase your ATK for normal attacks before inflicting damage through normal attacks (1 turn) + Decrease ATK (1 turn) of a single enemy\" (3 times, 3 turns)",
+      "Apply Incoming Damage Cut (3 times, 3 turns) & apply Guts (1 time, 3 turns) for yourself",
+      "Apply a state where you \"increase your ATK for normal attacks before inflicting damage through normal attacks (1 turn) + Decrease ATK (1 turn) of a single enemy\" (3 times, 3 turns) & gain C. Stars each turn (3 turns) ▲ & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 280,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies + Increase Critical Strength (3 turns) of all [Roman] allies + Apply [Roman] trait to all enemies (5 turns)",
+      "Apply Invincible (2 times, 3 turns) & increase NP Gauge for yourself + Gain C. Stars",
+      "Increase Buster Card effectiveness (3 turns) & C. Star Gather Rate (1 turn) & apply a state that \"applies [Roman] trait (5 turns) to a single enemy during Critical attacks\" for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 283,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & apply Evade (2 times, 3 turns) for yourself ",
+      "Apply Sure Hit (1 turn) & increase C. Star Gather Rate (1 turn) for yourself",
+      "Increase Death Success Rate (3 turns) & Critical Strength (3 turns) & apply Special Attack [Servant] (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 288,
+    "skills": [
+      "Apply Guts (1 time, 5 turns) & increase NP Gain (3 turns) & increase NP Gain only when on a [Near Water] field (3 turns) & increase NP Gain only when on a [Sunlight] field (3 turns) for yourself",
+      "Increase NP Gauge for a single ally + Apply Target Focus (1 turn) for yourself",
+      "Increase Quick Card effectiveness (3 turns) for yourself + Increase Critical Strength (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 300,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & increase Arts Card C. Star Gather Rate (1 turn) for yourself",
+      "Apply Special Attack [Divine] (3 turns) for all allies + Increase your NP Gauge ",
+      "Apply Guts (1 time, 5 turns) & apply a state to increase NP Gauge each turn (5 turns) for yourself + Increase NP Strength (1 time, 5 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 313,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & increase NP Gauge for yourself + Increase NP Strength (3 turns) for all allies",
+      "Apply Target Focus (3 turns) & increase the amount of NP gained when damaged (3 turns) for yourself",
+      "Apply Invincible (1 turn) & restore HP to a single ally"
+    ]
+  },
+  {
+    "collectionNo": 312,
+    "skills": [
+      "Increase ATK (3 turns) & apply Incoming Damage Cut (3 turns) & increase MAX HP (3 turns) & increase NP Gauge for yourself",
+      "Increase C. Star Gather Rate (3 turns) & gain C. Stars per turn (3 turns) for yourself + Gain C. Stars ",
+      "[1st and 2nd Ascension Form]\nTurn to 3rd Ascension form to Interchange Noble Phantasm & significantly increase NP Gauge & apply Invincible (1 turn) for yourself\n\n[3rd Ascension Form]\nIncrease NP Strength (3 turns) & apply Invincible (1 turn) for yourself",
+      "[1st and 2nd Ascension Form]\nTurn to 3rd Ascension form to Interchange Noble Phantasm & significantly increase NP Gauge & apply Invincible (1 turn) for yourself\n\n[3rd Ascension Form]\nIncrease NP Strength (3 turns) & apply Invincible (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 341,
+    "skills": [
+      "Increase ATK (3 turns) & Arts Card effectiveness (3 turns) & slightly increase NP Gain (3 turns) for all [Female] allies",
+      "Gain a large amount of C. Stars + Decrease your HP by 500 [Demerit]",
+      "Decrease Charge for all enemies + Slightly increase NP Gauge & increase Critical Strength (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 329,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Critical Strength (3 turns) & increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies",
+      "Increase NP Gauge & apply Debuff Immune (3 turns) & increase Buff Removal Resist (3 turns) for yourself",
+      "Increase Arts Card (3 turns) & Buster Card effectiveness (3 turns) & gain C. Stars each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 347,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply Guts (1 time, 3 turns) to yourself",
+      "Increase ATK (3 turns) & NP Gauge each turn (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "[Usable only when your NP Gauge is 30% or higher] Set your NP Gauge to 0% [Demerit] + Increase NP Gauge for all allies excluding yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 368,
+    "skills": [
+      "Apply Invincible (2 times, 3 turns) & increase NP Gain (3 turns) & Critical Resistance (3 turns) for yourself",
+      "Gain C. Stars + Gain C. Stars each turn (3 turns) & apply Debuff Immune (3 turns) & increase Critical Strength (3 turns) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 381,
+    "skills": [
+      "Apply Guts (1 time, 3 turns) & increase NP Gauge & remove Debuffs for yourself",
+      "Increase Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself + Gain C. Stars ",
+      "Increase ATK (3 turns) & apply \"a state that increases Critical Strength (3 turns) for yourself before dealing Quick Card damage\" (3 turns) & \"a state that gains C. Stars during Buster attacks\" (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 23,
+    "skills": [
+      "Chance to immobilize a single enemy (1 turn)",
+      "Increase your ATK (2 turns)",
+      "Increase NP Gauge & NP Gain (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 108,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Increase all allies' NP Strength (1 turn)",
+      "Increase Buster Card effectiveness (1 turn) & C. Star Drop Rate (1 turn) for yourself",
+      "Increase NP Strength ▲ (3 turns ▲) & Critical Strength (3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 65,
+    "skills": [
+      "Increase NP Strength (1 turn) & ATK (1 turn) for all allies",
+      "Increase your NP Gain (3 turns)",
+      "Increase your NP Gauge & apply Ignore Invincible (3 turns) + gain Critical Stars",
+      "Increase NP Gain (3 turns) & increase Buster Card effectiveness (3 turns) ▲ & apply Ignore DEF (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 94,
+    "skills": [
+      "Increase your ATK (1 turn)",
+      "Chance to inflict Stun to one enemy (1 turn)",
+      "Chance to gain C. Stars each turn (3 turns) + chance to increase C. Star Drop Rate (3 turns) & chance to increase Critical Strength (3 turns) for yourself",
+      "Chance to gain C. Stars each turn (5 turns) ▲ & chance to increase C. Star Drop Rate (5 turns) ▲ & chance to increase Critical Strength (5 turns) ▲ & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 24,
+    "skills": [
+      "Apply Target Focus (3 turns) & increase DEF (3 turns) for yourself",
+      "Greatly increase Mental Debuff Resist (3 turns) & restore HP to yourself",
+      "Apply Guts for yourself (1 time, 5 turns) "
+    ]
+  },
+  {
+    "collectionNo": 25,
+    "skills": [
+      "Increase NP Strength (1 turn) & ATK (1 turn) for all allies",
+      "Increase ATK (3 turns) & apply Guts (1 time) & decrease Debuff Resist (3 turns) [Demerit] for yourself  ",
+      "Restore all allies' HP + except yourself, restore HP for all [Female] allies "
+    ]
+  },
+  {
+    "collectionNo": 66,
+    "skills": [
+      "Greatly increase your C. Star Drop Rate (3 turns)",
+      "Increase your Critical Strength (1 turn)",
+      "Increase ATK (1 turn) & C. Star Gather Rate (1 turn) for yourself",
+      "Apply Guts (1 time, 3 turns) ▲ & Target Focus (1 turn) ▲ & increase NP Gain (3 turns) ▲ & greatly increase C. Star Drop Rate (3 turns) for yourself",
+      "Increase Critical Strength (1 turn) for yourself + Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 26,
+    "skills": [
+      "Apply [Roman] Special Attack for yourself (3 turns)",
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Increase all allies' Arts Card effectiveness (3 turns)",
+      "Apply [Roman] Special Attack ▲ (3 turns) & increase Critical Strength (3 turns) ▲ for all allies",
+      "Apply Guts (1 time, 5 turns) & increase Max HP (5 turns) ▲ for one ally ▲"
+    ]
+  },
+  {
+    "collectionNo": 118,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Increase NP Gauge & Buff Success Rate (1 turn) for all allies",
+      "Increase ATK ▲ (3 turns) for all allies + \"Gain C. Stars each turn (3 turns) for yourself + Increase Critical Strength (3 turns) for all allies\" ▲ when on a [Sunlight] field"
+    ]
+  },
+  {
+    "collectionNo": 99,
+    "skills": [
+      "Apply Debuff Immune (3 turns) & restore HP each turn (3 turns) & increase NP Gauge each turn (3 turns) for yourself",
+      "Increase all allies' ATK (3 turns)",
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Apply Debuff Immune (3 turns) & restore HP each turn (3 turns) & increase NP Gauge each turn (3 turns) for yourself + Increase NP Gauge for all [Male] or [Fae] allies ▲",
+      "Increase ATK ▲ (3 turns) for all allies + Increase ATK ▲ (3 turns) for all [Male] allies + Restore HP ▲ for yourself",
+      "Chance to inflict Charm (1 turn) to one enemy of [Opposite Gender] & decrease DEF (1 turn) for one enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 27,
+    "skills": [
+      "Increase all allies' NP Gain (3 turns)",
+      "Increase all allies' ATK (3 turns)",
+      "Apply Evade (1 turn) & increase C. Star Drop Rate (1 turn) for yourself",
+      "Increase NP Gain for all allies (3 turns) + Increase your Quick Card effectiveness (3 turns) ▲",
+      "Increase ATK ▲ (3 turns) for all allies + Increase Critical Strength (3 turns) ▲ for yourself + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 28,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Chance to inflict Charm to one [Humanoid] enemy (1 turn)",
+      "Increase all allies' Quick Card effectiveness (3 turns)",
+      "Chance ▲ to inflict Charm to one [Humanoid] enemy (1 turn) + Remove Buffs ▲ for one enemy"
+    ]
+  },
+  {
+    "collectionNo": 29,
+    "skills": [
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Apply Invincible (3 times) & restore HP per turn (5 turns) for yourself",
+      "Increase Mental Debuff Success Rate (3 turns) & greatly restore HP for yourself",
+      "Chance to inflict Charm to one enemy ▲ (1 turn) + Increase ATK (3 turns) ▲ for all allies "
+    ]
+  },
+  {
+    "collectionNo": 144,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Apply Guts (1 time, 3 turns) & increase Buster Card effectiveness (3 turns) for one ally",
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) & NP Gauge for yourself",
+      "Increase ATK (3 turns) for all allies + Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 30,
+    "skills": [
+      "Increase Debuff Resist (3 turns) & greatly restore HP for yourself",
+      "Restore HP & Remove Debuffs for all allies",
+      "Remove Buffs & decrease DEF (3 turns) for one enemy",
+      "Restore HP ▲ & remove Debuffs for all allies"
+    ]
+  },
+  {
+    "collectionNo": 73,
+    "skills": [
+      "Greatly restore HP & increase C. Star Drop Rate (3 turns) for one ally",
+      "Gain a large amount of Critical Stars ",
+      "Increase your Buster Card effectiveness (1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 115,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & C. Star Drop Rate (3 turns) for yourself",
+      "Increase your NP Gauge ",
+      "Increase Attack Debuff Resist (3 turns) & greatly restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 132,
+    "skills": [
+      "Increase your Arts Card effectiveness (3 turns)",
+      "Apply Evade (1 turn) & increase C. Star Drop Rate (1 turn) for yourself",
+      "Apply Guts (1 time, 3 turns) & increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 172,
+    "skills": [
+      "Increase NP Strength (1 turn) & ATK (1 turn) for all allies",
+      "Apply Guts (1 time, 3 turns) & increase NP Gauge for yourself ",
+      "Increase Buster Card effectiveness (3 turns) & gain C. Stars for yourself"
+    ]
+  },
+  {
+    "collectionNo": 182,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & NP Gain (3 turns) for all allies",
+      "Apply Evade (1 time) & increase Critical Strength (1 turn) for yourself",
+      "Apply Invincible (1 time) & increase Critical Strength, C. Star Drop Rate, NP Gain, Debuff Resist, and HP Recovery Amount (1 turn) & inflict Stun after 1 turn [Demerit] to yourself "
+    ]
+  },
+  {
+    "collectionNo": 179,
+    "skills": [
+      "Increase ATK (3 turns) for yourself + increase Quick Card effectiveness (3 turns) for all allies",
+      "Reduce skill cooldown by 1 & increase C. Star drop rate (3 turns) & decrease HP [Demerit] for one ally",
+      "Increase your Quick Card effectiveness (1 time, 3 turns)",
+      "Reduce skill cooldown by 1 & increase C. Star drop rate (3 turns) & decrease HP [Demerit] & increase Max HP after 1 turn (5 turns) ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 205,
+    "skills": [
+      "Increase NP Gain (3 turns) & remove Debuffs for yourself",
+      "Gain C. Stars each turn (3 turns) & increase Buster Card effectiveness (3 turns) for yourself ",
+      "Apply Invincible (1 turn) to yourself + decrease ATK (3 turns) & remove Buffs for all enemies",
+      "Increase NP Gain (3 turns) & NP Gauge ▲ & apply Special Attack [Lawful] (3 turns) ▲ & Special Attack [Chaotic] (3 turns) ▲ & remove debuffs for yourself"
+    ]
+  },
+  {
+    "collectionNo": 206,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself",
+      "Apply Invincible (2 times, 5 turns) & increase DEF (3 turns) for yourself ",
+      "Apply Target Focus (1 turn) & increase NP Gain (1 turn) & increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 211,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Slightly increase NP Gauge & increase Debuff Resist (3 turns) for all allies ",
+      "Increase Arts Card effectiveness (3 turns) + gain C. Stars for all allies"
+    ]
+  },
+  {
+    "collectionNo": 231,
+    "skills": [
+      "Increase Quick Card effectiveness (3 times, 5 turns) & C. Star Drop Rate (3 times, 5 turns) for yourself",
+      "Chance to increase C. Star Gather Rate (1 turn) & chance to apply Ignore Invincible (1 turn) & apply Evade (1 turn) for yourself",
+      "Increase Critical Strength (3 times, 5 turns) & ATK (3 times, 5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 241,
+    "skills": [
+      "Increase DEF (3 turns) & apply Incoming Damage Cut (3 turns) & slightly increase NP Gauge for all allies",
+      "Increase NP Gauge & ATK (3 turns) for one ally + Decrease your ATK (3 turns) [Demerit]",
+      "Apply Invincible (2 times, 3 turns) & increase Debuff Resist (3 turns) for one ally",
+      "Apply Invincible (2 times, 3 turns) & increase Debuff Resist (3 turns) & increase NP Gauge ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 257,
+    "skills": [
+      "Increase NP Strength (1 turn) & ATK (1 turn) for all allies",
+      "Decrease C. Star Gather Rate (3 turns) for yourself + Increase Critical Strength (3 turns) for all allies",
+      "Increase Quick Card effectiveness (3 turns) for yourself + Decrease Critical Rate (3 turns) for all enemies + Gain C. Stars ",
+      "Decrease C. Star Gather Rate (3 turns) for yourself + Increase Critical Strength ▲ (3 turns) & slightly increase NP Gauge ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 253,
+    "skills": [
+      "Apply Debuff Immune (3 turns) & restore HP per turn (3 turns) & increase NP Gauge per turn (3 turns) for yourself",
+      "Apply Evade (1 time) & increase Critical Strength (1 turn) for yourself",
+      "Increase NP Strength (3 turns) & slightly increase NP Gauge & increase NP Charge by 1 level when using NP (1 turn) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 263,
+    "skills": [
+      "Chance to inflict Skill Seal (1 Turn) & decrease DEF against Critical Attacks (3 turns) to one enemy + Gain C. Stars ",
+      "Apply a [Calling Card] state where \"Decrease your Charge + Increase NP Gauge for all calling card sender's parties (1 time) after 1 turn\" & decrease Critical Rate (3 turns) to one enemy",
+      "Absorb HP & decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 296,
+    "skills": [
+      "Increase NP Strength (1 turn) & ATK (1 turn) & increase ATK only when on [Near Water] or [Void Space] fields (3 turns) for all allies",
+      "Apply Guts (1 time, 5 turns) & increase NP Gauge for yourself & increase your NP Gauge when Guts is activated (1 time, 5 turns)",
+      "Increase Arts Card effectiveness (3 turns) & increase Arts Card effectiveness (3 turns) when on a [Near Water] or [Void Space] field for all allies + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 277,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) for all allies + Apply Target Focus on all allies other than the one selected ally (3 turns)",
+      "Increase NP Gauge & greatly increase C. Star Gather Rate (1 turn) & apply Charm Immune (5 turns) for yourself",
+      "Apply Invincible (1 turn) & increase Buff Removal Resist (1 turn) & DEF (3 turns) for yourself "
+    ]
+  },
+  {
+    "collectionNo": 273,
+    "skills": [
+      "Increase DEF (3 turns) for yourself + Increase ATK (3 turns) for all allies ",
+      "<Usable only if HP is 50% or less> Increase ATK (1 time, 1 turn) & increase Critical Strength (1 time, 1 turn) & apply status \"Remove DEF Buffs for a single enemy when attacking + Apply Death to yourself [Demerit] (1 turn) <Treated as Buff>\" to yourself",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & apply Target Focus (1 turn) for yourself",
+      "<Usable only if HP is 50% or less> Increase ATK (1 turn ▲) & increase Critical Strength (1 turn ▲) & apply status \"Remove DEF Buffs for a single enemy when attacking + Apply a state that applies Death to yourself at the end of the turn <Treated as Buff> [Demerit] ▲\" (1 turn) <Treated as Buff> to yourself"
+    ]
+  },
+  {
+    "collectionNo": 274,
+    "skills": [
+      "Apply Invincible (3 times) & greatly increase Debuff Resist (3 times) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & increase NP Gauge for yourself",
+      "Chance to inflict Charm (1 turn) & decrease DEF (3 turns) & decrease Critical Rate (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 291,
+    "skills": [
+      "Chance to inflict NP Seal (1 turn) & decrease DEF (3 turns) for a single enemy",
+      "Decrease Debuff Resist (1 turn) & inflict Skill Seal (1 turn) & decrease Art ATK resist (1 turn) for a single enemy",
+      "Increase NP Gauge each turn (3 turns) for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 315,
+    "skills": [
+      "Restore HP & apply Debuff Immune (1 turn) & increase C. Star Drop Rate (1 turn) for one ally",
+      "Increase Arts Card effectiveness (3 turns) & greatly increase NP Gauge & decrease HP by 2000 [Demerit] for yourself",
+      "Apply a state that \"applies Invincible (1 turn) & Guts (1 time, 5 turns) & HP Recovery per turn (5 turns) & remove Poison, Curse, Burn\" to a single (Female) ally + Apply a state that \"inflicts Death at the end of the turn\" <treated as Buff> for yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 331,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & ATK Strength (3 turns) & NP Strength (3 turns) for all allies",
+      "Inflict Skill Seal (1 turn) to all enemies + Apply Special Attack [Divine] (3 turns) & Special Attack [Demonic] (3 turns) for yourself",
+      "Increase NP Gauge for yourself + Increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 332,
+    "skills": [
+      "Apply Guts (1 time, 3 turns) & Debuff Immune (1 time, 3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Increase Arts Card (3 turns) & Buster Card effectiveness (3 turns) & apply Special Attack [Dragon] (3 turns) for yourself",
+      "Increase NP Gauge for yourself + Increase Critical Strength (3 turns) & apply Special Attack [Dragon] (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 322,
+    "skills": [
+      "Increase ATK (3 turns) for all allies + Increase Critical Strength for all [Male/Unknown Gender] allies (3 turns)",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself + Gain C. Stars ",
+      "Apply Guts (1 time, 3 turns) & gain C. Stars (3 turns) each turn & increase C. Star Gather Rate only when on a [Near Water] field (3 turns) & gain C. Stars each turn only when on a [Near Water] field (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 326,
+    "skills": [
+      "Apply Invincible (3 times, 3 turns) & increase NP Gain (3 turns) & apply Poison (3 turns) [Demerit] to yourself",
+      "Increase Buster Card effectiveness (3 turns) for yourself & apply Special Attack [Wild Beast] (3 turns) & decrease DEF (3 turns) [Demerit] for yourself",
+      "Gain a large amount of C. Stars + Increase NP Gauge & apply Skill Seal (1 turn) [Demerit] to yourself"
+    ]
+  },
+  {
+    "collectionNo": 342,
+    "skills": [
+      "Increase NP Gain (1 turn) & apply Target Focus (1 turn) for yourself + Gain C. Stars ",
+      "Increase ATK (3 turns) & Buster Card effectiveness (3 turns) for all allies + Increase Critical Strength (3 turns) of all [Roman] allies",
+      "Increase NP Gauge & Critical Strength (3 turns) & gain C. Stars each turn (3 turns) & apply \"Increase NP Gauge & Critical Strength (3 turns) & gain C. Stars each turn (3 turns) for one ally in the back excluding yourself when you are defeated\" (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 349,
+    "skills": [
+      "Increase NP Gauge for yourself + Slightly increase NP Gauge for all allies excluding yourself + Gain C. Stars ",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (3 turns) & NP Strength (3 turns) & restore HP & apply Evade (1 time, 3 turns) & Debuff Immune (1 time, 3 turns) for a single ally",
+      "Increase Arts Card effectiveness (3 turns) & apply a state where \"all allies' ATK slightly increases (3 turns) when attacking with Arts Card\" (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 366,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for all allies + Apply [Governing Prince Wucheng] <Change from [Chaotic] to [Lawful]> (3 turns) for yourself",
+      "Apply NP Gain each turn (3 turns) & Guts (1 time, 3 turns) & increase Critical Strength when [Lawful] (3 turns) & increase NP Gain when [Chaotic] (3 turns) for yourself",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & gain C. Stars each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 387,
+    "skills": [
+      "Increase ATK (3 turns) for all allies + Increase NP Strength (3 turns) for all [Summer Mode Servant] allies + Gain C. Stars ",
+      "Increase Quick Card effectiveness (3 turns) & Critical Strength (3 turns) & apply a state that \"increases ATK (3 turns) for yourself before damage from Critical attacks\" (3 turns) for yourself",
+      "Increase NP Gain (3 turns) & reduce skill cooldown by 1 for a single ally + Increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 31,
+    "skills": [
+      "Significantly increase your NP Gauge ",
+      "Admire the fleece and restore HP ",
+      "Remove Debuffs & increase NP Gain (1 turn) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 32,
+    "skills": [
+      "Increase Mental Debuff Success Rate (3 turns) & Mental Debuff Resist (3 turns) for yourself",
+      "Decrease NP Strength for one [Servant] enemy (1 turn)",
+      "Inflict Fear on all enemies (5 turns)",
+      "Decrease NP Strength ▲ (1 turn) & Arts Card Resistance (3 turns) ▲ & Buster Card Resistance (3 turns) ▲ for all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 62,
+    "skills": [
+      "High chance to decrease one enemy's Charge",
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) for yourself",
+      "Increase one ally's Arts Card effectiveness (3 turns)",
+      "High chance to decrease a single enemy's Charge + Increase NP Strength for all allies except yourself (3 turns) ▲",
+      "Increase Arts Card effectiveness (3 turns) & restore HP ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 74,
+    "skills": [
+      "Increase Critical Strength (3 turns) & increase C. Star Gather Rate (3 turns) for yourself",
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Increase NP Gauge & restore HP & remove all Debuffs for yourself"
+    ]
+  },
+  {
+    "collectionNo": 33,
+    "skills": [
+      "Increase all allies' Critical Strength (3 turns)",
+      "Greatly increase your NP Gauge ",
+      "Gain C. Stars each turn (3 turns) & decrease DEF [Demerit] for yourself",
+      "Increase Critical Strength ▲ (3 turns) for all allies + Increase C. Star Drop Rate (3 turns) for all [Good] allies ▲ + Increase NP Gain (3 turns) for all [Balanced] allies ▲ + Increase NP Strength (3 turns) for all [Evil] allies ▲ + Increase Critical Strength (3 turns) for all allies who are not [Good, Balanced, or Evil] ▲",
+      "Gain C. Stars each turn ▲ (3 turns) & increase NP Gauge each turn (3 turns) ▲ for a single ally"
+    ]
+  },
+  {
+    "collectionNo": 34,
+    "skills": [
+      "Increase Buster Card effectiveness for all allies (1 turn)",
+      "Apply Invincible (1 turn) & restore HP for yourself",
+      "Increase NP Gauge & C. Star Drop Rate (1 turn) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 150,
+    "skills": [
+      "Increase ATK (3 turns) & NP Gauge for all allies",
+      "Apply Invincible (1 turn) & increase C. Star Drop Rate (1 turn) for all allies + Decrease Critical Rate for all enemies (3 turns)",
+      "Increase Buster Card effectiveness (3 turns) & Max HP (3 turns) & Critical Strength (1 turn) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 127,
+    "skills": [
+      "Chance to increase DEF (3 turns) & chance to increase NP Strength (1 turn) & apply Guts (1 time, 3 turns) for yourself",
+      "Apply Debuff Immune (2 turns) & restore HP per turn (3 turns) & increase NP Gauge per turn (3 turns) for yourself",
+      "Increase your NP Gauge & apply Ignore Invincible (3 turns) + gain Critical Stars",
+      "Increase NP Charge by 2 levels when using NP (1 time, 3 turns) ▲ & increase DEF (3 turns) ▲ & increase NP Strength (3 turns) ▲ & apply Guts (1 time, 3 turns) ▲ for one ally",
+      "Apply Debuff Immune (2 turns) & restore HP per turn (3 turns) & increase NP Gauge per turn (3 turns) for yourself + Increase Arts Card effectiveness (3 turns) for all allies ▲"
+    ]
+  },
+  {
+    "collectionNo": 79,
+    "skills": [
+      "Greatly increase your NP Gauge ",
+      "Increase all allies' Arts Card effectiveness (3 turns)",
+      "Apply Guts to one ally (1 time, 3 turns) ",
+      "Apply Guts (1 time, 3 turns) & increase NP Gain (3 turns) ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 80,
+    "skills": [
+      "Increase NP Gain (3 turns) & C. Star Gather Rate (1 turn) for yourself",
+      "Increase ATK (1 turn) & apply Invincible (1 turn) for yourself",
+      "Greatly increase NP Strength (1 turn) & inflict Burn (5 turns) [Demerit] for yourself",
+      "Increase ATK (3 turns) ▲ & apply Invincible (1 turn) for yourself",
+      "Greatly increase NP Strength (3 turns ▲) & increase Critical Strength (1 turn) ▲ & apply Burn (5 turns) [Demerit] for yourself + Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 120,
+    "skills": [
+      "Increase Death Success Rate (3 turns) & restore HP for yourself",
+      "Significantly increase your NP Gauge ",
+      "Apply Guts (1 time, 3 turns) & remove Debuffs for yourself",
+      "Increase Death Success Rate (3 turns) & increase Arts Card effectiveness (3 turns) ▲ for yourself + Restore all allies' ▲ HP "
+    ]
+  },
+  {
+    "collectionNo": 35,
+    "skills": [
+      "Medium chance to decrease one enemy's Charge",
+      "Gain C. Stars each turn (3 turns) & decrease DEF [Demerit] for yourself",
+      "Inflict Nullify Buff (3 times) & Curse (5 turns) on one enemy",
+      "Gain C. Stars each turn (3 turns) & increase ATK (3 turns) ▲ for yourself + Decrease HP Recovery amount (3 turns) for all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 36,
+    "skills": [
+      "Increase all allies' Arts Card effectiveness (1 turn)",
+      "Decrease NP Strength for one [Servant] enemy (1 turn)",
+      "Gain a large amount of Critical Stars ",
+      "Decrease NP Strength (1 turn) & Arts ATK Resist (3 turns) ▲ & decrease Critical Rate (3 turns) ▲ for a single enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 104,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Increase your Arts Card effectiveness (1 turn)",
+      "Increase your Quick Card effectiveness (1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 67,
+    "skills": [
+      "Significantly increase your NP Gauge ",
+      "Remove Poison & restore HP for all allies",
+      "Increase one ally's HP Recovery amount (1 turn)",
+      "Remove Poison & restore HP ▲ for all allies",
+      "Increase HP Recovery amount (1 turn) & Buff Removal Resist (3 turns) ▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 145,
+    "skills": [
+      "Greatly increase all allies' C. Star Drop Rate (3 turns)",
+      "Increase all allies' ATK (3 turns)",
+      "Increase Arts Card effectiveness (3 turns) & Debuff Success Rate (3 turns) for all allies",
+      "Increase NP Gauge ▲ for yourself + Greatly increase C. Star Drop Rate (3 turns) & increase NP Gauge ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 37,
+    "skills": [
+      "Increase Critical Strength (3 turns) & NP Gauge for one ally",
+      "Increase DEF (3 turns) & apply Incoming Damage Cut (3 turns) & slightly increase NP Gauge for all allies",
+      "Increase ATK (3 turns) & apply Damage Plus (3 turns) & slightly increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 111,
+    "skills": [
+      "Increase your Healing effectiveness (1 turn)",
+      "Apply Invincible (1 turn) & increase NP Gain (3 turns) for yourself",
+      "Restore HP for one ally ",
+      "Increase Healing effectiveness (3 turns) ▲ & increase NP Gauge ▲ for yourself + Increase NP Strength for all allies excluding yourself (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 38,
+    "skills": [
+      "Increase Critical Strength (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Apply Evade (3 times) & increase DEF (3 turns) for yourself",
+      "Remove Debuffs & restore HP for yourself",
+      "Increase Critical Strength (3 turns) & Debuff Resist (3 turns) & NP Gauge ▲ for yourself",
+      "Remove Debuffs & restore HP & increase ATK (3 turns) ▲ & apply (Sacrifice to the World Tree) state <that applies Guts (1 time) & significantly increase NP Gauge when Guts is activated (1 time) for yourself & offer yourself as sacrifice [Demerit]> ▲"
+    ]
+  },
+  {
+    "collectionNo": 113,
+    "skills": [
+      "Greatly increase NP Gauge & increase NP Strength (1 turn) for yourself",
+      "Apply Target Focus (1 turn) & Damage Cut (1 turn) for yourself",
+      "Increase NP Gain (3 turns) & C. Star Drop Rate (3 turns) & apply Debuff Immune (1 turn) for all allies",
+      "Apply Target Focus (1 turn) & apply Incoming Damage Cut (1 turn) for yourself + Increase ATK (3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 100,
+    "skills": [
+      "Increase all allies' NP Gauge ",
+      "Gain C. Stars each turn (5 turns) & chance to increase NP Strength (1 turn) for yourself",
+      "Increase Quick (3 turns) & Arts (3 turns) & Buster (3 turns) Card effectiveness for all allies",
+      "Gain C. Stars each turn (5 turns) & chance to increase NP Strength (1 turn) & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 103,
+    "skills": [
+      "Increase your DEF (3 turns)",
+      "Gain C. Stars per turn (5 turns) & increase NP Gauge per turn (5 turns) for yourself",
+      "Increase Overcharge level by 2 when using Noble Phantasm (1 turn) & increase C. Star Drop Rate (1 turn) for one ally",
+      "Increase DEF ▲ (3 turns) & reduce skill cooldown by 1 ▲ for a single ally",
+      "Gain C. Stars each turn (5 turns) for yourself + Increase NP Gauge each turn (5 turns) & NP Strength (5 turns) ▲ for all allies ▲"
+    ]
+  },
+  {
+    "collectionNo": 61,
+    "skills": [
+      "Gain Critical Stars each turn (3 turns) & restore HP for yourself",
+      "Increase your Buster Card effectiveness (1 turn) + apply Burn to all enemies (10 turns)",
+      "Apply Guts (1 time, 5 turns) + Gain C. Stars for yourself",
+      "Gain C. Stars each turn ▲ (3 turns) & restore HP ▲ + Remove 1 Buff ▲ for all enemies & when removal is successful, apply [Happy Halloween] <a special Decrease Critical Rate state> to target (3 turns) ▲ + Increase NP Gauge for yourself according to the number of enemies in [Happy Halloween] state ▲",
+      "Apply Guts (1 time, 5 turns) & Increase NP Gauge ▲ for yourself + Gain C. Stars + Inflict Spreading Fire (increase Burn damage) (5 turns) ▲ to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 130,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + Increase C. Star Drop Rate for all [Male] allies (3 turns)",
+      "Gain C. Stars each turn (3 turns) & restore HP each turn (3 turns) for yourself",
+      "Apply Invincible (3 times) & increase Debuff Resist (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 136,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn)",
+      "Apply Invincible (1 turn) & increase NP Gain (3 turns) for yourself",
+      "Chance to apply Guts (1 time, 3 turns) & chance to apply Debuff Immune (1 time) & restore HP for one ally",
+      "Apply Invincible (1 turn) & increase NP Gain (3 turns) & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 169,
+    "skills": [
+      "High chance to decrease Charge by 1 for one enemy + Increase Arts Card effectiveness (1 turn) for yourself",
+      "Low chance to inflict Charm (1 turn) to all [Male] enemies + Increase DEF (2 turns) for yourself",
+      "Apply Guts (1 time, 5 turns) to yourself + Decrease ATK (1 turn) for a single [King] enemy",
+      "High chance to decrease Charge by 1 for one enemy + Increase Arts Card effectiveness (1 turn) & increase NP Gauge ▲ for yourself",
+      "Apply Guts (1 time, 5 turns) to yourself + Apply Guts to all allies except yourself ▲ (1 time, 2 turns) + Decrease ATK (1 turn) for a single [King] enemy"
+    ]
+  },
+  {
+    "collectionNo": 175,
+    "skills": [
+      "Increase NP Gauge & increase NP Gain while HP is 50% or less (3 turns) for yourself",
+      "Increase ATK (3 turns) & DEF (3 turns) & negate the DEF disadvantage due to Class attributes (3 turns) to yourself",
+      "Apply Guts (1 time, 3 turns) & increase ATK (3 turns) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 192,
+    "skills": [
+      "Significantly increase your NP Gauge ",
+      "Inflict Poison (3 turns) & decrease DEF (3 turns) for all enemies",
+      "Increase C. Star Drop Rate (3 turns) & remove Debuffs for all allies"
+    ]
+  },
+  {
+    "collectionNo": 194,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Increase Critical Strength (1 turn) & apply Ignore Invincible (1 turn) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & gain C. Stars for all allies",
+      "Increase ATK ▲ (3 turns) for all allies + Increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 201,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase Arts Card effectiveness (1 turn) for yourself + decrease Debuff Resist (1 turn) for one enemy ",
+      "Increase ATK (3 turns) for all allies + decrease ATK (3 turns) for all enemies",
+      "Increase NP Gauge for yourself + Low chance to inflict Stun (1 turn) to one enemy",
+      "Increase NP Gauge for yourself + Low chance to inflict Stun (1 turn) & decrease Arts ATK resist (3 turns) ▲ to all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 203,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself",
+      "Greatly increase your NP Gauge ",
+      "Gain a status that applies the following effects to all allies when defeated (5 turns): <Apply Invincible (2 times [3 times at Lv. 10], 3 turns) & Recover HP >"
+    ]
+  },
+  {
+    "collectionNo": 208,
+    "skills": [
+      "Increase NP Gain (3 turns) & increase MAX HP (3 turns) for yourself",
+      "Increase your Arts Card effectiveness (1 turn)",
+      "Apply Special Attack [Dragon] (1 turn) & increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 215,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & increase Quick Card Critical Strength (3 turns) for one ally",
+      "Decrease DEF (3 turns) & decrease Critical Rate (3 turns) for all enemies",
+      "Increase a single ally's NP Gauge "
+    ]
+  },
+  {
+    "collectionNo": 225,
+    "skills": [
+      "Inflict NP Seal (1 turn) & decrease Critical Rate (3 turns) to a single enemy",
+      "Increase Arts Card (1 turn) & Buster Card effectiveness (1 turn) & increase C. Star Gather Rate (1 turn) for yourself",
+      "Increase ATK (3 turns) for all allies + apply Special Attack [Demonic] for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 236,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Critical Strength (3 times, 3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & Debuff Immune (1 time, 3 turns) for yourself",
+      "Increase NP Gauge & Buff Success Rate (3 turns) for a single ally"
+    ]
+  },
+  {
+    "collectionNo": 237,
+    "skills": [
+      "Decrease DEF (3 turns) for all enemies + Apply Special Attack [Demonic] (3 turns) to all allies ",
+      "Medium chance to inflict NP Seal (1 turn) to one enemy + Increase NP Gauge & NP Strength (3 turns) for yourself",
+      "Apply Damage Cut (3 times, 3 turns) & Debuff Immune (1 time, 3 turns) & increase Buff Removal Resist (1 time, 3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 249,
+    "skills": [
+      "Greatly restore HP & increase Debuff Resist (3 turns) for one ally",
+      "High chance to inflict NP Seal (1 turn) to a single enemy + Increase NP Gain (3 turns) for all allies",
+      "Increase NP Gauge & remove Debuffs for all allies"
+    ]
+  },
+  {
+    "collectionNo": 258,
+    "skills": [
+      "Apply Target Focus (1 turn) for one ally + Decrease Critical Rate (3 turns) for all enemies",
+      "Increase DEF (3 turns) & apply Incoming Damage Cut (3 turns) & slightly increase NP Gauge for all allies",
+      "Increase Buster Card effectiveness (1 turn) for one ally + Increase [Berserker] Critical Strength (1 turn) & Max HP (1 turn) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 284,
+    "skills": [
+      "Increase ATK (3 turns) & increase NP Gauge for all allies",
+      "Increase NP Gauge for a single ally + Increase NP Gain (3 turns) for all allies",
+      "Increase Arts Card effectiveness (3 turns) & apply Special Attack [Threat to Humanity] (3 turns) & apply Invincible (1 turn) for a single ally"
+    ]
+  },
+  {
+    "collectionNo": 307,
+    "skills": [
+      "Apply Invincible (1 turn) & increase C. Star Drop Rate (3 turns) for all allies excluding yourself + Gain C. Stars according to the number of allies [who possess Spiritron Dresses] excluding yourself",
+      "Significantly increase NP Gauge & decrease HP by 2000 [Demerit] for yourself + Apply Target Focus (3 turns) for all allies excluding yourself",
+      "Increase C. Star Gather Rate (3 turns) & increase Critical Strength (3 turns) & apply Death Immune (3 turns) for a single ally + Decrease HP by 1000 [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 340,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & gain C. Stars each turn (3 turns) for yourself + Restore HP each turn (3 turns) for all allies",
+      "Increase NP Gauge for yourself + Increase NP Gauge (3 turns) each turn for all allies",
+      "Apply Evade (1 time, 3 turns) & increase NP Gain (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 319,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) for yourself + Apply [Confusion] that has a \"low chance to inflict Skill Seal each turn\" (3 turns) to all enemies + Apply Evade (1 time, 1 turn) to all allies",
+      "Chance to inflict Skill Seal (1 turn) to a single enemy + Gain C. Stars each turn (3 turns) for yourself + Increase NP Strength (3 turns) for all allies",
+      "Increase NP Gauge for yourself + Increase NP Gauge for a single ally"
+    ]
+  },
+  {
+    "collectionNo": 327,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply Evade (2 times, 3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & increase Critical Strength (1 turn) & apply a state that \"decreases DEF (3 turns) for a single enemy during Critical attacks\" for yourself (1 turn)",
+      "Reduce skill cooldown by 1 for a single ally + Increase NP Gauge for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 330,
+    "skills": [
+      "Increase ATK (3 turns) & Max HP (3 turns) & NP Gauge for a single ally",
+      "Inflict NP Seal (1 turn) & decrease DEF (3 turns) for all enemies",
+      "Increase C. Star Gather Rate (1 turn) for one ally + Gain Critical Stars + Increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 348,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) for all allies",
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) & remove Debuffs for a single ally",
+      "Increase NP Gauge & chance to change field to [Forest] status (3 turns) & chance to change field to [Near Water] status (3 turns) & chance to change field to [Sunlight] status (3 turns) & chance to change field to [Burning] status (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 358,
+    "skills": [
+      "Increase ATK (3 turns) & Buster Card effectiveness (3 turns) & NP Gain (3 turns) for all allies",
+      "Decrease Charge for all enemies + Apply Special Attack [Undead] (3 turns) & increase NP Gauge for all allies",
+      "Inflict Stun (1 turn) to all [Undead] enemies + Restore HP & remove Debuffs for all allies"
+    ]
+  },
+  {
+    "collectionNo": 385,
+    "skills": [
+      "Increase NP Gauge each turn (3 turns) for all allies + Gain C. Stars each turn (3 turns) & increase NP Gauge & increase NP Strength (3 turns) for yourself",
+      "Increase ATK (3 turns) & slightly increase ATK (3 turns) while HP is 99% or less & slightly increase ATK (3 turns) while HP is 75% or less & slightly increase ATK (3 turns) while HP is 50% or less & slightly increase ATK (3 turns) while HP is 25% or less for all allies + Apply a state that \"gains C. Stars at the end of turn when all allies' HP are at 100%\" (3 turns) for yourself",
+      "[Cannot use at the start of battle. Requires 5 turns to Charge] Increase NP Gauge & increase NP Strength (3 turns) & apply Guts (1 time, 3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 39,
+    "skills": [
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Remove your Mental Debuff status + gain great amounts of Critical Stars ",
+      "Apply Sure Hit (3 turns) & increase C. Star Drop Rate (3 turns) for yourself",
+      "Remove Debuffs ▲ & apply a state that \"decreases Quick Card Resistance (3 turns) of a single enemy when attacking with Quick Cards\" (3 turns) ▲ for yourself + Gain a large amount of C. Stars ",
+      "Apply Sure Hit (3 turns) & increase C. Star Drop Rate ▲ (3 turns) & C. Star Gather Rate ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 40,
+    "skills": [
+      "Gain Critical Stars ",
+      "Increase your Critical Strength (3 turns)",
+      "Apply Evade (3 times) & increase C. Star Drop Rate (3 turns) for yourself",
+      "Gain C. Stars ▲ & gain C. Stars at the end of your turn (1 turn) ▲"
+    ]
+  },
+  {
+    "collectionNo": 110,
+    "skills": [
+      "Increase NP Gain (3 turns) & C. Star Drop Rate (3 turns) for yourself",
+      "Chance to increase Quick Card effectiveness (3 turns) & chance to increase Arts Card effectiveness (3 turns) & chance to increase Buster Card effectiveness (3 turns) & apply Evade (1 turn) for yourself",
+      "Restore HP & remove Buffs [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 75,
+    "skills": [
+      "Increase your Quick Card effectiveness (1 turn) & apply Evade (1 turn) for yourself",
+      "Remove Buffs & decrease Critical Rate (3 turns) for one enemy",
+      "Restore HP for one ally "
+    ]
+  },
+  {
+    "collectionNo": 81,
+    "skills": [
+      "Increase your ATK (3 turns) & further increase ATK as Hyde (3 turns)",
+      "Increase Stun Success Rate (1 time) & as Hyde, further increases Stun Success Rate (1 time) + Low chance to inflict Stun (1 turn) for one enemy",
+      "Increase your Critical Strength (3 turns) & further increase Critical Strength as Hyde (3 turns)",
+      "Increase Critical Strength (3 turns) & further increase Critical Strength as Hyde (3 turns) & greatly increase NP Gauge ▲ as Jekyll for yourself"
+    ]
+  },
+  {
+    "collectionNo": 139,
+    "skills": [
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Increase NP Gain (3 turns) & increase NP Gauge each turn (3 turns) & restore HP each turn (3 turns) for yourself",
+      "Apply Invincible (1 turn) & remove debuffs & gain C. Stars for yourself"
+    ]
+  },
+  {
+    "collectionNo": 124,
+    "skills": [
+      "Decrease Charge & Critical Rate (3 turns) for one enemy",
+      "Gain C. Stars ",
+      "Increase Death Success Rate (3 turns) & Debuff Success Rate (3 turns) for yourself",
+      "Inflict Poison ▲(5 turns) & inflict Corroding Poison (increase Poison effectiveness)▲(5 turns) to a single enemy + Gain C. Stars▲",
+      "Increase Death Success Rate (3 turns) & Debuff Success Rate (3 turns) & Arts Card effectiveness (3 turns) ▲ & apply \"inflict Poison (5 turns) to a single enemy when attacking with Arts Card\" (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 41,
+    "skills": [
+      "Medium chance to decrease specific enemy's Charge + Increase your own NP Gauge ",
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Increase all allies' ATK (3 turns) + Increase ATK for all [Divine] allies (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 42,
+    "skills": [
+      "Increase your C. Star Gather Rate (3 turns) & gain a large amount of Critical Stars ",
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Increase Quick Card effectiveness (1 turn) & Critical Strength (1 turn) for yourself",
+      "Apply Special Attack [King] (3 turns) ▲ & apply the state \"Decrease DEF (3 turns) for a single enemy when attacking with a Quick Card\" (5 times, 3 turns) ▲ & increase C. Star Drop Rate ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 43,
+    "skills": [
+      "Apply [Evil] Special Attack for yourself (3 turns)",
+      "Greatly restore one ally's HP ",
+      "Apply [Human] Special Attack for yourself (3 turns)",
+      "Greatly restore HP & remove Debuffs▲ for one ally"
+    ]
+  },
+  {
+    "collectionNo": 44,
+    "skills": [
+      "Gain C. Stars each turn (3 turns) & decrease DEF [Demerit] for yourself",
+      "Chance to inflict Charm to one enemy of [Opposite Gender] (1 turn)",
+      "Increase Mental Debuff Success Rate (3 turns) & Mental Debuff Resist (3 turns) for yourself",
+      "Chance to inflict Charm (1 turn) to a single enemy ▲ & remove Buffs ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 45,
+    "skills": [
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Low chance to inflict Charm (1 turn) & decrease DEF (3 turns) for all [Male] enemies",
+      "Inflict Skill Seal (1 turn) & decrease DEF (3 turns) for one enemy",
+      "Greatly increase C. Star Drop Rate ▲ (3 turns) & increase Critical Strength (3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 109,
+    "skills": [
+      "Increase your Arts Card effectiveness (1 turn)",
+      "Apply Ignore Invincible (3 turns) & increase Critical Strength (3 turns) for yourself + Decrease Debuff Resist for all allies except yourself (3 turns) [Demerit]",
+      "Apply Target Focus (1 turn) to one ally + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 46,
+    "skills": [
+      "Medium chance to decrease specific enemy's Charge + Increase your own NP Gauge ",
+      "Decrease one enemy's DEF (3 turns)",
+      "Decrease Critical Rate for one enemy (3 turns) + gain C. Stars each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 86,
+    "skills": [
+      "Medium chance to apply Stun (1 turn) for all enemies 1 turn later",
+      "Gain a large amount of Critical Stars ",
+      "Significantly increase C. Star Drop Rate against [Saber] enemies (3 turns) & apply Special Attack [Saber] (3 turns) for yourself",
+      "Decrease DEF (3 turns) ▲ for all enemies + After 1 turn, medium chance to inflict Stun to all enemies (1 turn)",
+      "Apply Invincible ▲ (1 turn) for yourself + Gain a large amount of Critical Stars ▲",
+      "Significantly increase C. Star Drop Rate against [Saber] enemies (3 turns) & apply Special Attack [Saber] (3 turns) & increase ATK (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 117,
+    "skills": [
+      "Decrease ATK (3 turns) & Critical Rate (3 turns) for all enemies",
+      "Apply Evade (1 turn) & increase C. Star Drop Rate (1 turn) for one ally",
+      "Decrease Debuff Resist (1 turn) for all enemies",
+      "Decrease Debuff Resist (1 turn) & DEF (3 turns) ▲ & inflict Nullify Buff (1 time) ▲ to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 112,
+    "skills": [
+      "Chance to inflict Charm (1 turn) & decrease DEF (3 turns) for all enemies",
+      "Increase all allies' ATK (3 turns) + increase NP Strength (3 turns) for yourself",
+      "Apply Guts (1 time, 5 turns) for yourself",
+      "Apply Guts (1 time, 5 turns) ▲ & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 92,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase Arts card effectiveness (1 turn) for yourself + decrease Death resistance for an enemy (1 turn)",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Increase NP Gauge & decrease HP [Demerit] for yourself",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself + Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 133,
+    "skills": [
+      "Apply Target Focus (1 turn) & increase Critical Strength (1 turn) for yourself",
+      "Restore HP & apply Damage Cut (1 turn) for one ally",
+      "Apply Ignore Invincible (1 turn) & increase Quick Card effectiveness (1 turn) for yourself",
+      "Apply Target Focus (1 turn) & increase Critical Strength (3 turns ▲) & apply Special Attack [Divine] (3 turns) ▲ & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 154,
+    "skills": [
+      "Apply Guts(1 time, 5 turns) for yourself",
+      "Increase Debuff Resist (3 turns) & greatly restore HP & DEF (1 turn) & ATK (3 turns) for yourself",
+      "Decrease Death Resist (3 turns) for all enemies + Increase Buster Card effectiveness (1 turn) for yourself",
+      "Apply Guts (1 time, 5 turns) & apply [Death's Abyss] <Increase Buster Card effectiveness while Guts is applied > (5 turns) ▲ & when Guts is activated, apply the following effects (1 time, 5 turns) <Remove [Death's Abyss] & increase NP Gauge & greatly increase Buster Card effectiveness (1 turn) for yourself> ▲",
+      "Decrease Death Resist ▲ (3 turns) for all enemies + Increase Buster Card effectiveness (3 turns ▲) & NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 159,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & NP Gain (1 turn) for yourself",
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Decrease C. Star Gather Rate (1 turn) + gain C. Stars for yourself",
+      "Increase C. Star Gather Rate (1 turn) & NP Gain (1 turn) & apply Special Attack [Lawful] (3 turns) ▲ & Special Attack [Evil] (3 turns) ▲ for yourself",
+      "Increase Quick Card effectiveness (3 turns) ▲ & Critical Strength (3 turns) ▲ & C. Star Drop Rate ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 170,
+    "skills": [
+      "Decrease one enemy's DEF (3 turns)",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Increase ATK (3 turns) for all allies + Increase Quick Card effectiveness (3 turns) for all allies except yourself",
+      "Decrease DEF ▲ (3 turns) & inflict Nullify Buff (1 time, 3 turns) ▲ & inflict Burn (3 turns) ▲ to one enemy",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself + Increase Critical Strength (3 turns) ▲ & slightly increase NP Gauge ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 177,
+    "skills": [
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Apply Target Focus (1 turn) & Damage Cut (3 times, 5 turns) for yourself",
+      "Increase ATK (3 turns) & NP Strength (3 turns) & NP Gain (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 185,
+    "skills": [
+      "High chance to inflict NP Seal (1 turn) to one enemy",
+      "Increase your Arts Card effectiveness (3 turns) & inflict Curse (3 turns) during normal attacks (3 turns)",
+      "Apply Evade (1 turn) & increase NP Gauge for yourself",
+      "High chance to inflict NP Seal (1 turn) to a single enemy + Apply Special Attack [Demonic] (3 turns) ▲ & Special Attack [Curse] (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 188,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself",
+      "Apply Evade (1 turn) & increase C. Star Drop Rate (1 turn) for one ally",
+      "Apply Invincible (1 turn) & increase C. Star Drop Rate (1 turn) for one ally"
+    ]
+  },
+  {
+    "collectionNo": 189,
+    "skills": [
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) & Debuff Resist (3 turns) for yourself",
+      "Increase NP Gauge & C. Star Drop Rate (3 turns) for one ally",
+      "Decrease DEF (1 turn) & remove Buffs for a single enemy",
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) & Debuff Resist (3 turns) for yourself + Increase all allies' Critical Strength (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 199,
+    "skills": [
+      "Increase NP Gauge for yourself + decrease Debuff Resist (1 turn) for all enemies",
+      "Increase NP Gain (3 turns) & negate Class disadvantages from Caster Class attributes (3 turns) for yourself",
+      "[Usable only when there are 8 C. Stars or more] Inflict Poison (3 turns) & decrease Buster Card Resist (3 turns) for all enemies + decrease C. Stars by 8 [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 210,
+    "skills": [
+      "Apply [Humanoid] Special Attack (1 turn) & increase Critical Strength (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Increase your C. Star Gather Rate (1 turn) "
+    ]
+  },
+  {
+    "collectionNo": 218,
+    "skills": [
+      "Increase your NP Gauge ",
+      "Apply Evade (1 turn) & increase Quick Card effectiveness (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & apply Debuff Immune (1 turn) for yourself & low chance to remove the enemy's Buffs during your normal attacks (1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 230,
+    "skills": [
+      "Increase NP Gauge each turn (5 turns) & apply Debuff Immune (1 turn) for yourself",
+      "Restore HP each turn (5 turns) & increase Buff Removal Resist (1 turn) for yourself",
+      "Medium chance to decrease specific enemy's Charge + Increase your own NP Gauge ",
+      "Restore HP each turn (5 turns) & increase Buff Removal Resist (3 turns ▲) & increase ATK (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 235,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase Critical Strength (1 turn) for yourself",
+      "Apply Evade (1 turn) & increase C. Star Gather Rate (1 turn) & gain C. Stars for yourself",
+      "Increase ATK (1 turn) & increase ATK (3 turns) & apply Debuff Immune (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 239,
+    "skills": [
+      "Decrease maximum HP by 1000 (permanent) [Demerit] & increase NP Charge by 1 level when using NP (1 time, 3 turns) for a single ally +  Restore HP for yourself",
+      "Apply Guts (1 time) & increase ATK (3 turns) for yourself",
+      "Increase NP Gauge & gain advantage against (Alter Ego) class (3 turns) & increase Critical Strength (3 turns) for yourself + Decrease Charm Resist (1 turn) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 259,
+    "skills": [
+      "Increase Death Success Rate (1 turn) & apply Evade (2 times, 3 turns) for yourself",
+      "Apply Ignore Invincible (1 turn) & increase ATK (1 turn) & Debuff Resist (3 turns) for yourself",
+      "Increase Arts Card effectiveness (3 turns) or Critical Strength (3 turns) or NP Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 243,
+    "skills": [
+      "Increase ATK (3 turns) & apply Special Attack [Undead] for yourself (3 turns)",
+      "Increase Quick Card (1 turn) & Buster Card effectiveness (1 turn) & apply Invincible (1 time, 1 turn) for yourself",
+      "Increase NP Gauge & Debuff Resist (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 267,
+    "skills": [
+      "Increase Critical Strength (1 turn) & C. Star Gather Rate (1 turn) & remove 1 DEF Buff [Demerit] for yourself",
+      "Apply Evade (1 turn) & Sure Hit (1 turn) & increase NP Strength (3 turns) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & apply a state where your DEF gradually goes down each turn (3 turns) <Treated as Buff> [Demerit] for yourself",
+      "Increase Quick Card effectiveness (3 turns) & increase NP Gauge ▲ & increase NP Gain (3 turns) ▲ & apply a state where your DEF gradually goes down each turn (3 turns) <Treated as Buff> [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 304,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & apply Evade (2 times, 3 turns) for yourself",
+      "Increase NP Gauge & increase C. Star Gather Rate (1 turn) for a single ally",
+      "Increase ATK (3 turns) & increase NP Gain (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 314,
+    "skills": [
+      "Increase NP Gauge & reduce skill cooldown by 2 for a single ally + Decrease HP by 1000 [Demerit] for all allies",
+      "Apply [Human] Special Attack (3 turns) & apply Special Attack against enemies with [Human Attribute] (3 turns) & apply a state that \"increases NP Gauge for yourself during normal Buster attacks\" (3 turns) for a single ally + Gain C. Stars ",
+      "Increase Buster Card effectiveness (3 turns) & increase Buster Card Critical Strength (3 turns) & increase Buster Card's C. Star Gather Rate (3 turns) for a single ally "
+    ]
+  },
+  {
+    "collectionNo": 361,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Critical Strength (3 times, 3 turns) for yourself",
+      "Increase ATK (3 turns) & apply Evade (1 time, 3 turns) for all allies + Increase NP Gain (3 turns) for all [Valkyrie] allies",
+      "Increase NP Gauge & restore HP for one ally + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 360,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Critical Strength (3 times, 3 turns) for yourself",
+      "Increase ATK (3 turns) & apply Evade (1 time, 3 turns) for all allies + Increase NP Gain (3 turns) for all [Valkyrie] allies",
+      "Increase NP Gauge & restore HP for one ally + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 359,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Critical Strength (3 times, 3 turns) for yourself",
+      "Increase ATK (3 turns) & apply Evade (1 time, 3 turns) for all allies + Increase NP Gain (3 turns) for all [Valkyrie] allies",
+      "Increase NP Gauge & restore HP for one ally + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 365,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply a state where you \"increase your C. Star Drop Rate (3 turns) before inflicting damage through Quick attacks\" (3 turns) & apply a state where you \"increase your Critical Strength (3 turns) before inflicting damage through Buster attacks\" (3 turns) for yourself",
+      "Apply Ignore Invincible (3 turns) & increase ATK (3 turns) & C. Star Gather Rate (1 turn) for yourself",
+      "Apply Evade (2 times, 3 turns) & increase Buff Removal Resist (3 turns) & NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 371,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + Increase ATK (3 turns) for all allies with [Guts]",
+      "Increase NP Gauge for yourself + Increase NP Gauge for all allies except for yourself + Apply Invincible (2 times, 3 turns) & apply Invincible Immune (1 time, 3 turns) [Demerit] for all allies",
+      "Apply Guts (1 time, 3 turns) & increase Arts Card effectiveness (3 turns) & apply Special Attack [Divine] (3 turns) & apply Special Attack [Super Giant] (3 turns) for yourself & negate the field's [Sunlight] status (3 turns) "
+    ]
+  },
+  {
+    "collectionNo": 378,
+    "skills": [
+      "Inflict Poison (5 turns) to all enemies + Increase Arts Card effectiveness (3 turns) & NP Gain (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & Incoming Damage Cut (3 turns) & [Poison] recovery <a state that converts damage from Poison into HP recovery> (5 turns) to yourself",
+      "Increase NP Gauge for all allies + Apply \"a state that applies Poison (3 turns) during normal attacks\" (3 times, 3 turns) & apply Poison (5 turns) [Demerit] to yourself"
+    ]
+  },
+  {
+    "collectionNo": 380,
+    "skills": [
+      "Apply Invincible (1 time, 3 turns) for all allies + Increase NP Gauge for yourself + Gain C. Stars ",
+      "Increase Quick Card effectiveness (3 turns) & ATK (3 turns) & apply \"a state that increases NP Gauge during normal Quick attacks\" (3 turns) for yourself",
+      "Chance to inflict Bind (1 turn) to a single enemy + Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 47,
+    "skills": [
+      "Increase ATK (3 turns) & increase Mental Debuff Resist (3 turns) for yourself",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Apply Guts (1 time, 5 turns, stackable with other Guts ▲) & increase Buster Card effectiveness (5 turns) when Guts is activated (5 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 48,
+    "skills": [
+      "Increase your C. Star Gather Rate (3 turns)",
+      "Increase your C. Star Drop Rate (3 turns)",
+      "Increase NP Gain (1 turn) & Critical Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 49,
+    "skills": [
+      "Increase ATK (3 turns) & increase Mental Debuff Resist (3 turns) for yourself",
+      "Increase DEF (3 turns) & decrease Attack Buff Success Rate (3 turns) for yourself [Demerit]",
+      "Increase NP Strength (1 turn) & C. Star Gather Rate (1 turn) for yourself + Decrease DEF for all allies except yourself (1 turn) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 82,
+    "skills": [
+      "Increase your NP Gain (3 turns)",
+      "Medium chance to inflict Stun (1 turn) & decrease DEF (1 turn) for one enemy",
+      "Greatly increase NP Strength (1 turn) & inflict Burn (5 turns) [Demerit] for yourself",
+      "Medium chance to inflict Stun (1 turn) & decrease DEF ▲ (1 turn) for one enemy"
+    ]
+  },
+  {
+    "collectionNo": 50,
+    "skills": [
+      "Apply HP Recovery per turn for yourself (5 turns)",
+      "Apply Guts (1 time, 5 turns) & increase NP Gauge for yourself ",
+      "Increase Buster Card effectiveness (1 turn) & restore HP for yourself",
+      "Apply HP Recovery per turn for yourself ▲(5 turns)"
+    ]
+  },
+  {
+    "collectionNo": 51,
+    "skills": [
+      "Greatly increase your ATK (1 turn)",
+      "Increase your NP Gauge ",
+      "Increase Attack Debuff Resist (3 turns) & greatly restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 52,
+    "skills": [
+      "High chance to decrease specific enemy's Charge + Increase your own NP Gauge ",
+      "Increase your DEF (3 turns)",
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Increase DEF (3 turns) & ATK (3 turns) for yourself",
+      "Apply Guts (1 time, 1 turn, can be stacked with other Guts) ▲ & apply Guts (1 time, 5 turns) & increase NP Gain (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 89,
+    "skills": [
+      "Increase ATK (1 turn) & increase NP Strength (1 turn) for yourself",
+      "Gain a large amount of Critical Stars ",
+      "Apply Guts for yourself (1 time, 4 turns) ",
+      "Increase C. Star Gather Rate (1 turn) ▲ & Critical Strength (1 turn) ▲ + Gain a large amount of C. Stars ▲ for yourself",
+      "Apply Guts (1 time, 4 turns) & increase Critical Strength (3 turns) ▲ & apply Special Attack [Dragon] (3 turns) ▲ & apply Special Attack [Giant] (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 53,
+    "skills": [
+      "Increase your ATK (3 turns)",
+      "Increase Attack Debuff Resist (3 turns) & DEF (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & Buster Card effectiveness (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 54,
+    "skills": [
+      "Increase ATK (3 turns) & decrease DEF (3 turns) [Demerit] for yourself",
+      "Chance to increase ATK (3 turns) & chance to increase DEF (3 turns) & restore HP for yourself",
+      "Increase Buster Card effectiveness (1 turn) & decrease HP [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 55,
+    "skills": [
+      "Increase your NP Gain (3 turns)",
+      "Remove Debuffs & restore HP for yourself",
+      "Apply Guts for yourself (1 time, 5 turns) ",
+      "Apply Guts (1 time, 5 turns) for yourself + Decrease Buster Card Resistance (3 turns) for all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 56,
+    "skills": [
+      "Increase your DEF (3 turns)",
+      "Decrease DEF (3 turns) & increase ATK (3 turns) [Demerit] for one enemy",
+      "Remove Debuffs & increase Buster Card effectiveness (1 turn) for yourself",
+      "Increase DEF ▲ (3 turns) for yourself + Inflict Spreading Fire (increase Burn damage) (5 turns) ▲ to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 97,
+    "skills": [
+      "Restore HP for one ally ",
+      "Apply Special Attack [Humanoid] (3 turns) and Special Defense [Humanoid] (3 turns) for yourself",
+      "Increase Buster Card effectiveness for one ally (3 turns)",
+      "Restore HP & apply Debuff Immune (3 times, 3 turns) ▲ & apply Death Immune (1 time, 3 turns) ▲ for one ally",
+      "Increase Buster Card effectiveness (3 turns) & increase Buster Card Critical Strength (3 turns) ▲ for one ally + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 57,
+    "skills": [
+      "Decrease ATK (2 turns) & DEF (2 turns) for one enemy",
+      "Apply Guts for yourself (1 time, 4 turns) ",
+      "Remove Debuffs & increase Max HP (3 turns) for yourself",
+      "Decrease ATK (2 turns) & DEF ▲ (2 turns) for one enemy"
+    ]
+  },
+  {
+    "collectionNo": 58,
+    "skills": [
+      "Increase your ATK (2 turns)",
+      "Low chance to decrease one enemy's Charge ",
+      "Increase your DEF (3 turns)",
+      "Low chance to decrease a single enemy's Charge + Apply Invincible to yourself (1 time, 5 turns) ▲",
+      "Increase DEF (3 turns) & increase Max HP (3 turns) ▲ & apply Debuff Immune (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 98,
+    "skills": [
+      "Decrease Critical Rate (3 turns) & ATK (3 turns) for all enemies",
+      "Apply Evade (2 times) & increase DEF (3 turns) for yourself",
+      "Apply Guts for yourself (1 time, 5 turns) "
+    ]
+  },
+  {
+    "collectionNo": 116,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + increase NP Strength (3 turns) for yourself",
+      "Remove Debuffs & restore HP for yourself",
+      "Greatly increase DEF (1 turn) & increase DEF (3 turns) for yourself",
+      "Remove Debuffs & restore HP & increase Critical Strength (1 turn) ▲ for a single ally ▲ + Increase ATK (3 turns) for a single [Shuten-Douji] ally ▲ + Increase NP Gauge for yourself when [Shuten-Douji] is on the field as an ally ▲"
+    ]
+  },
+  {
+    "collectionNo": 114,
+    "skills": [
+      "Increase your C. Star Gather Rate (3 turns)",
+      "Increase Buster Card effectiveness (1 turn) & apply Evade (1 turn) for yourself",
+      "Apply Special Attack [Demonic] (3 turns) & Special Attack [Servants with Heaven or Earth attributes (except Pseudo-Servants and Demi-Servants)] (3 turns) for yourself",
+      "Increase C. Star Gather Rate (3 turns) & Critical Strength (3 times, 3 turns) ▲ for yourself",
+      "Increase Buster Card effectiveness (3 turns ▲) & apply Evade (1 turn) & increase NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 155,
+    "skills": [
+      "Increase HP Recovery amount (3 turns) & restore HP for yourself",
+      "Gain a large amount of Critical Stars ",
+      "Decrease C. Star Gather Rate (1 turn) for one ally + increase ATK (3 turns) for all allies",
+      "Increase HP Recovery amount (3 turns) & restore HP & restore HP each turn (3 turns) ▲ & increase Quick Card Critical Strength (1 time, 3 turns) ▲ & increase Arts Card Critical Strength (1 time, 3 turns) ▲ & increase Buster Card Critical Strength (1 time, 3 turns) ▲ for yourself",
+      "Increase Quick Card effectiveness ▲ (3 turns) + Gain a large amount of Critical Stars ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 161,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & C. Star Drop Rate (3 turns) for all allies",
+      "Remove Debuffs & restore HP for yourself",
+      "Increase C. Star Gather Rate (3 turns) & increase more Critical Strength the less HP you have (3 turns) & decrease HP [Demerit] for yourself",
+      "Remove Debuffs & restore HP & apply Guts (1 time, 3 turns, stackable with other Guts) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 162,
+    "skills": [
+      "Increase NP Gauge each turn (3 turns) & increase the amount of NP gained when damaged (3 turns) for yourself",
+      "Gain C. Stars each turn (3 turns) + Decrease C. Star Gather Rate for all allies except yourself (3 turns)",
+      "Decrease DEF that gets more effective each turn (5 turns) for a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 171,
+    "skills": [
+      "Increase all allies' ATK (3 turns)",
+      "Apply Debuff Immune (3 turns) & increase NP Gauge each turn (3 turns) for yourself",
+      "Increase Buster Card effectiveness (3 turns) for all allies + Apply Special Attack [Greek Mythology Male] (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 174,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for all allies ",
+      "Restore HP for all allies",
+      "Decrease DEF (3 turns) & HP Recovery amount (5 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 178,
+    "skills": [
+      "Apply Evade (1 turn) & increase Buster Card effectiveness (3 turns) for yourself",
+      "Gain C. Stars each turn (5 turns) for yourself + restore HP each turn (5 turns) & increase NP Gauge each turn (5 turns) for all allies",
+      "Increase C. Star Gather Rate (1 turn) & apply Sure Hit (1 turn) & increase ATK (3 turns) when on a [Burning] field for yourself"
+    ]
+  },
+  {
+    "collectionNo": 202,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & gain C. Stars for yourself",
+      "Increase Quick Card effectiveness for all allies (1 turn)",
+      "Apply Evade (1 turn) & increase Critical Strength (3 turns) for yourself",
+      "Increase C. Star Gather Rate (1 turn) & gain C. Stars ▲ & increase Buster Card's Critical Strength (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 219,
+    "skills": [
+      "Apply Evade (1 time, 1 turn) after every turn (3 turns) & increase NP Gain (3 turns) for yourself",
+      "Increase ATK (3 turns) & inflict Burn during normal attacks (3 turns) for yourself",
+      "Increase Buster Card effectiveness (1 turn) & increase NP Gauge & decrease HP [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 226,
+    "skills": [
+      "Apply Evade (1 turn) & increase Critical Strength (1 turn) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (1 turn) for yourself",
+      "Gain C. Stars each turn (3 turns) & apply Ignore Invincible (3 turns) for yourself",
+      "Apply Evade (1 turn) & increase Critical Strength ▲ (1 turn) & increase C. Star Gather Rate (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 247,
+    "skills": [
+      "Increase ATK (3 turns) & apply Special Attack [Debuff (unless unremovable)] for yourself (3 turns)",
+      "Increase Buster Card's C. Star Gather Rate (3 turns) & NP Gauge for yourself",
+      "Apply Guts (1 time, 3 turns) & restore HP each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 260,
+    "skills": [
+      "Apply Special Attack [Lawful and Good] (3 turns) & increase ATK (3 turns) for yourself",
+      "Apply Debuff Immune (1 time, 3 turns) & increase DEF (3 turns) & apply Invincible (1 time, 3 turns) for yourself",
+      "Apply HP Recovery each turn (7 turns) & apply a state \"Remove one DEF Buff each turn\" <treated as a Buff> (7 turns) [Demerit] & apply a state where \"NP Gauge significantly increases after 7 turns for all allies\" (1 time) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 251,
+    "skills": [
+      "Increase your Critical Strength (3 turns) & greatly increase Debuff Resist (3 turns) & greatly decrease Buff Success Rate <treated as Buff> (3 turns) [Demerit] for yourself",
+      "Apply a state where your ATK increases (3 turns) when attacking & DEF decreases (3 turns) [Demerit] for yourself (3 times, 3 turns)",
+      "Increase C. Star Gather Rate (1 turn) & apply \"gain C. Stars when defeated\" (3 turns) state for yourself ",
+      "Apply a state where your ATK increases (3 turns) when attacking & DEF decreases (3 turns) [Demerit] for yourself (3 turns ▲)"
+    ]
+  },
+  {
+    "collectionNo": 261,
+    "skills": [
+      "Apply Evade (1 time) & increase Critical Strength (1 turn) for yourself",
+      "Double the number of hits of normal Arts attacks (strength greatly decreases for each hit, but overall damage increases according to skill level) (1 turn) & increase NP Gain (3 turns) for yourself ",
+      "Apply Ignore Invincible (3 turns) & increase ATK (3 turns) & apply Guts (1 time, 3 turns) & decrease HP by 5000 [Demerit] for yourself + Decrease DEF for all enemies (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 282,
+    "skills": [
+      "Increase DEF (3 turns) & C. Star Gather Rate (1 turn) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself + Increase NP Charge by 1 level when using NP (1 time, 3 turns) for one ally",
+      "Restore HP & remove 1 Debuff & apply Death Immune (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 287,
+    "skills": [
+      "Apply Evade (2 times, 3 turns) & Damage Cut (3 times, 3 turns) for yourself",
+      "Increase NP Gauge each turn (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself + Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for all [Loved One] allies except yourself"
+    ]
+  },
+  {
+    "collectionNo": 306,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Buff Removal Resist (1 time, 3 turns) & increase NP Gauge for yourself",
+      "Apply Guts (1 time, 3 turns, stackable with other Guts) & greatly increase DEF (2 times, 3 turns) for yourself",
+      "Apply \"Restore HP & remove Debuffs each turn for all allies\" (3 turns) for yourself",
+      "Apply \"Restore HP & remove Debuffs each turn for all allies\" (3 turns) & \"Increase NP Gauge during your normal Buster attacks\" (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 309,
+    "skills": [
+      "Increase ATK (3 turns) for all allies + Increase NP Gauge for yourself + Decrease DEF (3 turns) for all enemies",
+      "Increase NP Gauge for a single ally + Increase NP Gain (3 turns) for all allies",
+      "Apply Guts (1 time, 3 turns) & increase C. Star Gather Rate (3 turns) & increase Critical Strength (3 turns) & apply a state that \"decreases ATK (1 turn) & decreases Critical Rate (1 turn) for all enemies each turn\" (3 turns) for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 323,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & NP Gauge for yourself",
+      "Apply Evade (2 times, 3 turns) & increase Critical Strength (1 turn) & C. Star Gather Rate (1 turn) for yourself",
+      "Restore HP & apply Burn Immune (3 turns) for one ally + Gain a large amount of C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 345,
+    "skills": [
+      "Decrease Charge & DEF (3 turns) & Critical Rate (3 turns) for all enemies",
+      "Increase Arts Card (3 turns) & Buster Card effectiveness (3 turns) & apply Special Attack [Chaotic] (3 turns) for yourself",
+      "Apply Target Focus (1 turn) to one ally + Increase NP Gauge & recover HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 355,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies + Increase NP Gain (3 turns) for all [Summer Mode Servant] allies",
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & reduce skill cooldown by 1 for a single ally",
+      "Increase NP Gauge & gain C. Stars per turn (3 turns) & increase C. Star Gather Rate (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 362,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & NP Gain (3 turns) for all allies + Gain C. Stars ",
+      "Increase NP Gauge & increase NP Charge by 2 levels when using NP (1 time, 3 turns) & apply Invincible (1 time, 3 turns) for a single ally",
+      "Increase Critical Strength (3 turns) & Quick Card Critical Strength (3 turns) & apply a state that decreases the DEF of the target before Quick Card attack (3 turns) for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 382,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies + Increase C. Star Gather Rate (1 turn) for a random single ally",
+      "Increase Arts Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself + Gain C. Stars ",
+      "Increase C. Star Gather Rate (3 turns) for a single ally + Gain C. Stars each turn (3 turns) & increase NP Gauge each turn (3 turns) for yourself + Decrease Debuff Resist (1 turn) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 386,
+    "skills": [
+      "Increase Critical Strength (3 turns) & C. Star Gather Rate (3 turns) & NP Gauge for yourself",
+      "Increase NP Gauge & NP Charge by 2 levels when using NP (1 time, 3 turns) for a single ally + Increase NP Gain (3 turns) for all allies",
+      "Increase Arts Card effectiveness (3 turns) & gain C. Stars each turn (3 turns) & apply Invincible (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 440,
+    "skills": [
+      "150% Chance to Charm one enemy for 1 turn + Reduces their critical damage resistance for 3 turns + Gains critical stars",
+      "Increases own Quick performance for 3 turns + Increases own Arts performance for 3 turns + Grants self Evasion for 2 attacks, 3 turns",
+      "Ignores Invincibility for 3 turns + Increases own attack for 3 turns + Charges own NP gauge + Reduces own mental debuff resistance by 30% for 3 turns [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 1,
+    "skills": [
+      "Increase all allies' DEF (3 turns)",
+      "Apply Invincible (1 turn) & increase NP for one ally",
+      "Apply Target Focus (1 turn) & greatly increase NP Gain (1 turn) for yourself",
+      "Increase DEF (3 turns) & apply Incoming Damage Cut (1 time) for all allies",
+      "Apply Target Focus (1 turn) & increase NP Gauge for yourself",
+      "Apply Invincible (1 turn) & Target Focus (1 turn) & decrease HP [Demerit] for yourself",
+      "Increase Buster Card effectiveness (1 time, 3 turns) & Buster Card Critical Strength (1 time, 3 turns) for yourself",
+      "Apply Invincible (1 turn) & Target Focus (1 turn) & Ignore Invincible (3 turns) ▲ & decrease HP [Demerit] for yourself + Gain a large amount of C. Stars ▲",
+      "Increase Buster Card effectiveness ▲ (1 time, 3 turns) & increase Critical Strength of Buster attacks ▲ (1 time, 3 turns) & apply Ignore DEF (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 59,
+    "skills": [
+      "Gain C. Stars each turn for yourself (3 turns)",
+      "Greatly decrease NP Strength for one [Servant] enemy (1 turn)",
+      "Chance to immobilize one enemy [Servant] (1 turn)",
+      "Greatly decrease NP Strength (1 turn) & decrease DEF (1 turn) ▲ & decrease DEF (3 turns) ▲ for a single enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 93,
+    "skills": [
+      "Gain C. Stars each turn for yourself (3 turns)",
+      "Decrease a single [Undead and Demon] enemy's Charge + increase your NP Gauge each turn (5 turns)",
+      "Chance to immobilize one enemy [Servant] (1 turn)",
+      "Gain C. Stars each turn ▲ (3 turns) & increase NP Gain (3 turns) ▲ for one ally",
+      "Decrease a single enemy's ▲ Charge + Decrease Buster ATK Resist (5 turns) for all enemies ▲ + Increase NP Gauge ▲ & increase NP Gauge each turn (5 turns) for yourself",
+      "Chance to immobilize one [Servant] enemy (1 turn) + Increase Buster Card effectiveness ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 135,
+    "skills": [
+      "Increase NP Gauge & increase ATK when on a [Near Water] field (3 turns) for yourself",
+      "Apply Debuff Immune (1 time) & restore HP for yourself",
+      "Apply Special Attack [Divine, Demon, and Undead] (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 173,
+    "skills": [
+      "Inflict NP Seal (1 turn) to one enemy + Gain C. Stars ",
+      "Increase C. Star Gather Rate (1 turn) & apply Debuff Immune (3 turns) for yourself",
+      "Increase Arts Card effectiveness (1 turn) & apply Evade (1 turn) for yourself",
+      "Inflict NP Seal (1 turn) to one enemy + Decrease Arts ATK Resist (3 turns) ▲ to all enemies + Gain C. Stars ",
+      "Increase NP Gauge ▲ & C. Star Gather Rate (1 turn) & apply Debuff Immune (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 229,
+    "skills": [
+      "Decrease Charge & DEF for all enemies (3 turns)",
+      "Chance to inflict Stun (1 turn) for all enemies + increase ATK for yourself (3 turns)",
+      "Increase NP gauge & remove Debuffs & restore HP for yourself"
+    ]
+  },
+  {
+    "collectionNo": 233,
+    "skills": [
+      "Increase all allies' ATK (3 turns) + Gain C. Stars each turn for yourself (3 turns)",
+      "Increase C. Star Gather Rate (1 turn) & C. Star Drop Rate (3 turns) for one ally",
+      "Increase Buster Card effectiveness (3 turns) & Buster Card's C. Star Gather Rate (1 turn) for yourself "
+    ]
+  },
+  {
+    "collectionNo": 242,
+    "skills": [
+      "Increase ATK (3 turns) & DEF (3 turns) & NP Gain (3 turns) for one ally",
+      "Increase your Arts Card effectiveness (1 turn) + Gain a large amount of Critical Stars ",
+      "[Usable only when there are 5 C. Stars or more] Decrease C. Stars by 5 [Demerit] + Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) & NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 265,
+    "skills": [
+      "Increase NP Gauge & apply Evade (1 turn) & apply \"increase your ATK (1 turn) after 1 turn\" (1 time) for yourself",
+      "Redistribute Command Cards + Increase Critical Strength (3 turns) for all allies",
+      "Increase ATK (3 turns) & C. Star Gather Rate (1 turn) for yourself",
+      "Apply a state where a Command Card becomes unselectable for a single ally <no effect when only 1 Servant on field> (1 time, 1 turn) ▲ + Redistribute Command Cards + Increase Critical Strength (3 turns) & increase NP Gain (1 turn) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 292,
+    "skills": [
+      "Increase ATK (3 turns) & gain C. Stars each turn (3 turns) for all allies",
+      "Increase Buster Card effectiveness (3 turns) & apply Special Attack [Demonic] (3 turns) & apply Invincible (1 turn) for yourself",
+      "Increase NP Gauge & increase Buster Card's C. Star Gather Rate (1 turn) & increase Buster Card's Critical Strength (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 305,
+    "skills": [
+      "Apply Invincible (3 times, 3 turns) to yourself & absorb NP each turn from all allies excluding yourself (3 turns) + Apply Invincible (1 time, 3 turns) & increase NP Gain (3 turns) for all allies excluding yourself",
+      "Apply Target Focus (1 turn) & increase NP Gauge for yourself + Decrease Charge & decrease ATK (3 turns) & decrease DEF (3 turns) to all enemies",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & NP Gauge for yourself + Decrease a single target's Charge"
+    ]
+  },
+  {
+    "collectionNo": 320,
+    "skills": [
+      "Increase Quick (3 turns) & Arts (3 turns) & Buster (3 turns) Card effectiveness for one ally",
+      "Increase NP Gauge & NP Gain (3 turns) for one ally",
+      "Increase NP Strength (3 turns) & increase NP Charge by 1 level when using Noble Phantasm (1 turn) for all allies + Decrease Critical Rate (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 346,
+    "skills": [
+      "Apply Evade (2 times, 3 turns) & Sure Hit (3 turns) to yourself + Decrease Arts Card resistance (3 turns) for all enemies + Decrease Arts Card resistance (3 turns) for all [Evil] enemies",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself",
+      "Increase NP Gauge & increase Arts Card's C. Star Gather Rate (1 turn) or Buster Card C. Star Gather Rate (1 turn) for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 357,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card Critical Strength (3 turns) for one ally",
+      "Increase ATK (3 turns) & Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for all allies + Gain C. Stars each turn (3 turns) for yourself",
+      "Increase NP Gauge & Buster Card C. Star Gather Rate (1 turn) for one ally + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 364,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & apply Special Attack [Divine] (3 turns) for yourself + Inflict Curse to all enemies (5 turns)",
+      "Increase NP Gauge & Arts Card C. Star Gather Rate (1 turn) & Arts Card Critical Strength (1 turn) for yourself ",
+      "Increase ATK (3 turns) for all allies + Increase [Wild Beasts] Critical Strength (3 turns) for all allies + Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 374,
+    "skills": [
+      "Increase Arts Card C. Star Gather Rate (3 turns) & Arts Card Critical Strength (3 turns) for one ally + Gain C. Stars each turn (3 turns) for yourself",
+      "Increase Arts Card effectiveness (3 turns) & apply Debuff Immune (1 time, 3 turns) & apply Damage Cut (3 turns) for all allies + Increase NP Gauge for yourself",
+      "Increase NP Gauge each turn (3 turns) & increase ATK (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 390,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Critical Strength (3 turns) & Special Attack [Chaotic] (3 turns) to yourself + Apply Damage Cut (3 turns) to all allies excluding yourself",
+      "Increase C. Star Gather Rate (3 turns) & gain C. Stars each turn (3 turns) & gain C. Stars each turn (3 turns) if only on a [Near Water] or [Aerial] field for yourself + Gain C. Stars + Gain C. Stars if only on a [Near Water] or [Aerial] field",
+      "Greatly increase NP Gauge & increase NP Strength (3 turns) & apply Invincible (2 time, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 164,
+    "skills": [
+      "Apply Damage Cut (3 times · 5 turns) & Debuff Immune (3 times · 5 turns) to yourself",
+      "Apply Target Focus (1 turn) & increase DEF (1 turn) for yourself",
+      "Increase ATK (3 turns) & apply Ignore Invincible (3 turns) & chance to inflict Death during normal attacks (1 time · 3 turns) & increase DEF (1 turn) & inflict Stun (1 turn) [Demerit] to yourself",
+      "Apply Damage Cut (3 times, 5 turns) & Debuff Immune (3 times, 5 turns) & increase Buster Card effectiveness (3 turns) ▲ & NP Gauge ▲ for yourself",
+      "Apply Target Focus (1 turn) & increase DEF for yourself (1 turn) & apply a state where your ATK increases the lower your HP gets (activated when HP is 50% or less) (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 163,
+    "skills": [
+      "Apply Evade (2 times · 3 turns) + gain C. Stars for yourself",
+      "Increase ATK (3 turns) & decrease DEF (3 turns) [Demerit] for yourself",
+      "Decrease NP Strength for all enemies (1 turn) + Decrease NP Strength (1 turn) [Demerit] for all allies except yourself + After 1 turn, increase NP Strength (1 turn) for yourself  ",
+      "Apply Evade (2 times, 3 turns) & increase NP Gauge ▲ for yourself + Gain C. Stars ",
+      "Increase ATK (3 turns) & apply a state that \"increases your Critical Strength before dealing normal attack damage (3 turns)\" (3 turns) ▲ & decrease DEF (3 turns) [Demerit] for yourself",
+      "Decrease NP Strength (1 turn) for all enemies + Decrease NP Strength (1 turn) [Demerit] for all allies except yourself + Increase NP Strength ▲ (2 turns) for yourself  "
+    ]
+  },
+  {
+    "collectionNo": 167,
+    "skills": [
+      "Decrease Debuff Resist (1 turn) for one enemy + increase NP gauge for yourself ",
+      "Decrease Charge by 1 & decrease DEF (3 turns) for all enemies",
+      "Apply Invincible (1 turn) & increase Critical Strength, NP Gain, Debuff Resist, and Recovery amount (1 turn) & greatly decrease HP [Demerit] for yourself",
+      "Decrease Debuff Resist (1 turn) & decrease Arts Card Resist ▲ (1 turn) for one enemy + increase NP Gauge for yourself",
+      "Decrease Charge by 1 & remove Buffs ▲ & decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 190,
+    "skills": [
+      "Gain C. Stars each turn (3 turns) & increase DEF (3 turns) for yourself",
+      "Increase NP Gauge & decrease HP [Demerit] for yourself",
+      "Remove DEF Buffs [Demerit] & increase NP Strength (1 turn) & Critical Strength (1 turn) for yourself",
+      "Increase NP Gauge & decrease HP [Demerit] for yourself + Gain a large amount of C. Stars ▲ "
+    ]
+  },
+  {
+    "collectionNo": 191,
+    "skills": [
+      "Gain C. Stars each turn (3 turns) & increase DEF (3 turns) for yourself",
+      "Increase NP Gauge & decrease HP [Demerit] for yourself",
+      "Remove DEF Buffs [Demerit] & increase NP Strength (1 turn) & Critical Strength (1 turn) for yourself",
+      "Increase NP Gauge & decrease HP [Demerit] for yourself + Gain a large amount of C. Stars ▲ "
+    ]
+  },
+  {
+    "collectionNo": 209,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) for yourself",
+      "Increase NP Gauge & C. Star Gather Rate (1 turn) for yourself",
+      "Increase NP Strength (1 turn) & apply Evade (1 time, 3 turns) for yourself",
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply Special Attack [Heaven Attribute] (3 turns) ▲ for yourself",
+      "Increase NP Gauge & C. Star Gather Rate (1 turn) & ATK (3 times, 3 turns) ▲ for yourself",
+      "Increase NP Strength (3 turns ▲) & increase NP Charge by 2 levels when using NP (1 time, 3 turns) ▲ & Apply Evade (2 times ▲, 3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 224,
+    "skills": [
+      "Apply Invincible (1 turn) + apply Damage Cut to all allies (3 times, 3 turns)",
+      "Increase Arts Card effectiveness (3 turns) & apply Debuff Immune (1 time, 3 turns) for yourself",
+      "Chance to increase ATK (3 turns) & chance to gain C. Stars each turn (3 turns) & increase NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 238,
+    "skills": [
+      "Apply [Infinite Growth] to yourself, which applies [Growth] (Increase your Max HP ) each turn for 10 turns <[Growth] state can be applied up to 10>",
+      "Reduce Skill cooldown by 1 & increase NP charge based on the amount of [Growth] applied & remove [Infinite Growth] and [Growth] for yourself [Demerit] ",
+      "Increase your ATK (3 turns)",
+      "Apply [Infinite Growth] to yourself, which applies [Growth] (Increase your Max HP ▲) & increase NP ATK Resistance ([Growth] removal can be applied) ▲ each turn for 10 turns <up to 10 [Growth] and NP ATK Resistance/Growth can be stacked>",
+      "Increase ATK (3 turns) & apply a state where NP Strength increases for every [Growth] state applied (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 297,
+    "skills": [
+      "Decrease ATK (3 turns) & decrease DEF (3 turns) & inflict [Fear] state (3 turns) & inflict [Confusion] state where there's a \"very low chance to inflict Skill Seal each turn\" (3 turns) & inflict Curse (3 turns) for all enemies",
+      "Apply Guts (2 times, 5 turns) for yourself + Increase Critical Strength of all [Evil] allies (3 turns) + Increase Critical Strength of all [Chaotic] allies (3 turns)",
+      "Significantly increase your NP Gauge + Increase ATK of all [Evil] allies (3 turns) + Increase ATK of all [Chaotic] allies (3 turns) + Inflict Curse (5 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 336,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (3 turns) & apply Special Attack [Caster] (3 turns) for yourself",
+      "Increase NP Gauge & C. Star Gather Rate (1 turn) & Critical Strength (1 turn) for yourself",
+      "Apply Evade (1 turn) & Debuff Immune (1 turn) for yourself + Gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 338,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & NP Gain (3 turns) for all allies + Gain C. Stars each turn (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) & Debuff Immune (1 time, 3 turns) & increase Buff Removal Resist (1 time, 3 turns) for one ally",
+      "Inflict Skill Seal (1 turn) to all enemies + Increase NP Strength (3 turns) & NP Gauge for yourself"
+    ]
+  },
+  {
+    "collectionNo": 339,
+    "skills": [
+      "Increase ATK (3 turns) for yourself + Increase Buster Card effectiveness (3 turns) for all allies",
+      "Increase NP Gauge for yourself + Increase Overcharge level by 1 when using Noble Phantasm (1 turn) for all allies",
+      "Inflict NP Seal (1 turn) & decrease Critical Rate (3 turns) for all enemies + Increase Buster Card C. Star Gather Rate (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 352,
+    "skills": [
+      "Restore HP & remove one Debuff & increase NP Gain (3 turns) for all allies",
+      "Increase Arts Card effectiveness (3 turns) & Critical Strength (3 turns) & apply Special Attack [Undead] (3 turns) for all allies + Decrease Critical Strength (3 turns) for all enemies",
+      "Increase NP Gauge & Buff Removal Resist (1 turn) for one ally + Increase [Yu Mei-ren]'s NP Strength (3 turns) & NP Gauge for one ally"
+    ]
+  },
+  {
+    "collectionNo": 369,
+    "skills": [
+      "Restore HP & remove Debuffs for one ally + Increase your ATK (3 turns) ",
+      "Increase NP Gauge & decrease HP by 2000 [Demerit] for yourself + Increase NP Gauge & increase Arts Card effectiveness (3 turns) for all [Evil] allies",
+      "Apply Guts (1 time, 3 turns, stackable with other Guts) & apply Guts (3 turns) with a high activation chance & apply a state that \"increases your NP Strength (5 turns) when Guts is triggered\" & apply Target Focus (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 376,
+    "skills": [
+      "Increase NP Gauge for yourself + Greatly decrease Critical Rate (1 turn) & disable HP recovery (1 turn) for all enemies",
+      "Increase ATK (3 turns) & Buster Card effectiveness (3 turns) for yourself + Chance to inflict Stun (1 turn) & inflict Curse (3 turns) to all enemies",
+      "Restore HP & slightly increase NP Gauge & increase NP Strength (1 turn) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 107,
+    "skills": [
+      "Decrease one enemy's Critical Rate (3 turns)",
+      "Decrease Charge & ATK (3 turns) for one enemy",
+      "Gradually increase your Quick Card effectiveness each turn (5 turns) & Incapacitate after 5 turns [Demerit]",
+      "Gradually increase your Quick Card effectiveness each turn (5 turns) & Apply Guts ▲ (1 time, 6 turns, stackable with other Guts) for yourself & Incapacitate after 5 turns [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 96,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) & increase ATK (1 turn) & Debuff Resist (3 turns) for yourself",
+      "Increase your NP Gain (3 turns)",
+      "Decrease one enemy's Charge + remove your Debuffs + gain C. Stars ",
+      "Increase NP Gain (3 turns) & increase NP Gauge ▲ & apply \"a state that removes one Buff for one enemy during Critical Attacks\" (3 turns) ▲ for yourself "
+    ]
+  },
+  {
+    "collectionNo": 106,
+    "skills": [
+      "Increase Critical Strength (3 turns) & C. Star Gather Rate (3 turns) for yourself",
+      "Increase all allies' ATK (3 turns) + Increase ATK for all [Dragon] allies (3 turns)",
+      "Increase Buster Card effectiveness　 (1 turn) & apply Invincible (1 turn) & decrease HP [Demerit] for yourself"
+    ]
+  },
+  {
+    "collectionNo": 147,
+    "skills": [
+      "Greatly increase your ATK (1 turn)",
+      "Apply Guts (1 time, 5 turns) & increase Critical Strength (3 turns) for yourself",
+      "Chance to immobilize a single enemy (1 turn)",
+      "Greatly increase ATK (4 times, 2 turns ▲) & increase Buster Card C. Star Gather Rate (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 158,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & DEF (1 turn) for yourself",
+      "Increase your ATK (2 turns)",
+      "Decrease Death Resist (1 turn) & ATK (1 turn) & remove buffs for one enemy",
+      "Increase ATK (3 turns ▲) & apply Special Attack against enemies with [Human Attribute] (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 204,
+    "skills": [
+      "Gain C. Stars each turn (3 turns) & increase Critical Strength (3 times, 5 turns) for yourself",
+      "Increase your Arts Card effectiveness (3 times, 5 turns)",
+      "Decrease DEF (3 times, 5 turns) for a single enemy",
+      "Decrease DEF (3 times, 5 turns) for a single enemy + Increase C. Star Gather Rate (1 turn) ▲ &  increase Critical Strength (1 turn) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 250,
+    "skills": [
+      "Apply a state where your ATK gradually increases per turn (3 turns) & \"Change field to [Burning]\" status (3 turns) & inflict Burn (3 turns) [Demerit] to yourself",
+      "Apply Invincible (1 turn) & Buff Removal Resist (1 turn) for yourself",
+      "Gain C. Stars each turn (3 turns) & increase NP Gauge for yourself",
+      "Apply Invincible (1 turn) & Buff Removal Resist (1 turn) & Special Attack against enemies with the [Heaven Attribute] when on a [Burning] field (3 turns) ▲ for yourself",
+      "Gain C. Stars each turn (3 turns) & increase NP Gauge ▲ & increase Buster Card effectiveness (3 turns) when on a [Burning] field ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 268,
+    "skills": [
+      "Increase your ATK (3 turns) + Increase ATK (3 turns) & apply Charm Immune (3 turns) for all allies excluding yourself ",
+      "Increase NP Strength (1 time, 3 turns) & apply Invincible (1 time, 3 turns) & change the NP Card type (3 turns) for yourself",
+      "Increase NP Gauge & chance to increase Quick Card effectiveness (3 turns) & chance to increase Arts Card effectiveness (3 turns) & chance to increase Buster Card effectiveness (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 303,
+    "skills": [
+      "Apply [Genji] Special Attack (3 turns) & increase Critical Strength (3 turns) & increase NP Gauge for yourself + Decrease C. Star Gather Rate for all allies except yourself (3 turns)",
+      "Apply Guts (1 time, 3 turns, stackable with other Guts) & increase Death Resistance (3 turns) & apply a state where \"[Grudge of Vengeance] (10 turns) is applied to yourself when Guts is activated\" (3 turns) for yourself",
+      "Apply Evade (2 times, 3 turns) & increase ATK (3 turns) for yourself + Inflict Curse (3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 321,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & apply Evade (2 times, 3 turns) for yourself ",
+      "Increase NP Strength (3 turns) for yourself + High chance to inflict Charm (1 turn) to all enemies",
+      "Increase NP Gauge & apply a state of \"inflict [Flames of Love] during normal attacks (3 turns)\" & apply Special Attack [Flames of Love] <Special Attack damage increases with each [Flames of Love] (Maximum 10) on the target> (3 turns) to yourself"
+    ]
+  },
+  {
+    "collectionNo": 328,
+    "skills": [
+      "Increase C. Star Gather Rate (1 turn) & Critical Strength (1 turn) & remove Debuffs for a single ally",
+      "Low chance to inflict Charm (1 turn) & decrease DEF (3 turns) for all enemies + Gain C. Stars",
+      "Increase Arts Card effectiveness (3 turns) & NP Gauge for yourself + Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 356,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & apply Evade (2 times, 3 turns) for yourself ",
+      "Inflict Curse to all enemies (3 turns) + Apply Target Focus & a \"Decrease DEF (3 turns) for a single enemy when damaged\" state (3 turns) & increase NP Gauge for yourself",
+      "Increase Death Success Rate (3 turns) & Critical Strength (3 turns) & apply Special Attack [Servant] (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 370,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply HP Recovery per turn (3 turns) for yourself ",
+      "Significantly increase NP Gauge for yourself + Apply [Good] trait (1 turn) & increase Buff Success Rate when receiving a Buff (1 turn) to all allies + Apply [Evil] trait (1 turn) & decrease Buff Success Rate when receiving a Buff (1 turn) to all enemies",
+      "Increase Arts Card effectiveness (3 turns) to all allies + Chance to apply Evade (1 time, 3 turns) & chance to apply Debuff Immune (1 time, 3 turns) & chance to apply Death Immune (1 time, 3 turns) to all allies with [Good] trait"
+    ]
+  },
+  {
+    "collectionNo": 388,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & apply a state that \"applies [Completed Draft] (5 turns) to yourself when attacking\" (5 times, 5 turns) for all allies + Apply a state that \"increases Critical Strength (3 turns) for yourself before damage from Quick attacks\" (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) to a single ally + Apply a state that \"sends yourself at the back of the line at the end of turn <cannot retreat if there is only 1 Servant left on the field> (1 time, 1 turn) for yourself",
+      "Increase NP Strength (3 turns) & increase NP according to the number of [Completed Draft] & remove [Completed Draft] <ignore remove resist> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 407,
+    "skills": [
+      "Charges own NP gauge + Charges own NP gauge every turn for 3 turns + Grants self Buff-On-Defense buff for 5 times, 3 turns (Charges own NP gauge by 10% when taking attack)",
+      "Inflicts Curse for 3 turns to all enemies + Increases own damage against enemies with Curse status for 3 turns + Increases own Arts performance for 3 turns",
+      "Grants self Invincibility for 3 attacks, 3 turns + Grants party Guts status except self for 1 time, 3 turns + Recovers party's HP"
+    ]
+  },
+  {
+    "collectionNo": 409,
+    "skills": [
+      "Increases own Quick performance for 3 turns + Increases own Buster performance for 3 turns + Grants self Invincibility for 2 attacks, 3 turns.",
+      "Increases own attack for 3 turns + Grants self Debuff-On-Attack buff for 3 turns + (Inflicts Burn with 500 damage for 3 turns to enemy when attacking) + Grants self Poison Debuff Immunity for 3 turns + Grants self Debuff Immunity for 3 times, 3 turns",
+      "Charges own NP gauge + Increases own critical damage for 3 turns + Increases own critical star absorption for 3 turns"
+    ]
+  },
+  {
+    "collectionNo": 83,
+    "skills": []
+  },
+  {
+    "collectionNo": 166,
+    "skills": [
+      "Remove Debuffs & restore HP & apply Debuff Immune (1 time, 3 turns) for one ally",
+      "Remove Invincible & chance to inflict Stun (1 turn) for one enemy",
+      "Increase Critical Strength (3 turns) & C. Star Gather Rate (3 turns) for yourself",
+      "Increase your Critical Strength (3 turns) & C. Star Gather Rate (3 turns) & Arts Card effectiveness (3 turns) ▲ & apply a state where all allies' NP Gauge is slightly increased when you perform an Extra Attack (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 220,
+    "skills": [
+      "Increase Critical Strength (3 turns) & C. Star Gather Rate (3 turns) for yourself",
+      "Increase NP Gauge & restore HP & increase Buster Card effectiveness (3 turns) & increase NP Strength (3 turns) & apply Evade (1 time, 3 turns) for yourself",
+      "Lock the entire Party's Command Card deck <effect is removed if a Party member changes or if the cards are shuffled> (3 turns) & gain C. Stars each turn (3 turns) for yourself",
+      "Increase your Critical Strength (3 turns) & C. Star Gather Rate (3 turns) & ATK (3 turns) ▲ & apply a state where you gain C. Stars when you perform an Extra Attack (3 turns) ▲"
+    ]
+  },
+  {
+    "collectionNo": 244,
+    "skills": [
+      "Increase NP Gauge & increase ATK (3 turns) & gain C. Stars per turn (3 turns) for all allies",
+      "Apply Target Focus (1 turn) & Damage Cut (1 turn) & increase ATK (3 turns) for yourself",
+      "Apply Invincible (1 turn) & increase NP Gain (1 turn) & apply Skill Seal (1 turn) [Demerit] for a single ally",
+      "Apply Invincible (1 turn) & increase NP Gain (1 turn) & NP Strength (3 turns) ▲ & apply Special Attack [Lawful] (3 turns) ▲ & Skill Seal (1 turn) [Demerit] to a single ally"
+    ]
+  },
+  {
+    "collectionNo": 285,
+    "skills": [
+      "Apply Guts (1 time, 5 turns) & remove Debuffs & restore HP per turn (3 turns) & increase NP Strength (3 turns) & apply Mermaid's Nourishment (4 turns) where \"Skill Rank Up is applied every turn (4 turns)\" for yourself <[Skill Rank Up] can be stacked and the second and third skills can rank up by a maximum of 2. Using the ranked up skill will remove all levels of the [Skill Rank Up]>",
+      "Increase NP Gauge for yourself + Gain C. Stars ",
+      "Apply Evade to all allies (1 time, 3 turns) + Remove Sure Hit & apply 1 [Enchant] state where \"Critical Rate decreases (treated as a Mental Debuff)\" (3 turns) & decrease DEF (3 turns) & decrease Arts ATK resist (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 351,
+    "skills": [
+      "Inflict Skill Seal (1 turn) & decrease DEF (3 turns) for all enemies + Increase ATK (3 turns) for yourself",
+      "Significantly increase NP Gauge & increase NP Strength (3 turns) for yourself",
+      "Apply Invincible (1 time, 3 turns) to all allies + Increase Buff Removal Resist (1 turn) for all [Good] allies + When on a [Millennium Castle] field, increase NP Gauge for all allies excluding yourself"
+    ]
+  },
+  {
+    "collectionNo": 195,
+    "skills": [
+      "Increase NP Gauge each turn (3 turns) & increase NP Strength (3 turns) for all allies",
+      "Inflict Fear (3 turns) & decrease DEF (3 turns) for all enemies",
+      "Decrease Charge by 1 & decrease ATK (3 turns) for one enemy",
+      "Increase NP Gauge each turn (3 turns) & increase NP Strength (3 turns) for all allies + Increase NP Gauge for yourself ▲"
+    ]
+  },
+  {
+    "collectionNo": 198,
+    "skills": [
+      "Apply Evade (1 turn) & increase NP Gauge for yourself",
+      "Increase Arts Card effectiveness (3 turns) & Buff Removal Resist (1 turn) & Debuff Resist (1 turn) for yourself",
+      "Decrease target enemy's DEF (3 turns) when attacking with your own Arts Cards (3 turns)",
+      "Decrease target enemy's DEF (3 turns) when attacking with your own Arts Cards (3 turns) & increase Arts Card C. Star Gather Rate (3 turns) for yourself ▲ + Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 222,
+    "skills": [
+      "Apply Invincible (1 turn) & increase ATK (1 turn) for yourself",
+      "Gain C. Stars + Decrease C. Star Gather Rate (1 turn) for yourself",
+      "Apply Ignore Invincible (1 turn) & increase NP Gauge & apply Special Attack [Threat to Humanity] (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 275,
+    "skills": [
+      "Apply Invincible (1 turn) & increase NP Gauge each turn (3 turns) & gain C. Stars & apply Target Focus against [Males] (1 turn) for yourself",
+      "Decrease Charge and gain NP corresponding to the amount decreased & decrease DEF (3 turns) for all enemies",
+      "Apply [Living Flame] state where [Decrease DEF (3 turns) and inflict Burn (3 turns) to a single enemy when damaged (3 times, 3 turns)] & increase DEF (3 turns) for yourself",
+      "Apply Invincible (1 turn) & increase NP Gauge each turn (3 turns) & gain a large amount of C. Stars ▲ & apply Target Focus ▲ (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 281,
+    "skills": [
+      "Increase NP Gauge & apply Debuff Immune (3 turns) for yourself + Gain C. Stars",
+      "Apply Evade (1 turn) & increase Quick Card effectiveness (3 turns) for yourself + Decrease Quick Card Resistance (3 turns) for one enemy",
+      "Increase one ally's C. Star Gather Rate (1 turn) + Increase Critical Strength (3 turns) & increase incoming Critical Resistance (3 turns) for all allies",
+      "Increase C. Star Gather Rate (1 turn) & Quick Card effectiveness (3 turns) ▲ for one ally + Increase Critical Strength (3 turns) & Critical Resistance (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 295,
+    "skills": [
+      "Apply Guts (1 time, 5 turns) & apply Curse (10 turns) [Demerit] & apply Curse (10 turns) [Demerit] & apply Curse (10 turns) [Demerit] & increase NP charge based on the amount of [Curse] applied for yourself",
+      "Decrease DEF (3 turns) & decrease Quick ATK resist (3 turns) for all enemies + Apply Evade (1 time, 3 turns) & apply a state where HP recovers each turn (5 turns) & apply Curse (10 turns) [Demerit] for all allies",
+      "Increase ATK (3 turns) & increase C. Star Gather Rate (3 turns) for a single ally + Apply a state that \"removes 1 Curse when attacking with Quick Card & slightly increase ATK (3 turns) for yourself when removal is succesful\" (3 turns) for yourself + Absorb Curse from all enemies and allies excluding yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 289,
+    "skills": [
+      "Inflict [Sleep] <removed when sustaining attack and become Stunned> (2 turns) & remove Buffs & greatly decrease DEF when in [Sleep] state (1 time, 2 turns) for a single enemy",
+      "Inflict Fear (3 turns) & decrease DEF (3 turns) for all enemies",
+      "Increase NP Gauge & increase Debuff Success Rate (3 turns) for yourself + Decrease Buster ATK resist (3 turns) for a single enemy",
+      "Inflict Fear (3 turns) & decrease DEF (3 turns) for all enemies + Increase Buster Card effectiveness (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 308,
+    "skills": [
+      "Increase Quick Card effectiveness (3 times, 3 turns) & Buster Card effectiveness (3 times, 3 turns) & apply Evade (1 time, 3 turns) for yourself",
+      "Increase Critical Strength (1 turn) & apply Special Attack [Machine] (3 turns) for yourself",
+      "Increase ATK (3 turns) & restore HP for all allies"
+    ]
+  },
+  {
+    "collectionNo": 334,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) & increase NP Gauge for all allies + Decrease C. Star Gather Rate (1 turn) for all [Human Servant] allies",
+      "Increase NP Charge by 2 levels when using NP (1 time, 3 turns) & apply \"Gain C. Stars during normal Buster attacks\" (3 turns) to a single ally + Increase ATK (3 turns) & DEF (3 turns) for all [Beast Servant] allies",
+      "Apply Ignore Invincible (3 turns) & increase Critical Strength (3 turns) & apply \"Inflict Poison, Curse, Burn to target when attacking\" (3 turns) for yourself + Inflict Corroding Poison, Disastrous Curse, Spreading Fire to all enemies (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 324,
+    "skills": [
+      "Increase ATK (3 turns) & increase Critical Strength (3 turns) & increase NP Gauge for all allies + Apply [Evil] to all allies excluding yourself (3 turns)",
+      "Apply Invincible (1 turn) & increase NP Gauge for yourself + Apply Invincible to all [Evil] allies excluding yourself (1 time, 1 turn)",
+      "Gain C. Stars each turn (3 turns) & increase Quick Card effectiveness (3 turns) & Apply Special Attack [Curse] for yourself  (3 turns)",
+      "Gain C. Stars each turn (3 turns) & increase Quick Card effectiveness (3 turns) & apply Special Attack [Curse] (3 turns) & apply \"a state that inflicts Curse (3 turns) before inflicting damage through normal attacks\" (3 turns) for yourself ▲"
+    ]
+  },
+  {
+    "collectionNo": 373,
+    "skills": [
+      "Increase ATK (3 turns) & Critical Resistance (3 turns) for all allies + [You can choose to expend C. Stars to gain this effect] Expend 10 C. Stars and increase ATK (3 turns) for yourself ",
+      "Increase NP Gauge for a single ally + [You can choose to expend C. Stars to gain this effect] Expend 10 C. Stars and apply Evade (2 times, 3 turns) & Sure Hit (3 turns) for a single ally",
+      "Apply Invincible (1 turn) & increase Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself + [You can choose to expend C. Stars to gain this effect] Expend 10 C. Stars and increase NP Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 389,
+    "skills": [
+      "Apply Debuff Immune (1 time, 3 turns) & apply HP Recovery each turn (3 turns) & increase NP Gauge each turn (3 turns) for yourself + Increase NP Gauge for all allies in a [My Fair Soldier] state",
+      "Increase NP Strength (3 turns) for all allies + Apply [My Fair Soldier] <a special Skill Seal> (3 turns) [Demerit] to all allies excluding yourself & while in [My Fair Soldier] state, increase ATK (3 turns) & while in [My Fair Soldier] state, increase DEF (3 turns)",
+      "Increase Arts Card effectiveness (3 turns) for yourself + Chance to inflict Stun (1 turn) & decrease DEF (3 turns) to all enemies + Seal Arts Card (1 turn) [Demerit] for all allies excluding yourself and [Altria Caster]"
+    ]
+  },
+  {
+    "collectionNo": 393,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & apply \"a state where you apply [Spirit's Anger] (5 turns) to yourself during normal attacks\" (3 turns) & apply Evade (2 times, 3 turns) to yourself",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) for all allies + Increase NP Strength (3 turns) & apply \"a state where you apply [Spirit's Anger] (5 turns) to all [Wandjina] allies when damaged\" (3 turns) to all [Human Attribute] allies excluding yourself",
+      "Increase NP Gauge for yourself + Increase NP Gauge per turn (5 turns) & restore HP per turn (5 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 316,
+    "skills": [
+      "Increase NP Strength (3 turns) & increase NP Gauge for all allies",
+      "Increase NP Gauge & apply \"decrease NP Gauge at the end of the turn for yourself (1 time)\" <treated as Buff> for a single ally + Gain C. Stars ",
+      "Increase Buster Card effectiveness (1 turn) & boost NP Strength Up <Temporarily increase the effect of NP Strength Up, unstackable> (1 turn) & apply a state that \"removes Buffs & apply [Eternal Slumber] <nullify Resistance, unable to remove, unable to select Sacrifice, unable to Order Change> & apply Target Focus (3 turns) (1 time)\" for a single ally <nullify Resistance, unable to remove> [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 335,
+    "skills": [
+      "Increase Arts Card (3 turns) & Buster Card effectiveness (3 turns) & gain advantage against (Caster) class (3 turns) for yourself",
+      "Significantly increase your NP Gauge ",
+      "Apply Target Focus (1 turn) & greatly increase DEF (1 turn) & increase NP Gain (1 turn) for yourself + Absorb Curse from all allies excluding yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 353,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) & Max HP (3 turns) & Critical Strength (1 turn) for one ally",
+      "Increase ATK (3 turns) & NP Gauge & increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies",
+      "Apply Invincible (1 turn) to all allies + Apply a state where Charge is decreased by 1 each turn (1 time) for all enemies <does not stack> + Increase NP Gauge for yourself depending on number of enemies"
+    ]
+  },
+  {
+    "collectionNo": 367,
+    "skills": [
+      "Increase ATK for all allies (3 turns) + Increase Critical Strength for all [Lawful] allies (3 turns) + Increase NP Strength for all [Neutral] allies (3 turns) + Increase NP Gain for all [Chaotic] allies (3 turns) + Apply [Mount Liang] to all allies excluding yourself (3 turns) + Increase C. Star Gather Rate for yourself (1 turn)",
+      "Increase NP Gauge & increase Max HP (3 turns) & decrease Debuff Resist (3 turns) [Demerit] for all [Mount Liang] allies ",
+      "Increase Quick Card effectiveness (3 turns) & Buster Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 372,
+    "skills": [
+      "Increase NP Gauge & increase NP Gauge each turn (3 turns) & change field to [Near Water] status (3 turns)",
+      "Increase ATK (3 turns) & Critical Strength (3 turns) & apply Sure Hit (3 turns) for all allies + Remove 1 Guts from all enemies & when successfully removed, decrease DEF (3 turns) for the target",
+      "Increase Quick Card effectiveness (3 turns) & Arts Card effectiveness (3 turns) & Critical Strength (3 turns) for yourself + Apply Incoming Damage Cut (3 times, 3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 392,
+    "skills": [
+      "Increase ATK (3 turns) & DEF (3 turns) & extend 3 turns for removable states [recover HP each turn, increase NP each turn, gain C. Stars each turn] for all allies + Extend 3 turns for removable status ailments [Poison, Curse, Burn] to all enemies",
+      "Remove Buffs & decrease Debuff Resist (3 turns) & decrease Critical Rate (3 turns) & apply a state where Charge is decreased by 1 each turn (2 times) <cannot be stacked> for one enemy + Increase NP Gauge for yourself",
+      "Increase NP Strength (3 turns) for all allies + Gain C. Stars + Increase NP Strength (3 turns) & NP Gauge for all allies in a [Enshrined Deity's Anger] state"
+    ]
+  },
+  {
+    "collectionNo": 377,
+    "skills": [
+      "Increase NP Gauge each turn (6 turns) & Critical Strength (6 times) & apply Damage Cut (6 times) for yourself",
+      "Inflict Skill Seal (1 turn) & Burn (3 turns) & increase Charge [Demerit] for all enemies + Increase ATK (3 turns) & apply [Holy Grail Possession] (3 turns) for yourself",
+      "Increase Buff Removal Resist (1 time, 3 turns) for yourself + When in a [Holy Grail Possession] state, apply Special Attack [Dragon] (3 turns) & Special Attack [Roman] (3 turns ) & gain C. Stars each turn (3 turns) & apply Debuff Immune (1 time) & apply Ignore DEF (3 turns) & increase HP Recovery amount (3 turns) & increase NP Gauge each turn (3 turns) for yourself"
+    ]
+  }
+]

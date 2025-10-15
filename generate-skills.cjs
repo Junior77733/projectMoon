@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const API_URL = 'https://api.atlasacademy.io/export/NA/nice_servant_lore.json'
-const OUTPUT_FILE = path.resolve(_dirname, 'src', 'servant-skills.json')
+const OUTPUT_FILE = path.resolve(__dirname, 'src', 'servant-skillArray.json')
 
 async function fetchServantSkillsJSON() {
 
@@ -22,20 +22,8 @@ async function fetchServantSkillsJSON() {
     const data = await response.json()
 
     const formattedData = data.map(servant => ({
-            id: servant.id,
             collectionNo: servant.collectionNo,
-            name: servant.name,
-            classId: servant.classId,
-            className: servant.className,
-            bondEquip: servant.bondEquip,
-            valentineEquip: servant.valentineEquip,
-            valentineScript: servant.valentineScript,
-            skills: servant.skills,
-            classPassives: servant.classPassives,
-            extraPassives: servant.extraPassives,
-            appendPassives: servant.appendPassives,
-            noblePhantasms: servant.noblePhantasms,
-            profile: servant.profile,
+            skills: servant.skills.map(skill => skill.detail),
     }));
 
     console.log(`successfully fetched ${formattedData.length} entries`)
