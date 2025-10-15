@@ -417,6 +417,54 @@
     ]
   },
   {
+    "collectionNo": 396,
+    "skills": [
+      "Increases own Arts performance for 3 turns + Charges own NP gauge + Gains critical stars every turn for 3 turns",
+      "Increases own critical star absorption of Arts Cards for 3 turns + Increases own critical damage of Arts Cards for 3 turns + Gains critical stars",
+      "Increases own attack for 3 turns + Reduces one enemy's attack for 3 turns + Gains critical stars"
+    ]
+  },
+  {
+    "collectionNo": 402,
+    "skills": [
+      "Grants self Guts status for 1 time, 3 turns + Charges own NP gauge + Grants self On-Death-Activate buff for 3 turns (Charges own NP gauge by 25% when allies defeated)",
+      "Increases own damage against Divinity enemies for 3 turns + Increases own damage against Demonic enemies for 3 turns + Increases own critical damage for 3 turns",
+      "Increases own Arts performance for 3 turns + Increases own NP damage for 1 turn + Charges own NP gauge"
+    ]
+  },
+  {
+    "collectionNo": 405,
+    "skills": [
+      "Increases own critical star absorption for 3 turns + Increases own critical damage for 3 turns + Gains critical stars every turn for 3 turns + Increases own Mental Debuff resistance for 3 turns",
+      "Charges own NP gauge + Increases own attack for 3 turns + Gains critical stars + Inflicts Burn for 3 turns to all enemies",
+      "Increases own Quick performance for 3 turns + Increases own Arts performance for 3 turns + Increases own Buster performance for 3 turns + Reduces own damage taken for 3 turns + Grants self Evasion for 2 attacks, 3 turns"
+    ]
+  },
+  {
+    "collectionNo": 432,
+    "skills": [
+      "Increases party's attack for 3 turns + Increases party's NP generation rate for 3 turns + Increases party's critical star generation rate for 3 turns + Grants self On-Attack-Activate buff for 3 turns + (Increases own critical star generation rate by 30% for 3 turns when attacking (Activates first)",
+      "Increases own Quick performance for 3 turns + Increases own Arts performance for 3 turns + Increases own Buster performance for 3 turns + Increases own NP damage for 3 turns + Reduces one ally's skill cooldown by 1",
+      "Charges own NP gauge + Increases own critical star absorption of Buster Cards for 3 turns + Increases own critical damage of Buster Cards for 3 turns + Gains critical stars"
+    ]
+  },
+  {
+    "collectionNo": 434,
+    "skills": [
+      "Grants self Evasion for 2 attacks, 3 turns + Gains critical stars every turn for 3 turns + Increases own NP damage for 3 turns + Increases the NP damage of Serpent or Dragon allies except self for 3 turns",
+      "Increases own Quick performance for 3 turns + Increases own Arts performance for 3 turns + Increases own critical damage for 3 turns + Increases the critical damage of Serpent or Dragon allies except self for 3 turns",
+      " 500% Chance to draw attention of all Serpent or Dragon enemies to self by 300% for 3 turns + Grants self Debuff Immunity for 1 time, 3 turns + Recovers own HP every turn for 3 turns + Charges own NP gauge + Charges own NP gauge by 10% based on the number of Serpent or Dragon allies/enemies on the field"
+    ]
+  },
+  {
+    "collectionNo": 445,
+    "skills": [
+      "500% Chance to draw attention of all enemies to self by 300% for 3 turns + Grant self Buff-On-Defense buff for 5 times, 3 turns + (Increases own attack by 10% for 3 turns) + Absorbs own damage to restore HP for 1 turn + Charges party's NP gauge by 20% except self",
+      "Increases own Buster performance for 3 turns + Ignores Defense for 3 turns + Grants self Debuff-On-Attack buff for 1 attack, 3 turns + (70% Chance to Stun one enemy for 1 turn when attacking) + Charges own NP gauge",
+      "When targeting NOT self: Grants one ally [Prince on a White Horse] status for 3 turns + (Prince on a White Horse: Increases owner's critical damage) + Grants one ally Critical Stars Regeneration buff for 3 turns + Increases one ally's critical star absorption for 3 turns + Grants one ally Defensive Class Advantage against Seven Knight Class enemies for 3 turns (Takes 0.5x damage from them) + Gains critical stars / When targeting self: Grants self [Brave Princess] status for 3 turns (Brave Princess: Increases owner's NP damage) + Charges own NP gauge every turn for 3 turns + Grants self Guts for 1 time, 3 turns. (Revives with 1 HP) + Grants self Debuff Immunity for 1 time, 3 turns + Increases own Instant-Kill Resistance for 3 turns"
+    ]
+  },
+  {
     "collectionNo": 379,
     "skills": [
       "Increase ATK (3 turns) & remove Debuffs for yourself + Gain C. Stars ",
