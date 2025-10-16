@@ -183,10 +183,6 @@ h1 {
   line-height: 1cm;
 }
 
-.second-col {
-  text-size-adjust: initial;
-}
-
 .skill-table {
   display:flex;
   align-items: center;

@@ -60,7 +60,7 @@ export default function ServantDetails({servantId}) {
           {Object.entries(ascensionArt).map(([level, url]) => (
             <div className="servant-container" key={level}>
               <p>Ascension {parseInt(level)}</p>
-              <img className="servant-img" src={url} alt={`Ascension ${level}`} />
+              <img className="servant-img" src={url} alt={`${servant.name} Ascension ${level}`} />
             </div>
           ))}
         </div>

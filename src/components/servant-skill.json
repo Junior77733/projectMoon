@@ -45,16 +45,16 @@
       "Increase ATK (3 turns) \\\n C. Star Drop Rate (3 turns) for one ally",
       "Restore HP \\\n increase DEF (3 turns) for one ally",
       "Increase NP Gain (3 turns) \\\n increase NP Gauge ▲ for one ally",
-      "Restore HP \\\n increase DEF (3 turns) \\\n apply Special Attack against enemies with the [Heaven Attribute] (3 turns) ▲ for one ally"
+      "Restore HP \\\n increase DEF (3 turns) \\\n apply Special Attack against enemies with the [**Sky** Attribute] (3 turns) ▲ for one ally"
     ]
   },
   {
     "collectionNo": 123,
     "skills": [
-      "Increase ATK (3 turns) \\\n increase Buster Card effectiveness (3 turns) when on a [Sunlight] field for yourself",
+      "Increase ATK (3 turns) \\\n increase Buster Card effectiveness (3 turns) when on a【Sunlight Battlefield】field for yourself",
       "Increase all allies' ATK (3 turns)",
       "Increase NP Gauge \\\n gain C. Stars \\\n apply Guts (1 time, 1 turn) for yourself",
-      "Increase all allies' ATK ▲ (3 turns) \\\n Apply \"Change field to [Sunlight]\" status (1 turn) to yourself"
+      "Increase all allies' ATK ▲ (3 turns) \\\n Apply Change field to【Sunlight Battlefield】status (1 turn) to yourself"
     ]
   },
   {
@@ -363,7 +363,7 @@
   {
     "collectionNo": 310,
     "skills": [
-      "Increase ATK (3 turns) \\\n increase Buster Card effectiveness (3 turns) when on a [Sunlight] field for yourself",
+      "Increase ATK (3 turns) \\\n increase Buster Card effectiveness (3 turns) when on a【Sunlight Battlefield】field for yourself",
       "Increase Buster Card effectiveness (3 turns) \\\n apply [Strong Eater] state that \"Restores HP for yourself during normal attacks \\\n Removes 1 Buff of a single enemy \\\n when successfully removed, decreases DEF of a single enemy\" (3 turns)",
       "Apply Incoming Damage Cut (3 times, 3 turns) for all allies \\\n Apply a state that \"increases NP Gauge for all allies each turn\" for yourself (3 turns)"
     ]
@@ -380,7 +380,7 @@
     "collectionNo": 343,
     "skills": [
       "Apply Invincible (2 times, 3 turns) to one ally \\\n Increase NP Gain (5 turns) \\\n apply a state where \"[Heroic King] is applied to yourself (5 turns) when damaged\" (5 turns) for yourself when you are not Invincible \\\n Inflict NP Seal (1 turn) to yourself when you are Invincible [Demerit]",
-      "Increase ATK (3 turns) for all allies \\\n Apply Special Attack [Demonic] (3 turns) \\\n Special Defense [Divine] (3 turns) \\\n increase NP Gauge for yourself",
+      "Increase ATK (3 turns) for all allies \\\n Apply Special Attack [**Demonic**] (3 turns) \\\n Special Defense [Divine] (3 turns) \\\n increase NP Gauge for yourself",
       "Increase Quick Card effectiveness (3 turns) \\\n Critical Strength (3 turns) \\\n Critical Strength against [Evil] enemies (3 turns) for yourself"
     ]
   },
@@ -396,7 +396,7 @@
     "collectionNo": 354,
     "skills": [
       "Increase Arts Card effectiveness (3 turns) \\\n Buster Card effectiveness (3 turns) for yourself \\\n Gain C. Stars ",
-      "Apply Guts (1 time, 3 turns) to a single ally \\\n Gain C. Stars each turn (3 turns) \\\n \"Change field to [Sunlight] status\" (3 turns) for yourself",
+      "Apply Guts (1 time, 3 turns) to a single ally \\\n Gain C. Stars each turn (3 turns) \\\n Change field to【Sunlight Battlefield】status (3 turns) for yourself",
       "Increase Buster Card effectiveness (3 turns) \\\n NP Gauge \\\n apply an \"inflict Burn (3 turns) during normal attacks\" state (3 turns) for yourself"
     ]
   },
@@ -412,7 +412,7 @@
     "collectionNo": 384,
     "skills": [
       "Chance to immobilize (1 turn) a single enemy \\\n Increase Quick Card Critical Strength (3 turns) \\\n apply \"a state that inflicts Curse (5 turns) to a single enemy during Quick attacks\" (3 turns) for yourself",
-      "Increase NP Gauge for yourself \\\n Increase ATK (3 turns) for all allies \\\n Increase Critical Strength (3 turns) of all [Demonic] allies",
+      "Increase NP Gauge for yourself \\\n Increase ATK (3 turns) for all allies \\\n Increase Critical Strength (3 turns) of all [**Demonic**] allies",
       "Apply Invincible (3 times, 3 turns) \\\n apply Debuff Immune (3 times, 3 turns) \\\n increase incoming Critical Resistance (3 turns) for yourself"
     ]
   },
@@ -428,7 +428,7 @@
     "collectionNo": 402,
     "skills": [
       "Grants self Guts status for 1 time, 3 turns \\\n Charges own NP gauge \\\n Grants self On-Death-Activate buff for 3 turns (Charges own NP gauge by 25% when allies defeated)",
-      "Increases own damage against Divinity enemies for 3 turns \\\n Increases own damage against Demonic enemies for 3 turns \\\n Increases own critical damage for 3 turns",
+      "Increases own damage against Divinity enemies for 3 turns \\\n Increases own damage against **Demonic** enemies for 3 turns \\\n Increases own critical damage for 3 turns",
       "Increases own Arts performance for 3 turns \\\n Increases own NP damage for 1 turn \\\n Charges own NP gauge"
     ]
   },
@@ -460,8 +460,8 @@
     "collectionNo": 445,
     "skills": [
       "500% Chance to draw attention of all enemies to self by 300% for 3 turns \\\n Grant self _Buff-On-Defense_ buff for 5 times, 3 turns \\\n (Increases own attack by 10% for 3 turns) \\\n Absorbs own damage to restore HP for 1 turn \\\n Charges party's NP gauge by 20% except self",
-      "Increases own Buster performance for 3 turns \\\n Ignores Defense for 3 turns \\\n Grants self __De_Buff-On-Attack___ buff for 1 attack, 3 turns \\\n (70% Chance to Stun one enemy for 1 turn when attacking) \\\n Charges own NP gauge",
-      "_When targeting NOT self_:\\\n Grants one ally [**Prince on a White Horse**] status for 3 turns \\\n (**Prince on a White Horse**: Increases owner's critical damage) \\\n Grants one ally Critical Stars Regeneration buff for 3 turns \\\n Increases one ally's critical star absorption for 3 turns \\\n Grants one ally Defensive Class Advantage against Seven Knight Class enemies for 3 turns (Takes 0.5x damage from them) \\\n Gains critical stars\\\n \\\n _When targeting self_:\\\n Grants self [**Brave Princess**] status for 3 turns \\\n(**Brave Princess**: Increases owner's NP damage) \\\n Charges own NP gauge every turn for 3 turns \\\n Grants self Guts for 1 time, 3 turns. (Revives with 1 HP) \\\n Grants self Debuff Immunity for 1 time, 3 turns \\\n Increases own Instant-Kill Resistance for 3 turns"
+      "Increases own Buster performance for 3 turns \\\n Ignores Defense for 3 turns \\\n Grants self __De__Buff-On-Attack____ buff for 1 attack, 3 turns \\\n (70% Chance to Stun one enemy for 1 turn when attacking) \\\n Charges own NP gauge",
+      "_When targeting NOT self_:\\\n Grants one ally [**Prince on a White Horse**] status for 3 turns \\\n (**Prince on a White Horse**: Increases owner's critical damage) \\\n Grants one ally Critical Stars Regeneration buff for 3 turns \\\n Increases one ally's critical star absorption for 3 turns \\\n Grants one ally Defensive Class Advantage against **Seven Knight Class** enemies for 3 turns (Takes 0.5x damage from them) \\\n Gains critical stars\\\n \\\n _When targeting self_:\\\n Grants self [**Brave Princess**] status for 3 turns \\\n(**Brave Princess**: Increases owner's NP damage) \\\n Charges own NP gauge every turn for 3 turns \\\n Grants self Guts for 1 time, 3 turns. (Revives with 1 HP) \\\n Grants self Debuff Immunity for 1 time, 3 turns \\\n Increases own Instant-Kill Resistance for 3 turns"
     ]
   },
   {
@@ -497,7 +497,7 @@
       "Increase all allies' ATK (3 turns)",
       "Increase your NP Gain (3 turns)",
       "Greatly increase your C. Star Gather Rate (3 turns)",
-      "Increase ATK (3 turns) for all allies \\\n Increase NP Strength (3 turns) ▲ for all allies that are [Servants with Heaven Attribute] \\\n Gain C. Stars ▲",
+      "Increase ATK (3 turns) for all allies \\\n Increase NP Strength (3 turns) ▲ for all allies that are [Servants with **Sky** Attribute] \\\n Gain C. Stars ▲",
       "Greatly increase C. Star Gather Rate (3 turns) \\\n increase NP Gauge ▲ for yourself"
     ]
   },
@@ -769,7 +769,7 @@
   {
     "collectionNo": 272,
     "skills": [
-      "Increase Buster Card effectiveness (1 turn) \\\n Apply Special Attack [Wild Beasts and Demonic] (1 turn) for yourself",
+      "Increase Buster Card effectiveness (1 turn) \\\n Apply Special Attack [Wild Beasts and **Demonic**] (1 turn) for yourself",
       "Apply Guts (1 time, 3 turns) \\\n increase ATK (3 turns) for yourself \\\n Gain C. Stars ",
       "Increase C. Star Gather Rate (3 turns) \\\n apply status \"Greatly increase your Critical Strength  (1 turn) before dealing damage with Buster Cards\" for yourself (3 times, 3 turns)"
     ]
@@ -891,7 +891,7 @@
     "collectionNo": 427,
     "skills": [
       "Charges party's NP gauge \\\n Increases party's NP damage for 3 turns \\\n Grants self __On-Guts-Activate__ buff for 3 turns \\\n (Gains 30 critical stars when Guts status is activated) \\\n Grants self _On-Death-Activate_ buff for 3 turns \\\n (Gains 30 critical stars when defeated)",
-      "Increases own Arts performance for 3 turns \\\n Grants self ___De_Buff-On-Attack____ buff for 3 turns \\\n (Inflicts Curse with 500 damage for 5 turns to enemy when attacking) \\\n Charges own NP gauge",
+      "Increases own Arts performance for 3 turns \\\n Grants self ___De__Buff-On-Attack_____ buff for 3 turns \\\n (Inflicts Curse with 500 damage for 5 turns to enemy when attacking) \\\n Charges own NP gauge",
       "Grants self Guts status for 1 time, 3 turns \\\n Grants self Debuff Immunity for 3 turns \\\n Charges own NP gauge"
     ]
   },
@@ -1135,7 +1135,7 @@
       "Increase Quick Card effectiveness (3 turns) \\\n Buster Card effectiveness (3 turns) \\\n Critical Strength (3 turns) for yourself",
       "Apply Guts (1 time, 5 turns) \\\n increase NP Gauge for yourself ",
       "Increase C. Star Gather Rate (1 turn) \\\n remove Debuffs for yourself",
-      "Increase C. Star Gather Rate (1 turn) \\\n apply Special Attack [Demonic] (3 turns) ▲ \\\n apply Special Defense [Demonic] (3 turns) ▲ \\\n remove Debuffs for yourself \\\n Gain C. Stars ▲"
+      "Increase C. Star Gather Rate (1 turn) \\\n apply Special Attack [**Demonic**] (3 turns) ▲ \\\n apply Special Defense [**Demonic**] (3 turns) ▲ \\\n remove Debuffs for yourself \\\n Gain C. Stars ▲"
     ]
   },
   {
@@ -1177,7 +1177,7 @@
       "Increase Quick Card effectiveness (3 turns) \\\n Arts Card effectiveness (3 turns) for yourself",
       "Apply Guts (1 time, 3 turns) \\\n increase DEF (3 turns) for yourself",
       "Increase NP Gauge \\\n remove Debuffs for a single ally",
-      "Increase NP Gauge ▲ \\\n remove Debuffs for one ally \\\n Apply Special Attack [Enemies with the Earth Attribute] (3 turns) ▲ \\\n increase NP Gain (3 turns) ▲ for yourself"
+      "Increase NP Gauge ▲ \\\n remove Debuffs for one ally \\\n Apply Special Attack [Enemies with the **Earth** Attribute] (3 turns) ▲ \\\n increase NP Gain (3 turns) ▲ for yourself"
     ]
   },
   {
@@ -1233,7 +1233,7 @@
   {
     "collectionNo": 288,
     "skills": [
-      "Apply Guts (1 time, 5 turns) \\\n increase NP Gain (3 turns) \\\n increase NP Gain only when on a [Near Water] field (3 turns) \\\n increase NP Gain only when on a [Sunlight] field (3 turns) for yourself",
+      "Apply Guts (1 time, 5 turns) \\\n increase NP Gain (3 turns) \\\n increase NP Gain only when on a [Near Water] field (3 turns) \\\n increase NP Gain only when on a【Sunlight Battlefield】field (3 turns) for yourself",
       "Increase NP Gauge for a single ally \\\n Apply Target Focus (1 turn) for yourself",
       "Increase Quick Card effectiveness (3 turns) for yourself \\\n Increase Critical Strength (3 turns) for all allies"
     ]
@@ -1257,10 +1257,10 @@
   {
     "collectionNo": 312,
     "skills": [
-      "Increase ATK (3 turns) \\\n apply Incoming Damage Cut (3 turns) \\\n increase MAX HP (3 turns) \\\n increase NP Gauge for yourself",
-      "Increase C. Star Gather Rate (3 turns) \\\n gain C. Stars per turn (3 turns) for yourself \\\n Gain C. Stars ",
-      "[1st and 2nd Ascension Form]\nTurn to 3rd Ascension form to Interchange Noble Phantasm \\\n significantly increase NP Gauge \\\n apply Invincible (1 turn) for yourself\n\n[3rd Ascension Form]\nIncrease NP Strength (3 turns) \\\n apply Invincible (1 turn) for yourself",
-      "[1st and 2nd Ascension Form]\nTurn to 3rd Ascension form to Interchange Noble Phantasm \\\n significantly increase NP Gauge \\\n apply Invincible (1 turn) for yourself\n\n[3rd Ascension Form]\nIncrease NP Strength (3 turns) \\\n apply Invincible (1 turn) for yourself"
+      "Increase ATK (3 turns) \\\n Apply Incoming Damage Cut (3 turns) \\\n Increase MAX HP (3 turns) \\\n Increase NP Gauge for yourself",
+      "Increase C. Star Gather Rate (3 turns) \\\n Gain C. Stars per turn (3 turns) for yourself \\\n Gain C. Stars ",
+      "⮞ **STAGE 1 & 2** ⮜\\\nTurn to 3rd Ascension form to Interchange Noble Phantasm \\\n Significantly increase NP Gauge \\\n Apply Invincible (1 turn) for yourself",
+      "⮞ **STAGE 3** ⮜\\\nIncrease NP Strength (3 turns) \\\n Apply Invincible (1 turn) for yourself"
     ]
   },
   {
@@ -1324,7 +1324,7 @@
     "collectionNo": 433,
     "skills": [
       "Increases own debuff success rate for 3 turns \\\n Increases own critical damage for 3 turns \\\n Inflicts Poison for 5 turn to all enemies \\\n Inflicts Toxic Poison for 5 turn to them \\\n (Increases Poison damage on them by 100%) \\\n Reduces their healing received for 5 turns",
-      "Increases own Quick performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self ___De_Buff-On-Attack____ buff for 3 turns: \\\n (Inflicts Poison with 500 damage for 5 turns to the enemy when attacking with Quick Cards. (Activates first)) \\\n Grants self __Buff-On-Attack__ buff for 3 turns \\\n (Gains 5 critical stars when attacking with Buster Cards)",
+      "Increases own Quick performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self ___De__Buff-On-Attack_____ buff for 3 turns: \\\n (Inflicts Poison with 500 damage for 5 turns to the enemy when attacking with Quick Cards. (Activates first)) \\\n Grants self ___Buff-On-Attack___ buff for 3 turns \\\n (Gains 5 critical stars when attacking with Buster Cards)",
       "Grants self Invincibility for 2 attacks, 3 turns \\\n Charges own NP gauge \\\n Increases own NP generation rate for 3 turns"
     ]
   },
@@ -1332,16 +1332,16 @@
     "collectionNo": 439,
     "skills": [
       "Increases party's Arts performance for 3 turns \\\n Increases party's Buster performance for 3 turns \\\n Increases party's NP damage for 3 turns",
-      "Increases own attack for 3 turns \\\n Increases own critical damage for 3 turns \\\n Grants self __De_Buff-On-Attack___ for 3 turns \\\n (Inflicts Buff Block for 1 time, 1 turn to enemy when attacking)",
+      "Increases own attack for 3 turns \\\n Increases own critical damage for 3 turns \\\n Grants self __De__Buff-On-Attack____ for 3 turns \\\n (Inflicts Buff Block for 1 time, 1 turn to enemy when attacking)",
       "Charges own NP gauge \\\n Gains critical stars every turn for 3 turns \\\n Increases party's debuff resistance for 3 turns \\\n Increases party's critical attack chance resistance for 3 turns"
     ]
   },
   {
     "collectionNo": 442,
     "skills": [
-      "Charges own NP gauge \\\n Grants self _On-Buff-Activate_ buff for 1 turn ►\\\n (Charges own NP gauge by 10% when received healing or Max Hp Up \\\n <Except HP Regeneration, Craft Essences, Command Code>)",
-      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 3 turns ► \\\n (Increases own Quick performance by 10% for 3 turns when attacking with Arts or Buster Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns ► \\\n (Increases own critical damage by 10% for 3 turns when attacking with Quick Cards. (Activates first))",
-      "Increases own attack for 3 turns \\\n Increases own damage against **Serpent** or **Dragon** enemies for 3 turns \\\n Increases own damage against **Demonic** enemies for 3 turns \\\n Increases own critical damage for 3 turns"
+      "Charges own NP gauge \\\n Grants self __On-Buff-Activate__ buff for 1 turn ►\\\n (Charges own NP gauge by 10% when received healing or Max Hp Up \\\n <Except HP Regeneration, Craft Essences, Command Code>)",
+      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self __Buff-On-Attack__ buff for 3 turns ► \\\n (Increases own Quick performance by 10% for 3 turns when attacking with Arts or Buster Cards) \\\n Grants self __Buff-On-Attack__ buff for 3 turns ► \\\n (Increases own critical damage by 10% for 3 turns when attacking with Quick Cards. (Activates first))",
+      "Increases own attack for 3 turns \\\n Increases own damage against **Serpent** or **Dragon** enemies for 3 turns \\\n Increases own damage against ****Demonic**** enemies for 3 turns \\\n Increases own critical damage for 3 turns"
     ]
   },
   {
@@ -1437,7 +1437,7 @@
       "Increase all allies' ATK (3 turns)",
       "Chance to increase ATK (3 turns) \\\n chance to increase DEF (3 turns) \\\n restore HP for yourself",
       "Increase NP Gauge \\\n Buff Success Rate (1 turn) for all allies",
-      "Increase ATK ▲ (3 turns) for all allies \\\n \"Gain C. Stars each turn (3 turns) for yourself \\\n Increase Critical Strength (3 turns) for all allies\" ▲ when on a [Sunlight] field"
+      "Increase ATK ▲ (3 turns) for all allies \\\n \"Gain C. Stars each turn (3 turns) for yourself \\\n Increase Critical Strength (3 turns) for all allies\" ▲ when on a【Sunlight Battlefield】field"
     ]
   },
   {
@@ -1666,7 +1666,7 @@
     "collectionNo": 331,
     "skills": [
       "Increase Quick Card effectiveness (3 turns) \\\n ATK Strength (3 turns) \\\n NP Strength (3 turns) for all allies",
-      "Inflict Skill Seal (1 turn) to all enemies \\\n Apply Special Attack [Divine] (3 turns) \\\n Special Attack [Demonic] (3 turns) for yourself",
+      "Inflict Skill Seal (1 turn) to all enemies \\\n Apply Special Attack [Divine] (3 turns) \\\n Special Attack [**Demonic**] (3 turns) for yourself",
       "Increase NP Gauge for yourself \\\n Increase NP Gauge for all allies"
     ]
   },
@@ -1746,7 +1746,7 @@
     "collectionNo": 406,
     "skills": [
       "Gains critical stars \\\n Gains critical stars every turn for 3 turns \\\n Reduces own damage taken for 3 turns \\\n Charges own NP gauge",
-      "500% Chance to draw attention of all enemies to self by 300% for 3 turns \\\n Grants self Guts status for 1 time, 3 turns \\\n Grants self Buff-On-Defense buff for 3 turns \\\n (When taking attack: Charges own NP gauge \\\n Increases own critical damage by 10% for 3 turns)",
+      "500% Chance to draw attention of all enemies to self by 300% for 3 turns \\\n Grants self Guts status for 1 time, 3 turns \\\n Grants self _Buff-On-Defense_ buff for 3 turns \\\n (When taking attack: Charges own NP gauge \\\n Increases own critical damage by 10% for 3 turns)",
       "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own NP damage for 3 turns"
     ]
   },
@@ -1761,9 +1761,9 @@
   {
     "collectionNo": 452,
     "skills": [
-      "Increases party's NP damage for 3 turns \\\n Increases party's attack for 3 turns \\\n Overcharges party's NP by 1 stage for 1 time, 3 turns \\\n Increases the attack of all **Animal** allies except self for 3 turns \\\n (Animal: **Wild Beast** or **Demonic Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit) \\\n Removes debuffs from all **Animal allies** except self \\\n Recovers the HP of all **Animal** allies except self every turn for 3 turns",
-      "Increases own debuff resistance for 3 turns \\\n Recovers own HP \\\n Recovers own HP every turn for 3 turns \\\n Charges own NP gauge \\\n Charges party's NP gauge except self \\\n Charges the NP gauge of **Animal** allies except self by 10% \\\n (Animal: **Wild Beast** or **Demonic Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit)",
-      "Increases own Arts performance for 3 turns \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Gains critical stars when attacking with Arts Cards) \\\n Grants self Invincibility for 2 attacks, 3 turns \\\n Grants self Arts Up while an **Animal** unit is alive on the field for 3 turns \\\n (Animal: **Wild Beast** or **Demonic Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit) \\\n Increases own critical damage by (50% \\\n N * 25%) for 3 turns \\\n (N: The number of Animal units on the field.)"
+      "Increases party's NP damage for 3 turns \\\n Increases party's attack for 3 turns \\\n Overcharges party's NP by 1 stage for 1 time, 3 turns \\\n Increases the attack of all **Animal** allies except self for 3 turns \\\n (Animal: **Wild Beast** or ****Demonic** Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit) \\\n Removes debuffs from all **Animal allies** except self \\\n Recovers the HP of all **Animal** allies except self every turn for 3 turns",
+      "Increases own debuff resistance for 3 turns \\\n Recovers own HP \\\n Recovers own HP every turn for 3 turns \\\n Charges own NP gauge \\\n Charges party's NP gauge except self \\\n Charges the NP gauge of **Animal** allies except self by 10% \\\n (Animal: **Wild Beast** or ****Demonic** Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit)",
+      "Increases own Arts performance for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Gains critical stars when attacking with Arts Cards) \\\n Grants self Invincibility for 2 attacks, 3 turns \\\n Grants self Arts Up while an **Animal** unit is alive on the field for 3 turns \\\n (Animal: **Wild Beast** or ****Demonic** Beast Servant** or **Animal Characteristics Servant**, excluding **Non-Animal** unit) \\\n Increases own critical damage by (50% \\\n N * 25%) for 3 turns \\\n (N: The number of Animal units on the field.)"
     ]
   },
   {
@@ -2065,7 +2065,7 @@
     "skills": [
       "Inflict NP Seal (1 turn) \\\n decrease Critical Rate (3 turns) to a single enemy",
       "Increase Arts Card (1 turn) \\\n Buster Card effectiveness (1 turn) \\\n increase C. Star Gather Rate (1 turn) for yourself",
-      "Increase ATK (3 turns) for all allies \\\n apply Special Attack [Demonic] for yourself (3 turns)"
+      "Increase ATK (3 turns) for all allies \\\n apply Special Attack [**Demonic**] for yourself (3 turns)"
     ]
   },
   {
@@ -2079,7 +2079,7 @@
   {
     "collectionNo": 237,
     "skills": [
-      "Decrease DEF (3 turns) for all enemies \\\n Apply Special Attack [Demonic] (3 turns) to all allies ",
+      "Decrease DEF (3 turns) for all enemies \\\n Apply Special Attack [**Demonic**] (3 turns) to all allies ",
       "Medium chance to inflict NP Seal (1 turn) to one enemy \\\n Increase NP Gauge \\\n NP Strength (3 turns) for yourself",
       "Apply Damage Cut (3 times, 3 turns) \\\n Debuff Immune (1 time, 3 turns) \\\n increase Buff Removal Resist (1 time, 3 turns) for all allies"
     ]
@@ -2153,7 +2153,7 @@
     "skills": [
       "Increase Quick Card effectiveness (3 turns) \\\n Arts Card effectiveness (3 turns) for all allies",
       "Increase C. Star Gather Rate (1 turn) \\\n Critical Strength (1 turn) \\\n remove Debuffs for a single ally",
-      "Increase NP Gauge \\\n chance to change field to [Forest] status (3 turns) \\\n chance to change field to [Near Water] status (3 turns) \\\n chance to change field to [Sunlight] status (3 turns) \\\n chance to change field to [Burning] status (3 turns) for yourself"
+      "Increase NP Gauge \\\n chance to change field to [Forest] status (3 turns) \\\n chance to change field to [Near Water] status (3 turns) \\\n chance to change field to【Sunlight Battlefield】status (3 turns) \\\n chance to change field to [Burning] status (3 turns) for yourself"
     ]
   },
   {
@@ -2167,9 +2167,9 @@
   {
     "collectionNo": 385,
     "skills": [
-      "Increase NP Gauge each turn (3 turns) for all allies \\\n Gain C. Stars each turn (3 turns) \\\n increase NP Gauge \\\n increase NP Strength (3 turns) for yourself",
-      "Increase ATK (3 turns) \\\n slightly increase ATK (3 turns) while HP is 99% or less \\\n slightly increase ATK (3 turns) while HP is 75% or less \\\n slightly increase ATK (3 turns) while HP is 50% or less \\\n slightly increase ATK (3 turns) while HP is 25% or less for all allies \\\n Apply a state that \"gains C. Stars at the end of turn when all allies' HP are at 100%\" (3 turns) for yourself",
-      "[Cannot use at the start of battle. Requires 5 turns to Charge] Increase NP Gauge \\\n increase NP Strength (3 turns) \\\n apply Guts (1 time, 3 turns) for all allies"
+      "Increase NP Gauge each turn (3 turns) for all allies \\\n Gain C. Stars each turn (3 turns) \\\n Increase NP Gauge \\\n Increase NP Strength (3 turns) for yourself",
+      "Increase ATK (3 turns) \\\n Slightly increase ATK (3 turns) while HP is 99% or less \\\n Slightly increase ATK (3 turns) while HP is 75% or less \\\n Slightly increase ATK (3 turns) while HP is 50% or less \\\n Slightly increase ATK (3 turns) while HP is 25% or less for all allies \\\n Apply buff effect \\\ngains C. Stars at the end of turn when all allies' HP is at 100% (3 turns) for yourself",
+      "[Cannot use at the start of battle. Skill is under a 5 turn CoolDown] \\\n\\\n Increase NP Gauge \\\n Increase NP Strength (3 turns) \\\n Apply Guts (1 time, 3 turns) for all allies"
     ]
   },
   {
@@ -2191,7 +2191,7 @@
   {
     "collectionNo": 435,
     "skills": [
-      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Charges own NP gauge by 10% per enemy when attacking with Quick Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Grants self Evasion for 1 time, 1 turn when attacking with Arts Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Ignores Evasion for 1 turn when attacking with Buster Cards. (Activates first))",
+      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Charges own NP gauge by 10% per enemy when attacking with Quick Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Grants self Evasion for 1 time, 1 turn when attacking with Arts Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Ignores Evasion for 1 turn when attacking with Buster Cards. (Activates first))",
       "Reduces one ally's skill cooldowns by 1 turn \\\n Increases their critical star absorption for 1 turn \\\n Charges own NP gauge",
       "Increases own NP damage for 3 turns \\\n Increases own damage against **Undead** enemies for 3 turns \\\n Increases own damage against enemies with **Evil** Alignment for 3 turns \\\n Increases own damage against **Shadow Servant** enemies for 3 turns"
     ]
@@ -2409,7 +2409,7 @@
       "High chance to inflict NP Seal (1 turn) to one enemy",
       "Increase your Arts Card effectiveness (3 turns) \\\n inflict Curse (3 turns) during normal attacks (3 turns)",
       "Apply Evade (1 turn) \\\n increase NP Gauge for yourself",
-      "High chance to inflict NP Seal (1 turn) to a single enemy \\\n Apply Special Attack [Demonic] (3 turns) ▲ \\\n Special Attack [Curse] (3 turns) ▲ for yourself"
+      "High chance to inflict NP Seal (1 turn) to a single enemy \\\n Apply Special Attack [**Demonic**] (3 turns) ▲ \\\n Special Attack [Curse] (3 turns) ▲ for yourself"
     ]
   },
   {
@@ -2556,7 +2556,7 @@
     "skills": [
       "Increase all allies' ATK (3 turns) \\\n Increase ATK (3 turns) for all allies with [Guts]",
       "Increase NP Gauge for yourself \\\n Increase NP Gauge for all allies except for yourself \\\n Apply Invincible (2 times, 3 turns) \\\n apply Invincible Immune (1 time, 3 turns) [Demerit] for all allies",
-      "Apply Guts (1 time, 3 turns) \\\n increase Arts Card effectiveness (3 turns) \\\n apply Special Attack [Divine] (3 turns) \\\n apply Special Attack [Super Giant] (3 turns) for yourself \\\n negate the field's [Sunlight] status (3 turns) "
+      "Apply Guts (1 time, 3 turns) \\\n increase Arts Card effectiveness (3 turns) \\\n apply Special Attack [Divine] (3 turns) \\\n apply Special Attack [Super Giant] (3 turns) for yourself \\\n negate the field's【Sunlight Battlefield】status (3 turns) "
     ]
   },
   {
@@ -2579,8 +2579,8 @@
     "collectionNo": 408,
     "skills": [
       "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own attack by 20% on【Darkness Battlefield】for 3 turns",
-      "Grants self Evasion for 2 attacks, 3 turns \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Increases own critical damage by 10% for 3 turns when attacking with Quick Cards (Activates first)) \\\n Increases own critical star generation rate for 3 turns",
-      "Increases own critical damage for 3 turns \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Charges own NP gauge by 10% when attacking with Quick Cards) \\\n Increases own NP generation rate for 3 turns"
+      "Grants self Evasion for 2 attacks, 3 turns \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Increases own critical damage by 10% for 3 turns when attacking with Quick Cards (Activates first)) \\\n Increases own critical star generation rate for 3 turns",
+      "Increases own critical damage for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Charges own NP gauge by 10% when attacking with Quick Cards) \\\n Increases own NP generation rate for 3 turns"
     ]
   },
   {
@@ -2747,7 +2747,7 @@
     "skills": [
       "Increase your C. Star Gather Rate (3 turns)",
       "Increase Buster Card effectiveness (1 turn) \\\n apply Evade (1 turn) for yourself",
-      "Apply Special Attack [Demonic] (3 turns) \\\n Special Attack [Servants with Heaven or Earth attributes (except Pseudo-Servants and Demi-Servants)] (3 turns) for yourself",
+      "Apply Special Attack [**Demonic**] (3 turns) \\\n Special Attack [Servants with **Sky** or **Earth** attributes (except Pseudo-Servants and Demi-Servants)] (3 turns) for yourself",
       "Increase C. Star Gather Rate (3 turns) \\\n Critical Strength (3 times, 3 turns) ▲ for yourself",
       "Increase Buster Card effectiveness (3 turns ▲) \\\n apply Evade (1 turn) \\\n increase NP Gauge ▲ for yourself"
     ]
@@ -2946,7 +2946,7 @@
   {
     "collectionNo": 398,
     "skills": [
-      "Increases own Buster performance for 3 turns \\\n Grants self Buff-On-Defense buff for 3 turns \\\n (Gains 10 critical stars when taking attack) \\\n Grants self Guts status for 1 time, 3 turns",
+      "Increases own Buster performance for 3 turns \\\n Grants self _Buff-On-Defense_ buff for 3 turns \\\n (Gains 10 critical stars when taking attack) \\\n Grants self Guts status for 1 time, 3 turns",
       "Grants self Evasion for 1 turn \\\n Increases own defense for 3 turns",
       "Increases own critical star absorption of Buster Cards for 1 turn \\\n Increases own critical damage for 1 turn \\\n Gains critical stars"
     ]
@@ -2979,7 +2979,7 @@
     "collectionNo": 447,
     "skills": [
       "Ignores Defense for 3 turns \\\n Increases own attack for 3 turns \\\n Increases own critical star absorption for 1 turn",
-      "Increases own Quick performance for 3 turns \\\n Grants self On-Buff-Activate buff for 3 turns \\\n (Increases own Quick performance by 10% for 3 turns when received healing or Max Hp Up \\\n <Except HP Regeneration, Craft Essences, Command Code> | Max: 10 stacks) \\\n Grants self Evasion for 2 attacks, 3 turns",
+      "Increases own Quick performance for 3 turns \\\n Grants self _On-Buff-Activate_ buff for 3 turns \\\n (Increases own Quick performance by 10% for 3 turns when received healing or Max Hp Up \\\n <Except HP Regeneration, Craft Essences, Command Code> | Max: 10 stacks) \\\n Grants self Evasion for 2 attacks, 3 turns",
       "Charges own NP gauge \\\n Increases own critical damage for 3 turns \\\n Increases own critical damage for 1 turn \\\n Gain critical stars"
     ]
   },
@@ -3072,7 +3072,7 @@
     "collectionNo": 292,
     "skills": [
       "Increase ATK (3 turns) \\\n gain C. Stars each turn (3 turns) for all allies",
-      "Increase Buster Card effectiveness (3 turns) \\\n apply Special Attack [Demonic] (3 turns) \\\n apply Invincible (1 turn) for yourself",
+      "Increase Buster Card effectiveness (3 turns) \\\n apply Special Attack [**Demonic**] (3 turns) \\\n apply Invincible (1 turn) for yourself",
       "Increase NP Gauge \\\n increase Buster Card's C. Star Gather Rate (1 turn) \\\n increase Buster Card's Critical Strength (1 turn) for yourself"
     ]
   },
@@ -3203,7 +3203,7 @@
       "Increase Quick Card effectiveness (3 turns) \\\n Buster Card effectiveness (3 turns) for yourself",
       "Increase NP Gauge \\\n C. Star Gather Rate (1 turn) for yourself",
       "Increase NP Strength (1 turn) \\\n apply Evade (1 time, 3 turns) for yourself",
-      "Increase Quick Card effectiveness (3 turns) \\\n Buster Card effectiveness (3 turns) \\\n apply Special Attack [Heaven Attribute] (3 turns) ▲ for yourself",
+      "Increase Quick Card effectiveness (3 turns) \\\n Buster Card effectiveness (3 turns) \\\n apply Special Attack [**Sky** Attribute] (3 turns) ▲ for yourself",
       "Increase NP Gauge \\\n C. Star Gather Rate (1 turn) \\\n ATK (3 times, 3 turns) ▲ for yourself",
       "Increase NP Strength (3 turns ▲) \\\n increase NP Charge by 2 levels when using NP (1 time, 3 turns) ▲ \\\n Apply Evade (2 times ▲, 3 turns) for yourself"
     ]
@@ -3287,7 +3287,7 @@
     "skills": [
       "Increases party's Quick performance for 3 turns \\\n Increases party's Buster performance for 3 turns \\\n Increases party's NP generation rate for 3 turns \\\n Grants self Evasion for 2 attacks, 3 turns",
       "Charges own NP gauge \\\n Charges party's NP gauge \\\n Increases party's Max HP for 3 turns",
-      "Increases party's NP damage for 3 turns \\\n Grants self Debuff-On-Attack buff for 3 times, 3 turns \\\n (Inflicts Defense Down by 10% for 3 turns to enemy when attacking with Quick Cards (Activates first)) \\\n Grants self Buff-On-Attack buff for 3 times, 3 turns \\\n (Increases own critical damage by 10% for 3 turns when attacking with Buster Cards (Activates first)) \\\n 500% Chance to grant self【Waterside Battlefield】buff for 3 turns"
+      "Increases party's NP damage for 3 turns \\\n Grants self _De_Buff-On-Attack__ buff for 3 times, 3 turns \\\n (Inflicts Defense Down by 10% for 3 turns to enemy when attacking with Quick Cards (Activates first)) \\\n Grants self _Buff-On-Attack_ buff for 3 times, 3 turns \\\n (Increases own critical damage by 10% for 3 turns when attacking with Buster Cards (Activates first)) \\\n 500% Chance to grant self【Waterside Battlefield】buff for 3 turns"
     ]
   },
   {
@@ -3325,9 +3325,9 @@
   {
     "collectionNo": 423,
     "skills": [
-      "Grants self Invincibility for 2 times, 3 turns + Increases own attack for 3 turns + Gains critical stars every turn for 3 turns + Gains critical stars",
-      "Increases own Buster performance for 3 turns + Increases own star absorption of Buster Cards for 3 turns + Increases own critical damage for 3 turns",
-      "Reduces all enemies' NP gauge by 1 + Charges own NP gauge by 10% based on the number of enemies + (The amount of NP charged is multiplied by the number of enemies) + Charges own NP gauge + Increases own NP generation rate for 3 turns"
+      "Grants self Invincibility for 2 times, 3 turns \\\n Increases own attack for 3 turns \\\n Gains critical stars every turn for 3 turns \\\n Gains critical stars",
+      "Increases own Buster performance for 3 turns \\\n Increases own star absorption of Buster Cards for 3 turns \\\n Increases own critical damage for 3 turns",
+      "Reduces all enemies' NP gauge by 1 \\\n Charges own NP gauge by 10% based on the number of enemies \\\n (The amount of NP charged is multiplied by the number of enemies) \\\n Charges own NP gauge \\\n Increases own NP generation rate for 3 turns"
     ]
   },
   {
@@ -3389,7 +3389,7 @@
       "Apply a state where your ATK gradually increases per turn (3 turns) \\\n \"Change field to [Burning]\" status (3 turns) \\\n inflict Burn (3 turns) [Demerit] to yourself",
       "Apply Invincible (1 turn) \\\n Buff Removal Resist (1 turn) for yourself",
       "Gain C. Stars each turn (3 turns) \\\n increase NP Gauge for yourself",
-      "Apply Invincible (1 turn) \\\n Buff Removal Resist (1 turn) \\\n Special Attack against enemies with the [Heaven Attribute] when on a [Burning] field (3 turns) ▲ for yourself",
+      "Apply Invincible (1 turn) \\\n Buff Removal Resist (1 turn) \\\n Special Attack against enemies with the [**Sky** Attribute] when on a [Burning] field (3 turns) ▲ for yourself",
       "Gain C. Stars each turn (3 turns) \\\n increase NP Gauge ▲ \\\n increase Buster Card effectiveness (3 turns) when on a [Burning] field ▲ for yourself"
     ]
   },
@@ -3461,7 +3461,7 @@
     "collectionNo": 409,
     "skills": [
       "Increases own Quick performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Invincibility for 2 attacks, 3 turns.",
-      "Increases own attack for 3 turns \\\n Grants self _DeBuff-On-Attack_ buff for 3 turns \\\n (Inflicts Burn with 500 damage for 3 turns to enemy when attacking) \\\n Grants self Poison Debuff Immunity for 3 turns \\\n Grants self Debuff Immunity for 3 times, 3 turns",
+      "Increases own attack for 3 turns \\\n Grants self __De_Buff-On-Attack___ buff for 3 turns \\\n (Inflicts Burn with 500 damage for 3 turns to enemy when attacking) \\\n Grants self Poison Debuff Immunity for 3 turns \\\n Grants self Debuff Immunity for 3 times, 3 turns",
       "Charges own NP gauge \\\n Increases own critical damage for 3 turns \\\n Increases own critical star absorption for 3 turns"
     ]
   },
@@ -3532,8 +3532,8 @@
     "collectionNo": 418,
     "skills": [
       "Charges own NP gauge by 10% every turn for 5 turns \\\n Recovers own HP every turn for 5 turns \\\n Increases own debuff resistance for 5 turns \\\n Increases own buff removal resistance for 5 turns",
-      "Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Debuff-On-Attack buff for 3 turns \\\n (When attacking with Arts Cards : \\\n Inflicts Healing Received Down by 20% for 3 turns to one enemy \\\n 30% Chance to reduce their NP gauge by 1 \\\n Removes their Guts status) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n ( Charges own NP gauge by 10% when attacking with Buster Cards) \\\n Grants self Critical Damage Up which activates if own HP is 50% or higher for 3 turns \\\n Grants self Critical Damage Up which activates if own HP is 100% for 3 turns",
-      "Party's Command Cards will not appear except self for 1 time, 1 turn \\\n Randomly deals 5 new Command Cards \\\n (Entire player deck will be re-distributed starting from next turn) \\\n Charges own NP gauge \\\n Increases own defense for 3 attacks, 3 turns \\\n Grants self Buff-On-Defense buff for 3 times, 3 turns \\\n (Recovers own HP when taking attack)"
+      "Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self _De_Buff-On-Attack__ buff for 3 turns \\\n (When attacking with Arts Cards : \\\n Inflicts Healing Received Down by 20% for 3 turns to one enemy \\\n 30% Chance to reduce their NP gauge by 1 \\\n Removes their Guts status) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n ( Charges own NP gauge by 10% when attacking with Buster Cards) \\\n Grants self Critical Damage Up which activates if own HP is 50% or higher for 3 turns \\\n Grants self Critical Damage Up which activates if own HP is 100% for 3 turns",
+      "Party's Command Cards will not appear except self for 1 time, 1 turn \\\n Randomly deals 5 new Command Cards \\\n (Entire player deck will be re-distributed starting from next turn) \\\n Charges own NP gauge \\\n Increases own defense for 3 attacks, 3 turns \\\n Grants self _Buff-On-Defense_ buff for 3 times, 3 turns \\\n (Recovers own HP when taking attack)"
     ]
   },
   {
@@ -3548,7 +3548,7 @@
     "collectionNo": 422,
     "skills": [
       "Charges party's NP gauge by 20% \\\n Recovers party's HP every turn for 3 turns \\\n Increase party's attack for 3 turns \\\n 500% Chance to increase all enemies' attack by 10% for 3 turns [Demerit]",
-      "500% Chance to draw attention of all enemies to self by 300% for 3 turns \\\n Increases own defense for 3 turns \\\n Grants self Buff-on-Defense buff for 3 turns \\\n (Increases own NP damage by 10% for 3 turns when taking attack)",
+      "500% Chance to draw attention of all enemies to self by 300% for 3 turns \\\n Increases own defense for 3 turns \\\n Grants self _Buff-On-Defense_ buff for 3 turns \\\n (Increases own NP damage by 10% for 3 turns when taking attack)",
       "Increases own Quick performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self evasion for 1 turn \\\n Increases the critical damage of **Bunny Servant** allies for 3 turns \\\n Reduces the skill cooldown of **Bunny Servant** allies by 1."
     ]
   },
@@ -3556,16 +3556,16 @@
     "collectionNo": 424,
     "skills": [
       "(Can only be used when own NP gauge is 10% or higher) \\\n Reduces own NP gauge by 10% [Demerit] \\\n When there are fewer than 50 critical stars, gains critical stars \\\n Randomly deals 5 new Command Cards \\\n (Entire player deck will be re-distributed starting from next turn)",
-      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Buff-On-Attack buff for 2 times, 3 turns \\\n (Grants self Evasion for 1 turn when normal attacking with Quick Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Charges own NP gauge by 20% when normal attacking with Arts Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Increases own critical damage by 20% for 3 turns when normal attacking with Buster Cards (Activates first))",
-      "Selects one of the options below : \\\n (Option 1: Increases own damage against enemies with **Sky** Attribute for 3 turns \\\n Option 2: Increases own damage against enemies with **Earth** Attribute for 3 turns \\\n Option 3: Increases own damage against enemies with **Man** Attribute for 3 turns) \\\n Charges own NP gauge \\\n Gains 10 critical stars every turn for 3 turns"
+      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 2 times, 3 turns \\\n (Grants self Evasion for 1 turn when normal attacking with Quick Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Charges own NP gauge by 20% when normal attacking with Arts Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Increases own critical damage by 20% for 3 turns when normal attacking with Buster Cards (Activates first))",
+      "Selects one of the options below : \\\n (Option 1: Increases own damage against enemies with ****Sky**** Attribute for 3 turns \\\n Option 2: Increases own damage against enemies with ****Earth**** Attribute for 3 turns \\\n Option 3: Increases own damage against enemies with **Man** Attribute for 3 turns) \\\n Charges own NP gauge \\\n Gains 10 critical stars every turn for 3 turns"
     ]
   },
   {
     "collectionNo": 425,
     "skills": [
       "(Can only be used when own NP gauge is 10% or higher) \\\n Reduces own NP gauge by 10% [Demerit] \\\n When there are fewer than 50 critical stars, gains critical stars \\\n Randomly deals 5 new Command Cards \\\n (Entire player deck will be re-distributed starting from next turn)",
-      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Buff-On-Attack buff for 2 times, 3 turns \\\n (Grants self Evasion for 1 turn when normal attacking with Quick Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Charges own NP gauge by 20% when normal attacking with Arts Cards) \\\n Grants self Buff-On-Attack buff for 3 turns \\\n (Increases own critical damage by 20% for 3 turns when normal attacking with Buster Cards (Activates first))",
-      "Selects one of the options below : \\\n (Option 1: Increases own damage against enemies with **Sky** Attribute for 3 turns \\\n Option 2: Increases own damage against enemies with **Earth** Attribute for 3 turns \\\n Option 3: Increases own damage against enemies with **Man** Attribute for 3 turns) \\\n Charges own NP gauge \\\n Gains 10 critical stars every turn for 3 turns"
+      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self _Buff-On-Attack_ buff for 2 times, 3 turns \\\n (Grants self Evasion for 1 turn when normal attacking with Quick Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Charges own NP gauge by 20% when normal attacking with Arts Cards) \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (Increases own critical damage by 20% for 3 turns when normal attacking with Buster Cards (Activates first))",
+      "Selects one of the options below : \\\n (Option 1: Increases own damage against enemies with ****Sky**** Attribute for 3 turns \\\n Option 2: Increases own damage against enemies with ****Earth**** Attribute for 3 turns \\\n Option 3: Increases own damage against enemies with **Man** Attribute for 3 turns) \\\n Charges own NP gauge \\\n Gains 10 critical stars every turn for 3 turns"
     ]
   },
   {
@@ -3737,33 +3737,41 @@
   {
     "collectionNo": 410,
     "skills": [
-      "Charges own NP gauge + Increases own NP damage for 3 turns + Inflicts Confusion status for 3 turns to all enemies + (30% Chance to activate the debuff below every turn + When activated, 500% Chance to seal their skills for 1 turn)",
-      "Grants self Guts status for 1 time, 5 turns + Grants self On-Guts-Activate buff for 1 time, 5 turns + (Charges own NP gauge by 30% when Guts status is activated) + Increases own NP generation rate for 5 turns",
-      "Increases own Arts performance for 3 turns + Increases own critical damage for 3 turns + Grants self Debuff-On-Attack buff for 3 turns + (Inflicts Received Buff Success Rate Down by 10% for 1 turn to enemy when normal attacking)"
+      "Charges own NP gauge \\\n Increases own NP damage for 3 turns \\\n Inflicts Confusion status for 3 turns to all enemies \\\n (30% Chance to activate the debuff below every turn \\\n When activated, 500% Chance to seal their skills for 1 turn)",
+      "Grants self Guts status for 1 time, 5 turns \\\n Grants self On-Guts-Activate buff for 1 time, 5 turns \\\n (Charges own NP gauge by 30% when Guts status is activated) \\\n Increases own NP generation rate for 5 turns",
+      "Increases own Arts performance for 3 turns \\\n Increases own critical damage for 3 turns \\\n Grants self _De_Buff-On-Attack__ buff for 3 turns \\\n (Inflicts Received Buff Success Rate Down by 10% for 1 turn to enemy when normal attacking)"
     ]
   },
   {
     "collectionNo": 430,
     "skills": [
-      "Increases own Arts performance for 3 turns + Increases own critical damage for 3 turns + Gains critical stars every turn for 3 turns",
-      "Increases the value of Master Skills while self is on the field by 20% for 3 turns + Increases own NP generation rate for 3 turns + Increases own critical star generation rate for 3 turns + Grants self Evasion for 2 attacks, 3 turns",
-      "Charges party's NP gauge + Overcharges party's NP by 1 stage for 1 time, 3 turns + Increases the Max HP of **Child Servant** allies for 3 turns + Gains critical stars"
+      "Increases own Arts performance for 3 turns \\\n Increases own critical damage for 3 turns \\\n Gains critical stars every turn for 3 turns",
+      "Increases the value of Master Skills while self is on the field by 20% for 3 turns \\\n Increases own NP generation rate for 3 turns \\\n Increases own critical star generation rate for 3 turns \\\n Grants self Evasion for 2 attacks, 3 turns",
+      "Charges party's NP gauge \\\n Overcharges party's NP by 1 stage for 1 time, 3 turns \\\n Increases the Max HP of **Child Servant** allies for 3 turns \\\n Gains critical stars"
     ]
   },
   {
     "collectionNo": 431,
     "skills": [
-      "Charges party's NP gauge + Increases party's NP damage for 3 turns + Overcharges party's NP by 1 stage for 1 time, 3 turns",
-      "Increases own Arts performance for 3 turns + Increases own Buster performance for 3 turns + Changes own Extra Attack to hit all enemies for 3 turns + (The damage and NP/star generation per target is halved compared to single-target attacks) + Increases own Extra Attack performance for 3 turns + Charges own NP gauge by 20%",
-      "Gains critical stars + Increases one ally's critical star absorption for 3 turns + Grants one ally Critical Stars Regeneration buff for 3 turns + Increases party's attack for 3 turns + Increases party's critical damage for 3 turns"
+      "Charges party's NP gauge \\\n Increases party's NP damage for 3 turns \\\n Overcharges party's NP by 1 stage for 1 time, 3 turns",
+      "Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Changes own Extra Attack to hit all enemies for 3 turns \\\n (The damage and NP/star generation per target is halved compared to single-target attacks) \\\n Increases own Extra Attack performance for 3 turns \\\n Charges own NP gauge by 20%",
+      "Gains critical stars \\\n Increases one ally's critical star absorption for 3 turns \\\n Grants one ally Critical Stars Regeneration buff for 3 turns \\\n Increases party's attack for 3 turns \\\n Increases party's critical damage for 3 turns"
     ]
   },
   {
     "collectionNo": 437,
     "skills": [
-      "Increases own Quick performance for 3 turns + Increases own Arts performance for 3 turns + Increases own Buster performance for 3 turns + Grants self Guts status for 1 time, 3 turns (Revives with 1000 HP)",
-      "Gains critical stars + Selects one of the options below : + (Option 1 : Adds Heaven Battlefield status to field for 5 turns + Option 2 : Adds Hell Battlefield status to field for 5 turns) + When field is Heaven Battlefield : + Increases party's Arts performance for 3 turns + Increases party's critical damage for 3 turns + Recovers party's HP by 1000 every turn for 3 turns + When field is Hell Battlefield : + Increases party's Buster performance for 3 turns + Increases party's NP damage for 3 turns + Charges own NP gauge by 10% every turn for 3 turns",
-      "Charges own NP gauge + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + (Brand of Sin: Reduces owner's debuff resistance by 10%, Unremovable) + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + 500% Chance to grant self Brand of Sin status for 3 turns [Demerit] + Grants self Buff-On-Attack buff for 3 turns + (While self has Brand of Sin status, removes enemy's one latest buff when attacking + If successfully removed the buff, removes own one latest Brand of Sin status + If successfully removed Brand of Sin status, increases own attack by 10% for 3 turns) + Grants self On-Guts-Activate buff for 3 turns + (When Guts status is activated : + Removes own one latest Brand of Sin status + If successfully removed Brand of Sin status, increases own attack by 10% for 3 turns)"
+      "Increases own Quick performance for 3 turns \\\n Increases own Arts performance for 3 turns \\\n Increases own Buster performance for 3 turns \\\n Grants self Guts status for 1 time, 3 turns (Revives with 1000 HP)",
+      "Gains critical stars \\\n Selects one of the options below : \\\n (Option 1 : Adds 【**Sky** Battlefield】 status to field for 5 turns \\\n Option 2 : Adds 【Hell Battlefield】 status to field for 5 turns) \\\n When field is 【**Sky** Battlefield】 : \\\n Increases party's Arts performance for 3 turns \\\n Increases party's critical damage for 3 turns \\\n Recovers party's HP by 1000 every turn for 3 turns \\\n When field is 【Hell Battlefield】 : \\\n Increases party's Buster performance for 3 turns \\\n Increases party's NP damage for 3 turns \\\n Charges own NP gauge by 10% every turn for 3 turns",
+      "Charges own NP gauge \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n (**Brand of Sin**: Reduces owner's debuff resistance by 10%, Unremovable) \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n 500% Chance to grant self **Brand of Sin** status for 3 turns [Demerit] \\\n Grants self _Buff-On-Attack_ buff for 3 turns \\\n (While self has **Brand of Sin** status, removes enemy's one latest buff when attacking \\\n If successfully removed the buff, removes own one latest **Brand of Sin** status \\\n If successfully removed **Brand of Sin** status, increases own attack by 10% for 3 turns) \\\n Grants self On-Guts-Activate buff for 3 turns \\\n (When Guts status is activated : \\\n Removes own one latest **Brand of Sin** status \\\n If successfully removed **Brand of Sin** status, increases own attack by 10% for 3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 441,
+    "skills": [
+      "Grants self Invincibility for 2 attacks, 3 turns \\\n Increases own attack for 3 turns \\\n Increases own Buster performance for 3 turns",
+      "Overcharges one ally's NP by 2 stages for 1 time, 3 turns \\\n Reduces their skill cooldown by 1 \\\n Increases their critical damage for 3 turns \\\n Gains critical stars",
+      "Charges own NP gauge \\\n Charges party's NP gauge \\\n Increases party's attack for 3 turns \\\n 500% Chance to inflict Curse with 500 damage for 3 turns to them [Demerit]"
     ]
   },
   {
@@ -3772,6 +3780,26 @@
       "Increase NP Gauge each turn (6 turns) \\\n Critical Strength (6 times) \\\n apply Damage Cut (6 times) for yourself",
       "Inflict Skill Seal (1 turn) \\\n Burn (3 turns) \\\n increase Charge [Demerit] for all enemies \\\n Increase ATK (3 turns) \\\n apply [Holy Grail Possession] (3 turns) for yourself",
       "Increase Buff Removal Resist (1 time, 3 turns) for yourself \\\n When in a [Holy Grail Possession] state, apply Special Attack [Dragon] (3 turns) \\\n Special Attack [Roman] (3 turns ) \\\n gain C. Stars each turn (3 turns) \\\n apply Debuff Immune (1 time) \\\n apply Ignore DEF (3 turns) \\\n increase HP Recovery amount (3 turns) \\\n increase NP Gauge each turn (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 417,
+    "skills": [
+      "Increases party's attack for 3 turns \\\n Increases party's NP damage for 3 turns \\\n Charges party's NP gauge \\\n Increases party's Instant-Kill resistance for 3 turns \\\n 500% Chance to inflict Poison with 500 damage for 3 turns to party [Demerit]",
+      "Gains critical stars \\\n Increases own star absorption for 1 turn \\\n Grants self _Buff-On-Attack_ buff for 1 turn \\\n (Increases own critical damage for 1 turn when normal attacking (Activates first)) \\\n Charges own NP gauge",
+      "Grants self Invincibility for 2 attacks, 3 turns \\\n Grants self Guts status for 1 time, 3 turns \\\n Recovers own HP \\\n Removes own debuffs \\\n Increases own buff removal resistance for 1 time, 3 turns \\\n Reduces own skill cooldown by 2"
+    ]
+  },
+  {
+    "collectionNo": 444,
+    "skills": [
+      "⮞ **STAGE 1 & 2** ⮜ \\\n\\\n Reduces own skills' cooldown by 2 \\\n Increases party's attack for 3 turns \\\n Increases party's critical damage for 3 turns \\\n Gains critical stars \\\n Seals all enemies' NP for 1 turn \\\n Reduces all enemies' healing received for 3 turns",
+      "⮞ **STAGE 1 & 2** ⮜ \\\n\\\n Charges own NP gauge by 300% \\\n Overcharges own NP by 2 stages for 1 time, 3 turns \\\n 500% Chance to deal damage without killing to party [Demerit]",
+      "⮞ **STAGE 1 & 2** ⮜ \\\n\\\n (Can only be used when own NP gauge is 100% or higher) \\\n Reduces own NP gauge by 300% \\\n Increases own damage against **Seven Knight Class** enemies for 1 turn \\\n Increases own Buster performance for 3 turns \\\n Increases party's Buster performance for 3 turns \\\n Increases party's Extra Attack performance for 3 turns \\\n Increases party's critical damage for 3 turns \\\n Increases party's NP generation rate for 3 turns \\\n Grants party Ignore Invincibility for 3 turns",
+
+      "⮞ **STAGE 3** ⮜ \\\n\\\n Reduces own skills' cooldown by 2 \\\n Increases party's attack for 3 turns \\\n Increases party's critical damage for 3 turns \\\n Gains critical stars \\\n Seals all enemies' NP for 1 turn \\\n Reduces all enemies' healing received for 3 turns",
+      "⮞ **STAGE 3** ⮜ \\\n\\\n Charges own NP gauge \\\n Charges party's NP gauge \\\n Overcharges party's NP by 1 stage for 1 time, 3 turns",
+      "⮞ **STAGE 3** ⮜ \\\n\\\n (Can only be used when own NP gauge is 100% or higher) \\\n Reduces own NP gauge by 300% \\\n Increases own damage against **Seven Knight Class** enemies for 1 turn \\\n Increases own Buster performance for 3 turns \\\n Increases party's Buster performance for 3 turns \\\n Increases party's Extra Attack performance for 3 turns \\\n Increases party's critical damage for 3 turns \\\n Increases party's NP generation rate for 3 turns \\\n Grants party Ignore Invincibility for 3 turns"
     ]
   }
 ]
