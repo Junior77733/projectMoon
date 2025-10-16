@@ -1,3 +1,4 @@
+import ReactMarkdown from 'react-markdown'
 import servantSkill from './servant-skill.json'
 
 export default function TableSkills({ collectorId, skills }) {
@@ -24,7 +25,11 @@ export default function TableSkills({ collectorId, skills }) {
           <tr key={id}>
             <td className="first-col">{name}</td>
             <td className='second-col'><img src={icon} /></td>
-            <td className='second-col'>{match.skills[index]}</td>
+            <td className='second-col'>
+              <ReactMarkdown>
+              {match.skills[index]}
+              </ReactMarkdown>
+              </td>
             <td className="first-col">{`${coolDown[0]}/${coolDown[5]}/${coolDown[9]}`}</td>
           </tr>
           {index === 2 && <td className="table-heading">Post-Upgrade ➤</td>}

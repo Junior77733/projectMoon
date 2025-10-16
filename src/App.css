@@ -180,6 +180,7 @@ h1 {
   text-align: center;
   padding:10px;
   border:1px solid black;
+  line-height: 1cm;
 }
 
 .second-col {
