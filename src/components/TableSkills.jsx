@@ -20,7 +20,7 @@ export default function TableSkills({ collectorId, skills }) {
     <table >
       <caption className="table-heading">⮞ Active Skills ⮜</caption>
       <tbody>
-        {skills.map(({ id, name, icon, coolDown }, index) => (
+        {skills.map(({ id, name, icon, coolDown, functions }, index) => (
           <>
           <tr key={id}>
             <td className="first-col">{name}</td>
@@ -31,6 +31,10 @@ export default function TableSkills({ collectorId, skills }) {
               </ReactMarkdown>
               </td>
             <td className="first-col">{`${coolDown[0]}/${coolDown[5]}/${coolDown[9]}`}</td>
+          </tr>
+          <tr>
+            <td className="first-col">{functions[0]?.buffs[0]?.name}</td>
+            <td className='first-col'>{functions[0]?.svals[9]?.Value}</td>
           </tr>
           {index === 2 && <td className="table-heading">Post-Upgrade ➤</td>}
           </>

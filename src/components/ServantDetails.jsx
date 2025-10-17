@@ -52,7 +52,7 @@ export default function ServantDetails({servantId}) {
     // const servantSkills = `${skills[1]?.name} ${skills[1].detail}`;
 
     return (
-    <div>
+    <div className="Main-Container">
       <h1 className="servant-h1">{servant.name}</h1>
 
       {ascensionArt && Object.keys(ascensionArt).length > 0 ? (
