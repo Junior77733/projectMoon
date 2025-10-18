@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "generate:servants": "node generate-servants.cjs",
-    "generate:skills": "node generate-skills.cjs"
+    "generate:skills": "node generate-skills.cjs",
+    "generate:bgm": "node generate-bgm.cjs"
   },
   "dependencies": {
     "node-fetch": "^2.7.0",

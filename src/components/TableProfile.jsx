@@ -30,7 +30,7 @@ export default function TableProfile({ gender,
                 </tr>
                 <tr>
                     <td className="first-col">Gender</td>
-                    <td className="second-col">{gender}</td>
+                    <td className="second-col">{<a href="/servants">{gender}</a>}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Rarity</td>

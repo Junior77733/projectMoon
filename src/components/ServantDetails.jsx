@@ -34,7 +34,7 @@ export default function ServantDetails({servantId}) {
     )
 
     if (loading) {
-      return <p>LOADING...</p>
+      return <p className="loading-screen">Loading...</p>
     }
 
     if (error) {
@@ -45,11 +45,10 @@ export default function ServantDetails({servantId}) {
 
     const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
     const servantRarity = `${"★".repeat(servant.rarity)}`;
-    const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`
-    const servantDeathChance = `${(servant.instantDeathChance * 0.1).toFixed(1)}%`
+    const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
+    const servantDeathChance = `${(servant.instantDeathChance * 0.1).toFixed(1)}%`;
     const servantAlignment = `${limits?.[1]?.policy} ${limits?.[1]?.personality}`;
-    const servantNpGain = `${(noblePhantasms?.[0]?.npGain?.np[0]) / 100}%`
-    // const servantSkills = `${skills[1]?.name} ${skills[1].detail}`;
+    const servantNpGain = `${(noblePhantasms?.[0]?.npGain?.np[0]) / 100}%`;
 
     return (
     <div className="Main-Container">
