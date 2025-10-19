@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import servantNames from './servant-names.json';
+import servantNames from '../servant-names.json';
 
 export default function SearchBar({ onSelectServant }) {
   const [searchTerm, setSearchTerm] = useState('');

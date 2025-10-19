@@ -1,8 +1,11 @@
 import ReactMarkdown from 'react-markdown'
-import servantSkill from './servant-skill.json'
+import servantSkill from '../servant-skill.json'
 import TableSkillValues from './TableSkillValues'
+import { useState } from 'react'
 
 export default function TableSkills({ collectorId, skills }) {
+
+    const [ upgradeText, setUpgradeText ] = useState(null)
 
     if (!skills || skills.length === 0) {
         return <p>not available...</p>
@@ -21,6 +24,12 @@ export default function TableSkills({ collectorId, skills }) {
     <table >
       <caption className="table-heading">⮞ Active Skills ⮜</caption>
       <tbody>
+        <tr>
+          <td className='first-col'>Name</td>
+          <td className='first-col'>Icon</td>
+          <td className='first-col'>Description</td>
+          <td className='first-col'>CoolDown</td>
+        </tr>
         {skills.map(({ id, name, icon, coolDown, functions }, index) => (
           <>
           <tr key={id}>
