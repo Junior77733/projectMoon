@@ -1,11 +1,8 @@
 import ReactMarkdown from 'react-markdown'
 import servantSkill from '../servant-skill.json'
 import TableSkillValues from './TableSkillValues'
-import { useState } from 'react'
 
 export default function TableSkills({ collectorId, skills }) {
-
-    const [ upgradeText, setUpgradeText ] = useState(null)
 
     if (!skills || skills.length === 0) {
         return <p>not available...</p>
@@ -39,15 +36,14 @@ export default function TableSkills({ collectorId, skills }) {
               <ReactMarkdown>
               {match.skills[index]}
               </ReactMarkdown>
-              {/* {functions.map(({funcId, funcPopupIcon}) => (<img key={funcId} src={funcPopupIcon}/>))} */}
               </td>
             <td className="first-col">{`${coolDown[0]}/${coolDown[5]}/${coolDown[9]}`}</td>
           </tr>
-          <tr>
-            <TableSkillValues functions={functions} />
-          </tr>
-          {console.log(functions)}
-          {index === 2 && <td className="table-heading">Post-Upgrade ➤</td>}
+          <tr className='first-col'>
+              <td colSpan={4} className='second-col'><TableSkillValues functions={functions} /></td>
+            </tr>
+          
+          {/* {index === 2 && <td className="table-heading">Post-Upgrade ➤</td>} */}
           </>
         ))}
       </tbody>

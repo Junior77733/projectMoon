@@ -197,6 +197,10 @@ h1 {
   margin:100px;
 }
 
+.table-bottom {
+  margin-bottom: 5px;
+}
+
 .BGM {
   width:50%;
   padding:10px;
