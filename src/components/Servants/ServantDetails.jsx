@@ -41,7 +41,7 @@ export default function ServantDetails({servantId}) {
       return <p>Error!</p>
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, hpMax, atkMax, attribute, starAbsorb, cards, limits, noblePhantasms, skills } = servant;
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, noblePhantasms, skills } = servant;
 
     const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
     const servantRarity = `${"★".repeat(servant.rarity)}`;

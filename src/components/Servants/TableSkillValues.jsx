@@ -1,65 +1,76 @@
-import React from 'react';
+export default function TableSkillValues( { functions } ) {
 
-export default function TableSkillValues({ functions }) {
+    //first, let's define things that we need to be checking for, so we can safely apply multiplication and percentage symbols to them
 
-    const includedBuffTypes = [
-        'upCommandall', 'upCommandatk', 'upAtk', 'upDefence',
-        'downDefence', 'upDamageIndividuality',
-        'upStarweight', 'upCriticalrate', 'upCriticaldamage',
-        'upCriticalpoint', 'downDefenceCriticaldamage' ,'upNpdamage', 'upDropnp',
-        'regainNP', 'upDamage','upGrantstate', 'downDefencecommandall', 'upResistInstantdeath'
-    ];
+    const percentageBuffValues = [
+        'upCommandall', 
+        'upCommandatk', 
+        'upAtk', 
+        'upDefence',
+        'downDefence', 
+        'upDamageIndividuality',
+        'upStarweight', 
+        'upCriticalrate',
+        'upCriticaldamage',
+        'upCriticalpoint', 
+        'downDefenceCriticaldamage',
+        'upNpdamage', 
+        'upDropnp',
+        'regainNP', 
+        'upDamage',
+        'upGrantstate', 
+        'downDefencecommandall', 
+        'upResistInstantdeath',
+        'downGainHp'
+    ]
 
+    const functionState = [
+        'addStateShort',
+        'addState',
+    ]
 
-    const excludedBuffTypes = [
-        'donotAct'
-    ];
+    const filteredBuffs = functions.map(element => {
+    //checks for addState,short && checks for percentageBuffs -> if both are true -> proceed
+        if (functionState.includes(element.funcType) && percentageBuffValues.includes(element.buffs[0].type)) { //there's only going to be 1 buffs array inside each element, so it's fine to be specific.
+            
 
-    const filteredBuffs = functions.flatMap(element => {
-        if (!element?.buffs || !element?.svals) {
+            const buffName = element?.buffs[0].name;
+            const buffIcon = element?.buffs[0].icon;
+
+            // console.log(buffName)
+
+            //immediately proceeds to get the svals array
+            const getValue = element?.svals.map((sval => `${sval.Value * 0.1}%`));
+
+            return {
+                name : buffName,
+                icon : buffIcon,
+                value : getValue
+            };
+            
+        } else if (element.funcType === "gainNP") {
+            const getNPvalue = element?.svals.map((sval => `${sval?.Value * 0.1}%`))
+            return {
+                value : getNPvalue
+            };
+        }
+        else {
             return [];
         }
+    })
 
-        return element.buffs.map((buff) => {
-            // Check if the buff type is in the included list AND NOT in the excluded list
-            if (includedBuffTypes.includes(buff.type) && !excludedBuffTypes.includes(buff.type)) {
-                return {
-                    ...buff,
-                    values: element.svals
-                };
-            }
-            return null;
-        }).filter(item => item !== null);
-    });
-
-    if (filteredBuffs.length === 0) {
-        return null;
-    }
 
     return (
         <div>
-            {
-                filteredBuffs.map((buff, buffIndex) => (
-                    <div key={buffIndex} style={{ border: '1px solid #ccc', padding: '10px', marginBottom: '10px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center' }}>
-                            {buff.icon && (
-                                <img src={buff.icon} alt={buff.type} style={{ marginRight: '8px', width: '24px', height: '24px' }} />
-                            )}
-                            <h3>{buff.name}</h3>
-                        </div>
-                        
-                        <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-                            {
-                                buff.values && buff.values.map((sval, svalIndex) => (
-                                    <span key={svalIndex} style={{ minWidth: '100px', textAlign: 'center', border: '1px solid #eee', padding: '5px' }}>
-                                     {sval?.Value * 0.1 + "%"}
-                                    </span>
-                                ))
-                            }
-                        </div>
-                    </div>
-                ))
-            }
+            {filteredBuffs.map(({name, icon, value}) => (
+                <>
+                    <h3>{name}</h3>
+                    <img src={icon} style={{width:'20px', height: '20px'}}/>
+                    <span>
+                        {value}
+                    </span>
+                </>
+            ))}
         </div>
-    );
+    )
 }
