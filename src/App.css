@@ -197,6 +197,27 @@ h1 {
   margin:100px;
 }
 
+.skill-img-name {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px;
+  padding-top:10px;
+}
+
+.skill-img-name img {
+  width:28px;
+  height:28px;
+}
+
+.skill-values {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid white;
+}
+
 .table-bottom {
   margin-bottom: 5px;
 }

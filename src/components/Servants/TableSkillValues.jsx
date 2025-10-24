@@ -1,16 +1,16 @@
-export default function TableSkillValues( { functions } ) {
+import NpChargeIcon from '../../assets/NpCharge.png'
 
-    //first, let's define things that we need to be checking for, so we can safely apply multiplication and percentage symbols to them
+export default function TableSkillValues( { functions } ) {
 
     const percentageBuffValues = [
         'upCommandall', 
         'upCommandatk', 
-        'upAtk', 
+        'upAtk',
         'upDefence',
-        'downDefence', 
+        'downDefence',
+        'downAtk',
         'upDamageIndividuality',
         'upStarweight', 
-        'upCriticalrate',
         'upCriticaldamage',
         'upCriticalpoint', 
         'downDefenceCriticaldamage',
@@ -30,27 +30,24 @@ export default function TableSkillValues( { functions } ) {
     ]
 
     const filteredBuffs = functions.map(element => {
-    //checks for addState,short && checks for percentageBuffs -> if both are true -> proceed
-        if (functionState.includes(element.funcType) && percentageBuffValues.includes(element.buffs[0].type)) { //there's only going to be 1 buffs array inside each element, so it's fine to be specific.
+        if (functionState.includes(element.funcType) && percentageBuffValues.includes(element.buffs[0].type)) {
             
-
             const buffName = element?.buffs[0].name;
             const buffIcon = element?.buffs[0].icon;
 
-            // console.log(buffName)
-
-            //immediately proceeds to get the svals array
-            const getValue = element?.svals.map((sval => `${sval.Value * 0.1}%`));
+            // const getValue = 
 
             return {
                 name : buffName,
                 icon : buffIcon,
-                value : getValue
+                value : element?.svals.map((sval => ` ${sval.Value * 0.1}% `))
             };
             
-        } else if (element.funcType === "gainNP") {
-            const getNPvalue = element?.svals.map((sval => `${sval?.Value * 0.1}%`))
+        } else if (element.funcType === "gainNp") {
+            const getNPvalue = element?.svals.map((sval => ` ${sval?.Value * 0.01}% `))
             return {
+                name: "NP",
+                icon: NpChargeIcon,
                 value : getNPvalue
             };
         }
@@ -59,18 +56,21 @@ export default function TableSkillValues( { functions } ) {
         }
     })
 
-
     return (
-        <div>
-            {filteredBuffs.map(({name, icon, value}) => (
+        <>
+            {filteredBuffs.map(({name, icon, value} = {icon : ''}) => (
                 <>
-                    <h3>{name}</h3>
-                    <img src={icon} style={{width:'20px', height: '20px'}}/>
-                    <span>
-                        {value}
-                    </span>
+                    <div className="skill-img-name">
+                        {icon && <img src={icon}/>}
+                        <span>{name}</span>
+                    </div>
+                    <div className="skill-values">
+                        {value && value.map((num, index) => (
+                        <span className='skill-value-numbers' key={index}>{num}</span>
+                        ))}
+                    </div>
                 </>
             ))}
-        </div>
+        </>
     )
 }
