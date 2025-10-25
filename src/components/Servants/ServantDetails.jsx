@@ -52,36 +52,34 @@ export default function ServantDetails({servantId}) {
 
     return (
       <div>
+          <h1 className="servant-h1">{name}</h1>
 
-      <h1 className="servant-h1">{name}</h1>
+          <div className="servant-container">
 
-    <div className="servant-container">
+              <ServantImage extraAssets={extraAssets} />
 
-        <ServantImage extraAssets={extraAssets} />
+              <TableProfile 
+                gender={gender}
+                name={name}
+                servantClass={className}
+                rarity={servantRarity}
+                cost={cost}
+                attribute={attribute}
+                alignment={servantAlignment}
+                hpBase={hpBase}
+                atkBase={atkBase}
+                hpMax={hpMax}
+                atkMax={atkMax}
+                npGain={servantNpGain}
+                starAbsorb={starAbsorb}
+                starGen={servantStarGen}
+                instantDeath={servantDeathChance}
+                cardDeck={cards}
+              />
 
-        <TableProfile 
-          gender={gender}
-          name={name}
-          servantClass={className}
-          rarity={servantRarity}
-          cost={cost}
-          attribute={attribute}
-          alignment={servantAlignment}
-          hpBase={hpBase}
-          atkBase={atkBase}
-          hpMax={hpMax}
-          atkMax={atkMax}
-          npGain={servantNpGain}
-          starAbsorb={starAbsorb}
-          starGen={servantStarGen}
-          instantDeath={servantDeathChance}
-          cardDeck={cards}
-        />
+          </div>
 
-    </div>
-
-      <div><TableSkills skills={skills} collectorId={collectionNo} /></div>
-
+          <div><TableSkills skills={skills} collectorId={collectionNo} /></div>
       </div>
   );
 }
