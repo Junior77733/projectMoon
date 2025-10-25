@@ -1,6 +1,7 @@
 body {
   margin:0;
   padding:0;
+  background-color: #181a1b;
 }
 
 header, footer {
@@ -11,6 +12,7 @@ header {
   display: flex;
   padding: 15px;
   box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.4);
+  color:white;
 }
 
 .navigation-bar {
@@ -89,6 +91,7 @@ h1 {
   display:flex;
   flex-direction: column;
   font-size: medium;
+  color:white;
 }
 
 .search-container input {
@@ -108,12 +111,12 @@ h1 {
 .search-results li {
   font-family: "inria Sans";
   padding:4px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
-  border-left:1px solid rgba(0, 0, 0, 0.4);
+  border-bottom: 1px solid white;
+  border-left:1px solid white;
 }
 
 .search-results li:hover {
-  background-color: aliceblue;
+  background-color: grey;
   cursor: pointer;
 }
 
@@ -124,15 +127,9 @@ h1 {
   text-align: center;
 }
 
-.grand-container {
-  display: flex;
-  justify-content: center;
-  gap:20px;
-  flex-wrap: wrap;
-}
-
 .servant-h1 {
   font-size: 50px;
+  color:white;
   padding:10px;
 }
 
@@ -142,16 +139,28 @@ h1 {
   }
 }
 
-.grand-container p {
-  text-align: center;
-  font-family: "Inria Sans";
-  font-size: large;
+.servant-container {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .servant-img {
   width:350px;
   box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.4);
   margin-bottom: 20px;
+}
+
+.next-btn {
+  background-color: aliceblue;
+  position: absolute;
+  left:55%;
+}
+
+.prev-btn {
+  background-color: aliceblue;
+  position: absolute;
+  right:95%;
 }
 
 .servant-profile {
@@ -169,23 +178,26 @@ h1 {
   font-family: "Orbitron";
   font-size: larger;
   font-weight: 700;
+  color:white;
 }
 
 .first-col {
-  background-color: aliceblue;
+  background-color: #1c1f20;
+  color: white;
   font-family: "Inria Sans";
   font-weight: 700;
   text-align: start;
   padding:10px;
-  border:1px solid black;
+  border:1px solid #7d7467;
 }
 
 .second-col {
-  background-color: white;
+  background-color: #181a1b;
+  color:white;
   font-family: "Roboto";
   text-align: center;
   padding:10px;
-  border:1px solid black;
+  border:1px solid #7d7467;
   line-height: 1cm;
 }
 

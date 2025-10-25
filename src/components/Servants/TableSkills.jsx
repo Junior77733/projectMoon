@@ -29,6 +29,7 @@ export default function TableSkills({ collectorId, skills }) {
         </tr>
         {skills.map(({ id, name, icon, coolDown, functions }, index) => (
           <>
+          
           <tr key={id}>
             <td className="first-col">{name}</td>
             <td className='second-col'><img src={icon} /></td>
@@ -42,8 +43,6 @@ export default function TableSkills({ collectorId, skills }) {
           <tr className='first-col'>
               <td colSpan={4} className='second-col'><TableSkillValues functions={functions} /></td>
             </tr>
-          
-          {/* {index === 2 && <td className="table-heading">Post-Upgrade ➤</td>} */}
           </>
         ))}
       </tbody>

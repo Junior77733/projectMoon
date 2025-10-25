@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import ServantImage from './ServantImage'
 import TableProfile from './TableProfile'
 import TableSkills from './TableSkills'
 
@@ -41,9 +42,8 @@ export default function ServantDetails({servantId}) {
       return <p>Error!</p>
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, noblePhantasms, skills } = servant;
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, noblePhantasms, skills } = servant;
 
-    const ascensionArt = servant.extraAssets?.charaGraph?.ascension;
     const servantRarity = `${"★".repeat(servant.rarity)}`;
     const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
     const servantDeathChance = `${(servant.instantDeathChance * 0.1).toFixed(1)}%`;
@@ -51,22 +51,14 @@ export default function ServantDetails({servantId}) {
     const servantNpGain = `${(noblePhantasms?.[0]?.npGain?.np[0]) / 100}%`;
 
     return (
-    <div className="Main-Container">
-      <h1 className="servant-h1">{servant.name}</h1>
+      <div>
 
-      {ascensionArt && Object.keys(ascensionArt).length > 0 ? (
-        <div className="grand-container">
-          {Object.entries(ascensionArt).map(([level, url]) => (
-            <div className="servant-container" key={level}>
-              <p>Ascension {parseInt(level)}</p>
-              <img className="servant-img" src={url} alt={`${servant.name} Ascension ${level}`} />
-            </div>
-          ))}
-        </div>
-      ) : (
-        <p>No ascension art available.</p>
-      )}
-      <>
+      <h1 className="servant-h1">{name}</h1>
+
+    <div className="servant-container">
+
+        <ServantImage extraAssets={extraAssets} />
+
         <TableProfile 
           gender={gender}
           name={name}
@@ -85,10 +77,11 @@ export default function ServantDetails({servantId}) {
           instantDeath={servantDeathChance}
           cardDeck={cards}
         />
-      </>
-        <div>
-           <TableSkills skills={skills} collectorId={collectionNo} />
-        </div>
+
     </div>
+
+      <div><TableSkills skills={skills} collectorId={collectionNo} /></div>
+
+      </div>
   );
 }

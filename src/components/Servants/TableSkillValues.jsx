@@ -1,4 +1,5 @@
 import NpChargeIcon from '../../assets/NpCharge.png'
+import HealEffectIcon from '../../assets/HealEffect.png'
 
 export default function TableSkillValues( { functions } ) {
 
@@ -16,12 +17,12 @@ export default function TableSkillValues( { functions } ) {
         'downDefenceCriticaldamage',
         'upNpdamage', 
         'upDropnp',
-        'regainNP', 
         'upDamage',
         'upGrantstate', 
         'downDefencecommandall', 
         'upResistInstantdeath',
-        'downGainHp'
+        'downGainHp',
+        'upToleranceSubstate'
     ]
 
     const functionState = [
@@ -29,18 +30,17 @@ export default function TableSkillValues( { functions } ) {
         'addState',
     ]
 
+    const flatBuffValues = [
+        'guts'
+    ]
+
     const filteredBuffs = functions.map(element => {
         if (functionState.includes(element.funcType) && percentageBuffValues.includes(element.buffs[0].type)) {
             
-            const buffName = element?.buffs[0].name;
-            const buffIcon = element?.buffs[0].icon;
-
-            // const getValue = 
-
             return {
-                name : buffName,
-                icon : buffIcon,
-                value : element?.svals.map((sval => ` ${sval.Value * 0.1}% `))
+                name : element?.buffs[0].name,
+                icon : element?.buffs[0].icon,
+                value : element?.svals.map((sval => ` ${Math.floor(sval?.Value) / 10}% `))
             };
             
         } else if (element.funcType === "gainNp") {
@@ -50,7 +50,23 @@ export default function TableSkillValues( { functions } ) {
                 icon: NpChargeIcon,
                 value : getNPvalue
             };
-        }
+        } else if (functionState.includes(element.funcType) && flatBuffValues.includes(element.buffs[0].type)) {
+            
+            return {
+                name : element?.buffs[0].name,
+                icon : element?.buffs[0].icon,
+                value : element?.svals.map((sval => sval.Value))
+            };
+            
+        } else if (element.funcType === "gainHp") {
+            
+            return {
+                name : "Heal",
+                icon : HealEffectIcon,
+                value : element?.svals.map((sval => sval.Value))
+            };
+            
+        } 
         else {
             return [];
         }
@@ -60,15 +76,15 @@ export default function TableSkillValues( { functions } ) {
         <>
             {filteredBuffs.map(({name, icon, value} = {icon : ''}) => (
                 <>
-                    <div className="skill-img-name">
-                        {icon && <img src={icon}/>}
+                    {icon && name && <div className="skill-img-name">
+                        <img src={icon}/>
                         <span>{name}</span>
-                    </div>
-                    <div className="skill-values">
-                        {value && value.map((num, index) => (
+                    </div>}
+                    {value && <div className="skill-values">
+                        {value.map((num, index) => (
                         <span className='skill-value-numbers' key={index}>{num}</span>
                         ))}
-                    </div>
+                    </div>}
                 </>
             ))}
         </>

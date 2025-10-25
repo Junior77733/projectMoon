@@ -22,15 +22,15 @@ export default function TableProfile({ gender,
             <tbody>
                 <tr className="row">
                     <td className="first-col">Name</td>
-                    <td className="second-col">{name}</td>
+                    <td colSpan={3} className="second-col">{name}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Class</td>
-                    <td className="second-col">{servantClass}</td>
+                    <td colSpan={3} className="second-col">{servantClass}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Gender</td>
-                    <td className="second-col">{<a href="/servants">{gender}</a>}</td>
+                    <td colSpan={3} className="second-col">{<a href="/servants">{gender}</a>}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Rarity</td>
@@ -40,11 +40,11 @@ export default function TableProfile({ gender,
                 </tr>
                 <tr>
                     <td className="first-col">Attribute</td>
-                    <td className="second-col">{attribute}</td>
+                    <td colSpan={3} className="second-col">{attribute}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Alignment</td>
-                    <td className="second-col">{alignment}</td>
+                    <td colSpan={3} className="second-col">{alignment}</td>
                 </tr>
                 <tr>
                     <td className="first-col">Base HP</td>
