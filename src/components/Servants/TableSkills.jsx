@@ -29,19 +29,18 @@ export default function TableSkills({ collectorId, skills }) {
         </tr>
         {skills.map(({ id, name, icon, coolDown, functions }, index) => (
           <>
-          
-          <tr key={id}>
-            <td className="first-col">{name}</td>
-            <td className='second-col'><img src={icon} /></td>
-            <td className='second-col'>
-              <ReactMarkdown>
-              {match.skills[index]}
-              </ReactMarkdown>
-              </td>
-            <td className="first-col">{`${coolDown[0]}/${coolDown[5]}/${coolDown[9]}`}</td>
-          </tr>
-          <tr className='first-col'>
-              <td colSpan={4} className='second-col'><TableSkillValues functions={functions} /></td>
+            <tr key={id}>
+              <td className="first-col">{name}</td>
+              <td className='second-col'><img src={icon} /></td>
+              <td className='second-col'>
+                <ReactMarkdown>
+                {match.skills[index]}
+                </ReactMarkdown>
+                </td>
+              <td className="first-col">{`${coolDown[0]}/${coolDown[5]}/${coolDown[9]}`}</td>
+            </tr>
+            <tr className='first-col'>
+                <td colSpan={4} className='second-col'><TableSkillValues functions={functions} /></td>
             </tr>
           </>
         ))}

@@ -8,6 +8,7 @@ export default function ServantDetails({servantId}) {
     const [servant, setServant] = useState({})
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState(null)
+    const [activeSkill, setActiveSkill] = useState(false)
 
     useEffect(() => {
 
@@ -40,6 +41,10 @@ export default function ServantDetails({servantId}) {
 
     if (error) {
       return <p>Error!</p>
+    }
+
+    const handleActiveSkills = () => {
+      setActiveSkill(!activeSkill)
     }
 
     const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, noblePhantasms, skills } = servant;
@@ -78,8 +83,8 @@ export default function ServantDetails({servantId}) {
               />
 
           </div>
-
-          <div><TableSkills skills={skills} collectorId={collectionNo} /></div>
+          <button onClick={handleActiveSkills}>Active Skills</button>
+          {activeSkill && <div><TableSkills skills={skills} collectorId={collectionNo} /></div>}
       </div>
   );
 }
