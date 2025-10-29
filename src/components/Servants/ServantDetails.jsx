@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import ServantImage from './ServantImage'
 import TableProfile from './TableProfile'
 import TableSkills from './TableSkills'
+import TableNP from './TableNP'
 
 export default function ServantDetails({servantId}) {
 
@@ -9,6 +10,9 @@ export default function ServantDetails({servantId}) {
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState(null)
     const [activeSkill, setActiveSkill] = useState(false)
+    const [passiveSkill, setPassiveSkill] = useState(false)
+    const [appendSkill, setAppendSkill] = useState(false)
+    const [np, setNp] = useState(false)
 
     useEffect(() => {
 
@@ -47,6 +51,18 @@ export default function ServantDetails({servantId}) {
       setActiveSkill(!activeSkill)
     }
 
+    const handlePassiveSkills = () => {
+      setPassiveSkill(!passiveSkill)
+    }
+
+    const handleAppendSkills = () => {
+      setAppendSkill(!appendSkill)
+    }
+
+    const handleNoblePhantasm = () => {
+      setNp(!np)
+    }
+
     const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, noblePhantasms, skills } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
@@ -60,7 +76,6 @@ export default function ServantDetails({servantId}) {
           <h1 className="servant-h1">{name}</h1>
 
           <div className="servant-container">
-
               <ServantImage extraAssets={extraAssets} />
 
               <TableProfile 
@@ -81,10 +96,15 @@ export default function ServantDetails({servantId}) {
                 instantDeath={servantDeathChance}
                 cardDeck={cards}
               />
-
           </div>
-          <button onClick={handleActiveSkills}>Active Skills</button>
+
+          <button className="table-render-btn" onClick={handleActiveSkills}>Active Skills</button>
+          <button className="table-render-btn" onClick={handlePassiveSkills}>Passive Skills</button>
+          <button className="table-render-btn" onClick={handleAppendSkills}>Append Skills</button>
+          <button className="table-render-btn" onClick={handleNoblePhantasm}>Noble Phantasm</button>
+
           {activeSkill && <div><TableSkills skills={skills} collectorId={collectionNo} /></div>}
+          {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
       </div>
   );
 }

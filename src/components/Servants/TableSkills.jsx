@@ -9,7 +9,7 @@ export default function TableSkills({ collectorId, skills }) {
     }
 
     const match = servantSkill.find(
-      (collection) => collection.collectionNo == collectorId
+      (collection) => collection.collectionNo === collectorId
     )
 
      if (!match) {

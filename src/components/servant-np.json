@@ -1,0 +1,2565 @@
+[
+  {
+    "collectionNo": 2,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n Restore your NP Gauge <effect increases with Overcharge>",
+      "Deal heavy damage to all enemies ▲ \\\n Restore your NP Gauge <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 3,
+    "skills": [
+      "Deal very heavy damage to all enemies \\\n Restore minor NP Gauge for yourself <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 4,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n greatly restore your HP <effect increases with Overcharge>",
+      "Deal heavy damage to all enemies ▲ \\\n greatly restore HP ▲ <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 5,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n decrease DEF (1 turn) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n decrease DEF (1 turn) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 90,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Burn (5 turns) <effect increases with Overcharge> \\\n decrease DEF (5 turns) <effect increases with Overcharge> \\\n decrease Critical Rate (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n inflict Burn ▲ (5 turns) <effect increases with Overcharge> \\\n decrease DEF (5 turns) <effect increases with Overcharge> \\\n decrease Critical Rate (5 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 123,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n inflict Skill Seal (1 turn) \\\n Burn (5 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n inflict Skill Seal (1 turn) \\\n Burn (5 turns) <effect increases with Overcharge> to all enemies \\\n Increase Buster Card's Critical Strength (3 turns) ▲ \\\n Buster Card's C. Star Gather Rate (3 turns) ▲ for yourself only when on a [Sunlight] field"
+    ]
+  },
+  {
+    "collectionNo": 6,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Dragon] enemies <Special Attack damage increases with Overcharge>",
+      "Deal heavy Special Attack damage to all [Dragon] enemies ▲ <Special Attack damage increases with Overcharge> \\\n increase NP Gain ▲ (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 76,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Arthur] enemies <Special Attack damage increases with Overcharge> \\\n Slightly restore your NP Gauge <effect increases with Overcharge>",
+      "Deal heavy Special Attack damage to all [Arthur] enemies ▲ <Special Attack damage increases with Overcharge> \\\n Slightly restore your NP Gauge▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 138,
+    "skills": [
+      "Deal significant DEF-ignoring damage \\\n apply Burn (5 turns) <effect increases with Overcharge> to a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n apply Burn (5 turns) <effect increases with Overcharge> \\\n apply Spreading Fire (increase Burn damage) (5 turns) ▲ to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 126,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n deal significant damage to a single enemy ",
+      "Increase your Buster Card effectiveness ▲ (1 turn) <effect increases with Overcharge> \\\n deal significant damage to a single enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 7,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n gain C. Stars <effect increases with Overcharge>",
+      "Increase Buff Success Rate (chance of success increases more when your HP is low) (1 turn) ▲ \\\n high chance to increase ATK (1 turn) <applied again if successful, up to a maximum of 5 times> ▲ for yourself \\\n Deal significant damage to a single enemy ▲ \\\n Gain C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 72,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) \\\n Debuff Resist (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease DEF (3 turns) \\\n Debuff Resist (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 153,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n deal significant damage to a single enemy \\\n remove Buffs for a single enemy",
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n deal significant damage to a single enemy \\\n remove Buffs for a single enemy",
+      "Increase your NP Strength ▲ (1 turn) <effect increases with Overcharge> \\\n Deal significant Special Attack damage to a single [Alter Ego] or [Moon Cancer] enemy ▲ \\\n remove Buffs for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 8,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease DEF (3 turns)▲ <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 101,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Demonic] enemy <Special Attack damage increases with Overcharge>",
+      "Deal significant Special Attack damage to a single [Demonic] enemy ▲ <Special Attack damage increases with Overcharge> \\\n decrease Buster Card Resistance (3 turns) ▲ for a single enemy \\\n decrease Charge if the enemy is [Demonic] ▲"
+    ]
+  },
+  {
+    "collectionNo": 121,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) for yourself \\\n Deal significant damage to a single enemy \\\n increase damage taken (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Increase Arts Card effectiveness (1 turn) for yourself \\\n Deal significant DEF-ignoring ▲ damage \\\n increase damage taken ▲ (5 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 9,
+    "skills": [
+      "Greatly increase ATK (2 turns) \\\n greatly decrease DEF (3 turns) [Demerit] for yourself \\\n Gain C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 10,
+    "skills": [
+      "Chance to inflict Charm (1 turn) <chance increases with Overcharge> \\\n decrease ATK (2 turns) \\\n DEF (2 turns) for all enemies",
+      "Chance ▲ to inflict Charm (1 turn) <chance increases with Overcharge> \\\n decrease ATK (3 turns) ▲ \\\n DEF (3 turns) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 68,
+    "skills": [
+      "Deal significant DEF-ignoring damage to a single enemy \\\n greatly decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 91,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n chance to inflict Death <chance increases with Overcharge> \\\n Remove debuffs for all allies",
+      "Deal heavy DEF-ignoring damage ▲ \\\n chance to inflict Death <chance increases with Overcharge>  to all enemies \\\n Remove debuffs \\\n slightly increase NP Gauge ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 160,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 165,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n increase your Critical Strength (3 turns) <effect increases with Overcharge> ",
+      "Deal heavy damage to all enemies ▲ \\\n Increase your Critical Strength (3 turns) <effect increases with Overcharge> \\\n increase NP Gain (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 176,
+    "skills": [
+      "Deal significant damage \\\n chance to inflict Stun (1 turn) <chance increases with Overcharge> \\\n inflict Electrify <extremely low chance to inflict Stun (1 turn) to all other enemies at the end of their turn> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 187,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease ATK (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 213,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Dragon] enemy <Special Attack damage increases with Overcharge>",
+      "Deal significant Special Attack [Dragon] damage ▲<Special Attack damage increases with Overcharge> \\\n decrease Charge ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 221,
+    "skills": [
+      "Deal significant damage \\\n chance to inflict \"Nice Shot!\" (up to 5 times) <chance increases with Overcharge> \\\n decrease DEF (3 turns) for each \"Nice Shot!\" applied to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 223,
+    "skills": [
+      "Deal significant damage \\\n remove DEF Buffs \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 227,
+    "skills": [
+      "Decrease Charge by 1 \\\n Critical Rate (3 turns) for all enemies \\\n Increase ATK (3 turns) <effect increases with Overcharge> \\\n apply Incoming Damage Cut (3 turns) to all allies"
+    ]
+  },
+  {
+    "collectionNo": 234,
+    "skills": [
+      "Apply Special Attack [Chaotic] (1 turn) <effect increases with Overcharge> \\\n Special Attack [Evil] (1 turn) <effect increases with Overcharge> to yourself \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 254,
+    "skills": [
+      "Increase your Arts Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies ",
+      "Increase Arts Card effectiveness (3 turns) <effect increases with Overcharge> \\\n gain C. Stars each turn (3 turns) ▲ for yourself \\\n Deal heavy damage to all enemies ▲ "
+    ]
+  },
+  {
+    "collectionNo": 245,
+    "skills": [
+      "Deal heavy damage \\\n remove ATK buffs \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 264,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 270,
+    "skills": [
+      "Increase your Quick Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Deal significant damage \\\n inflict NP Seal (1 turn) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 278,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal significant DEF-ignoring damage \\\n decrease Quick Card resistance (3 turns) <effect increases with Overcharge> \\\n Arts Card resistance (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 344,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n increase ATK (3 turns) <effect increases with Overcharge> \\\n Critical Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 293,
+    "skills": [
+      "Decrease Arts Card resistance (3 turns) <effect increases with Overcharge> \\\n deal significant damage \\\n decrease Critical Rate (3 turns) for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 290,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) \\\n Buster Card effectiveness (1 turn) for yourself \\\n Deal heavy damage \\\n inflict Burn (5 turns) \\\n apply Spreading Fire (increase Burn damage) (5 turns) <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 299,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) to yourself \\\n Deal heavy DEF-ignoring damage \\\n decrease Buster Card resistance (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 298,
+    "skills": [
+      "Apply Special Attack [Demonic] status (1 turn) <effect increases with Overcharge> to yourself \\\n Deal significant Special Attack damage to a single [Oni] enemy "
+    ]
+  },
+  {
+    "collectionNo": 301,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Remove Guts \\\n deal significant damage to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 302,
+    "skills": [
+      "Increase Arts Card effectiveness (3 turns) <effect increases with Overcharge> \\\n NP Strength (3 turns) for yourself \\\n Remove ATK buffs \\\n deal heavy DEF-ignoring damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 310,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Increase Max HP (5 turns) \\\n reduce skill cooldown by 1 for yourself"
+    ]
+  },
+  {
+    "collectionNo": 317,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Remove DEF Buffs \\\n deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 343,
+    "skills": [
+      "Deal heavy damage <STR increases based on the number of [Heroic King] states (Max 12)> \\\n decrease Quick Attack Resistance (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 337,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n Increase Arts Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Buster Card effectiveness (3 turns) <effect increases with Overcharge> \\\n apply \"Restore HP each turn (3 turns)\" for all allies"
+    ]
+  },
+  {
+    "collectionNo": 354,
+    "skills": [
+      "Increase ATK (1 turn) <effect increases with Overcharge> \\\n increase ATK (1 turn) only when on a [Sunlight] field <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 363,
+    "skills": [
+      "Increase ATK (3 turns) \\\n slightly increase NP Gauge <effect increases with Overcharge> for all allies \\\n Gain C. Stars each turn (3 turns) for yourself \\\n Increase Critical Strength (3 turns) for all [Shinsengumi Servant] allies"
+    ]
+  },
+  {
+    "collectionNo": 384,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant Special Attack [Human Attribute] damage \\\n low chance to immobilize (1 turn) one enemy \\\n Increase ATK (3 turns) for all allies with [Earth Attribute]"
+    ]
+  },
+  {
+    "collectionNo": 379,
+    "skills": [
+      "Apply Sure Hit (1 turn) for yourself \\\n Deal significant DEF-ignoring damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 396,
+    "skills": [
+      "Increase Critical Strength (3 turns) <effect increases with Overcharge> \\\n apply Special Attack [Demonic Beast type Servant] status (1 turn) to yourself \\\n Deal significant Special Attack damage to a single [Giant] enemy \\\n Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 11,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 12,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Servant] enemies (Servants with Power of the Star are immune to the Special Attack) <Special Attack damage increases with Overcharge>",
+      "Increase NP Strength (1 turn)▲ for yourself \\\n deal heavy Special Attack damage to all [Servant] enemies (Servants with Power of the Star are immune to the Special Attack) ▲ <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 13,
+    "skills": [
+      "Deal significant Special Attack damage to a [Poisoned] enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 14,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n gain C. Stars <effect increases with Overcharge>",
+      "Deal heavy damage to all enemies ▲ \\\n gain C. Stars ▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 63,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal significant damage \\\n high chance to inflict Skill Seal (1 turn) < chance increases with Overcharge> to a single enemy",
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal significant Special Attack damage to a single [Giant] enemy ▲ \\\n high chance to inflict Skill Seal (1 turn) <chance increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 122,
+    "skills": [
+      "Apply Sure Hit for yourself (1 turn) \\\n Deal significant damage to a single enemy \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Apply Sure Hit for yourself (1 turn) \\\n Deal significant DEF-ignoring damage to a single enemy ▲ \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 60,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n greatly decrease ATK (3 turns) \\\n medium chance to decrease Charge <chance increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n greatly decrease ATK (3 turns) \\\n decrease Charge▲ \\\n decrease Critical Rate▲ <chance increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 105,
+    "skills": [
+      "Apply Sure Hit for yourself (1 turn) \\\n deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Apply Sure Hit for yourself (1 turn) \\\n deal significant damage to a single enemy ▲ \\\n decrease Critical Rate ▲ (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 77,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Servant] enemies with [Heaven or Earth powers] <Special Attack damage increases with Overcharge> \\\n low chance to inflict Stun (1 turn) to all enemies \\\n Reduce your HP by 500 [Demerit]",
+      "Deal heavy Special Attack damage to all [Servant] enemies with [Heaven or Earth powers] ▲ <Special Attack damage increases with Overcharge> \\\n medium chance ▲ to inflict Stun (1 turn) to all enemies \\\n Reduce your HP by 500 [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 15,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Male] enemy \\\n a high chance to apply Charm status [Male only] (1 turn) <chance increases with Overcharge> \\\n decrease ATK (3 turns) for a single enemy",
+      "Deal significant Special Attack damage to a single [Male] enemy ▲ \\\n high chance to apply Charm status [Male only] (1 turn) <chance increases with Overcharge> \\\n decrease ATK (3 turns) for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 16,
+    "skills": [
+      "Deal significant damage to all enemies <strength increases with Overcharge> \\\n apply Death to yourself [Demerit]",
+      "Deal significant damage to all enemies ▲ <strength increases with Overcharge> \\\n apply Death to yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 125,
+    "skills": [
+      "Apply Special Attack [Demonic] to yourself (1 turn) <effect increases with Overcharge> \\\n deal heavy damage to all enemies ",
+      "Apply Special Attack [Demonic] to yourself (3 turns)▲ <effect increases with Overcharge> \\\n deal heavy damage to all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 84,
+    "skills": [
+      "Deal heavy damage \\\n low chance to inflict Death \\\n chance to further inflict Death to [Divine] targets \\\n decrease DEF (3 turns) <effect increases with Overcharge> to all enemies",
+      "Deal heavy damage ▲ \\\n medium chance ▲ to inflict Death \\\n further chance ▲ to inflict Death to [Divine] targets \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 157,
+    "skills": [
+      "Deal significant DEF-ignoring damage to a single enemy \\\n chance to decrease Charge <chance increases with Overcharge> for a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n chance ▲ to decrease Charge <chance increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 95,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease NP Strength (1 turn) <effect increases with Overcharge> \\\n Critical Strength (1 turn) <effect increases with Overcharge> \\\n Debuff Resist (1 turn) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease NP Strength (1 turn) <effect increases with Overcharge> \\\n Critical Strength (1 turn) <effect increases with Overcharge> \\\n Debuff Resist (1 turn) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 142,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n deal heavy damage to all enemies ",
+      "Increase Buster Card effectiveness (1 turn) for yourself <effect increases with Overcharge> \\\n Deal heavy damage to all enemies ▲ \\\n Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 184,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) \\\n inflict Burn (5 turns) \\\n Spreading Fire (increase Burn damage) (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) \\\n inflict Burn (5 turns) \\\n Spreading Fire (increase Burn damage) (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage ▲ \\\n decrease Critical Rate (5 turns ▲) \\\n inflict Burn ▲ (5 turns) \\\n Spreading Fire (increase Burn damage) (5 turns) <effect increases with Overcharge> to a single enemy",
+      "Deal significant damage ▲ \\\n decrease Critical Rate (5 turns ▲) \\\n inflict Burn ▲ (5 turns) \\\n Spreading Fire (increase Burn damage) (5 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 197,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n gain a large amount of C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 156,
+    "skills": [
+      "Decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy \\\n deal significant damage to a single enemy ",
+      "Decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy \\\n deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 69,
+    "skills": [
+      "Deal heavy Special Attack damage to all enemies with [Riding Skill] <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 131,
+    "skills": [
+      "Deal significant damage that gets more powerful when your HP is low to a single enemy \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 129,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n chance to decrease Charge for a single enemy \\\n Restore your NP Gauge <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 137,
+    "skills": [
+      "Apply Sure Hit for yourself (1 turn) \\\n deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 180,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> \\\n DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> \\\n DEF (3 turns) <effect increases with Overcharge> for all enemies \\\n Slightly increase NP Gauge <effect increases with Overcharge> ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 200,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Nullify Buff (1 time, 3 turns) \\\n decrease ATK (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant Special Attack damage to a single [Super Giant] enemy ▲ <Special Attack damage increases with Overcharge> ▲ \\\n inflict Nullify Buff (1 time, 3 turns) \\\n decrease ATK (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 207,
+    "skills": [
+      "Remove DEF Buffs \\\n deal significant damage \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Remove DEF Buffs \\\n deal significant Special Attack damage to Enemies with the [Earth Attribute] ▲ \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 212,
+    "skills": [
+      "Apply Ignore DEF to yourself (1 turn) \\\n Deal heavy Special Attack damage to all [Divine] enemies <Special Attack damage increases with Overcharge>",
+      "Apply Ignore DEF to yourself (1 turn) \\\n Deal heavy Special Attack damage to all [Divine] enemies ▲ <Special Attack damage increases with Overcharge> \\\n Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 216,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n gain C. Stars each turn for yourself (3 turns) <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 248,
+    "skills": [
+      "Deal significant damage that gets more powerful when your HP is low <strength increases with Overcharge> \\\n remove DEF buffs for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 246,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal significant Special Attack damage to a single enemy with [Evade] (excluding effects that cannot be removed) <Special Attack damage increases with Overcharge>  "
+    ]
+  },
+  {
+    "collectionNo": 255,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal significant [Weakness Detected] Special Attack damage to a single enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 262,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n Increase Buster Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 269,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Decrease DEF (2 turns) <effect increases with Overcharge> \\\n Quick Card Resistance (2 turns) <effect increases with Overcharge> \\\n deal significant damage to one enemy"
+    ]
+  },
+  {
+    "collectionNo": 272,
+    "skills": [
+      "Apply Ignore Invincible (3 turns) \\\n increase ATK (3 turns) \\\n greatly increase Critical Strength (3 turns) <effect increases with Overcharge> \\\n apply Debuff Immune (3 turns) \\\n gain C. Stars each turn (3 turns) for yourself "
+    ]
+  },
+  {
+    "collectionNo": 271,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n remove ATK Buffs \\\n remove Poison, Curse, Burn [Demerit] for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 276,
+    "skills": [
+      "Apply Special Attack against enemies with [Human Attribute] (1 turn) <effect increases with Overcharge> \\\n Special Attack against [Neutral] Servant enemies (1 turn) \\\n Special Attack against [Shadow Servants] (1 turn) to yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 294,
+    "skills": [
+      "Increase NP Gauge \\\n Buster Card effectiveness (3 turns) for all allies except yourself <effect increases with Overcharge> \\\n Increase all [Nobunaga] allies' Buster Card effectiveness (3 turns) \\\n Apply Death to yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 286,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n apply Sure Hit (1 turn) for yourself \\\n Deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 311,
+    "skills": [
+      "Apply Sure Hit (1 turn) for yourself \\\n Deal significant damage \\\n inflict Curse (5 turns) \\\n inflict Disastrous Curse (increase Curse damage) (5 turns) <effect increases with Overcharge> for one enemy"
+    ]
+  },
+  {
+    "collectionNo": 318,
+    "skills": [
+      "Decrease Arts Card resistance (1 turn) <effect increases with Overcharge> \\\n deal significant damage \\\n inflict Skill Seal (1 turn) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 325,
+    "skills": [
+      "Increase ATK (1 turn) \\\n Critical Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all [King] enemies "
+    ]
+  },
+  {
+    "collectionNo": 350,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n Ignore DEF (1 turn) \\\n increase Buster Card effectiveness only when on a [Near Water] field (1 turn) for yourself \\\n Deal heavy [Lawful] Special Attack damage <Special Attack damage increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 375,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Critical Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 383,
+    "skills": [
+      "Apply Special Attack [enemies with Heaven attribute] (1 turn) for yourself \\\n Deal heavy Special Attack damage to all [Demonic] enemies <Special Attack damage increases with Overcharge> \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 391,
+    "skills": [
+      "[Normal State] Increase Arts Card effectiveness (1 turn) for yourself <effect increases with Overcharge> \\\n Deal heavy damage \\\n remove ATK buffs \\\n remove Burn, Spreading Fire [Demerit] to all enemies \n[NP Change State <NP Change can be done with Skill 3. NP Rank changes to A>] Increase Arts Card effectiveness (1 turn) for yourself <effect increases with Overcharge> \\\n Deal significant damage \\\n remove ATK buffs \\\n remove Burn, Spreading Fire [Demerit]to a single enemy",
+      "[Normal State] Increase Arts Card effectiveness (1 turn) for yourself <effect increases with Overcharge> \\\n Deal heavy damage \\\n remove ATK buffs \\\n remove Burn, Spreading Fire [Demerit] to all enemies \n[NP Change State <NP Change can be done with Skill 3. NP Rank changes to A>] Increase Arts Card effectiveness (1 turn) for yourself <effect increases with Overcharge> \\\n Deal significant damage \\\n remove ATK buffs \\\n remove Burn, Spreading Fire [Demerit]to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 394,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> \\\n apply Ignore DEF (1 turn) for yourself \\\n Deal significant damage \\\n decrease DEF (3 turns) for a single enemy",
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> \\\n apply Sure Hit (1 turn) for yourself \\\n Deal heavy damage \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 395,
+    "skills": [
+      "High chance to apply Sure Hit (1 turn) \\\n high chance to increase Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n high chance to increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n medium chance to increase NP Strength (1 turn) \\\n medium chance to increase NP Strength (1 turn) for yourself \\\n Deal significant damage to a single enemy \\\n Remove Increased Buff Success Rate for yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 17,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n medium chance to inflict Death <chance increases with Overcharge> for a single enemy",
+      "Apply Sure Hit for yourself (1 turn) ▲ \\\n Deal significant damage ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n medium chance ▲ to inflict Death <chance increases with Overcharge> to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 71,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n remove buffs \\\n inflict Curse (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n remove buffs \\\n inflict Curse (5 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 140,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n deal significant Special Attack damage to a single [Evil] enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 85,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Divine] enemies <Special Attack damage increases with Overcharge>",
+      "Deal heavy Special Attack damage to all [Divine] enemies ▲ <Special Attack damage increases with Overcharge> \\\n decrease Buster Card Resistance ▲ (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 18,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n inflict Curse (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n inflict Curse (3 turns) <effect increases with Overcharge> to all enemies \\\n decrease Buff Success Rate when receiving a Buff ▲ (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 19,
+    "skills": [
+      "Chance to inflict Stun (1 turn) \\\n Curse (3 turns) <effect increases with Overcharge> to all enemies",
+      "Chance to inflict Stun (1 turn) \\\n inflict Curse ▲ (3 turns) <effect increases with Overcharge> \\\n remove Buffs ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 20,
+    "skills": [
+      "Deal significant damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy ",
+      "Increase Quick Card effectiveness (1 turn) for yourself ▲ \\\n Deal significant DEF-ignoring damage ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 143,
+    "skills": [
+      "Decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy \\\n deal significant damage to a single enemy \\\n inflict Stun (1 turn) to a single enemy with [Divine] trait",
+      "Decrease DEF ▲ (3 turns) for a single enemy <effect increases with Overcharge> \\\n deal significant damage to a [Threat to Humanity] enemy ▲ \\\n inflict Stun (1 turn) to a single enemy with [Divine] trait"
+    ]
+  },
+  {
+    "collectionNo": 21,
+    "skills": [
+      "Greatly increase DEF (3 turns) <effect increases with Overcharge> \\\n apply Target Focus status (3 turns) <effect increases with Overcharge> for yourself \\\n gain C. Stars "
+    ]
+  },
+  {
+    "collectionNo": 22,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n increase ATK (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 87,
+    "skills": [
+      "Deal heavy damage \\\n decrease ATK (3 turns) <effect increases with Overcharge> to all enemies \\\n Apply immunity to Mental Debuffs (3 turns) for yourself",
+      "Deal heavy damage ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> to all enemies \\\n Apply immunity to Mental Debuffs (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 88,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Loved One] enemy <Special Attack damage increases with Overcharge> \\\n increase C. Star Drop Rate (3 turns) for all allies ",
+      "Deal significant Special Attack damage to a single [Loved One] enemy ▲ <Special Attack damage increases with Overcharge> \\\n increase C. Star Drop Rate ▲ (3 turns) for all allies "
+    ]
+  },
+  {
+    "collectionNo": 70,
+    "skills": [
+      "Inflict Stun (1 turn) \\\n deal significant damage \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy",
+      "Inflict Stun (1 turn) \\\n deal significant damage ▲ \\\n medium chance ▲ to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 186,
+    "skills": [
+      "Increase ATK (3 turns) \\\n greatly increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> \\\n Critical Strength (3 turns) \\\n apply Death Immune (1 turn) \\\n Evade (1 time) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 64,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 102,
+    "skills": [
+      "Deal significant DEF-ignoring damage \\\n chance to inflict Death <chance increases with Overcharge> \\\n decrease DEF (3 turns) for a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n chance to inflict Death <chance increases with Overcharge> \\\n decrease DEF ▲ (3 turns) for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 78,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n medium chance to inflict NP Seal (1 turn) \\\n Curse (5 turns) <effect increases with Overcharge> to all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n medium chance to inflict NP Seal (1 turn) \\\n Curse (5 turns)▲ <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 119,
+    "skills": [
+      "Apply Ignore Invincible for yourself (1 turn) \\\n Deal heavy damage to all enemies \\\n Restore your NP Gauge <effect increases with Overcharge> "
+    ]
+  },
+  {
+    "collectionNo": 128,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Male] enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 134,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Skill Seal (1 turn) \\\n Burn (5 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 141,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Debuff Resist (1 turn) for all enemies \\\n increase ATK (1 turn) <effect increases with Overcharge> \\\n HP Recovery Amount (1 turn) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 146,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n chance to inflict Stun (1 turn) <chance increases with Overcharge> to a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n chance to inflict Stun (1 turn) <chance increases with Overcharge> to a single enemy \\\n decrease Quick Card Resistance ▲ (3 turns) for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 148,
+    "skills": [
+      "Apply Sure Hit for yourself (1 turn) \\\n deal significant damage to a single enemy \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 181,
+    "skills": [
+      "Deal significant DEF-ignoring damage to a single enemy \\\n Gain a large amount of C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 183,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n medium chance to inflict Charm (1 turn) to all enemies \\\n Increase NP Gauge <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 193,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n inflict Burn (5 turns) to all enemies ",
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage ▲ \\\n inflict Burn ▲ (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 196,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n Increase ATK for all allies with [Blessing of Kur] (3 turns)",
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy Special Attack damage to all enemies with [Earth Attribute] ▲ \\\n Increase ATK (3 turns) \\\n increase Critical Hit Resistance (3 turns) ▲ \\\n apply Nullify Death (3 turns) ▲ for all allies with [Blessing of Kur]"
+    ]
+  },
+  {
+    "collectionNo": 214,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal heavy damage to all enemies \\\n chance to apply Death to all [Demonic] enemies <chance increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 217,
+    "skills": [
+      "Deal significant DEF-ignoring damage to a single enemy \\\n Gain a large amount of C. Stars <effect increases with Overcharge> \\\n Decrease your C. Star Drop Rate (3 turns) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 228,
+    "skills": [
+      "Apply the following states to yourself: Decrease DEF of a single enemy (3 turns) during normal attacks (3 times, 5 turns) \\\n remove Buff of a single enemy during Critical attacks (3 times, 5 turns) \\\n decrease Critical Strength of a single enemy (3 turns) when attacked (3 times, 5 turns) \\\n recover all allies' HP when receiving a Critical Hit <recovery effect increases with Overcharge; no recovery if target's HP has reached 0> \\\n greatly increase your ATK (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 232,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage \\\n chance to inflict Stun (1 turn) \\\n decrease Critical Rate (3 turns) to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 252,
+    "skills": [
+      "Deal significant damage \\\n remove ATK buffs \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 256,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal significant damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 266,
+    "skills": [
+      "When on a [Near Water] field, remove Evade status for all enemies \\\n Deal heavy DEF-ignoring damage to all enemies \\\n Gain a large amount of C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 279,
+    "skills": [
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> \\\n increase Critical Strength (3 turns) for yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 280,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Roman] enemies <Special Attack damage increases with each [Roman] trait on the target (Maximum 10)> \\\n apply [Roman] trait (5 turns) to all enemies \\\n Increase ATK (3 turns) <effect increases with Overcharge> \\\n apply [Roman] trait (5 turns) to all allies"
+    ]
+  },
+  {
+    "collectionNo": 283,
+    "skills": [
+      "Low chance to inflict Death <chance increases with Overcharge> \\\n deal heavy damage \\\n remove DEF Buffs for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 288,
+    "skills": [
+      "Deal significant Special Attack [Male] damage \\\n inflict Curse (3 turns) <effect increases with Overcharge> \\\n inflict Burn (3 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 300,
+    "skills": [
+      "Deal heavy damage \\\n decrease Arts Card resistance (3 turns) <effect increases with Overcharge> \\\n inflict Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 313,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Restore HP for the ally who has the least percentage of their HP remaining"
+    ]
+  },
+  {
+    "collectionNo": 312,
+    "skills": [
+      "Increase NP Gain (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage \\\n increase damage taken (5 turns) for a single enemy \\\n Gain C. Stars",
+      "Apply Ignore Invincible (1 turn) \\\n increase Buster Card effectiveness (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n inflict Burn (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 341,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n inflict Nullify Buff (1 time, 3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 329,
+    "skills": [
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> \\\n greatly increase DEF (1 turn) for yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 347,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Giant] enemy \\\n Reduce your HP by 1000 [Demerit] \\\n Increase ATK (3 turns) \\\n Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 368,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n Special Attack [Riding Skill] (1 turn) for yourself \\\n Deal heavy Special Attack damage to all [Rider] enemies <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 381,
+    "skills": [
+      "Increase Critical Strength (3 turns) for yourself \\\n Remove Buffs \\\n deal significant damage \\\n deal additional heavy damage with Overcharge <strength increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 23,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n Increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies",
+      "Deal heavy damage ▲ \\\n decrease Critical Rate (3 turns) ▲ to all enemies \\\n Increase C. Star Drop Rate ▲ (3 turns) <effect increases with Overcharge> for all allies "
+    ]
+  },
+  {
+    "collectionNo": 108,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n Critical Rate (3 turns)▲ <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 65,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n Gain a large amount of C. Stars <effect increases with Overcharge>",
+      "Deal heavy damage to all enemies ▲ \\\n Gain large amount of C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 94,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n Apply Evade (3 times) for yourself \\\n Gain C. Stars <effect increases with Overcharge>",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n Apply Evade (3 times) for yourself \\\n Gain C. Stars ▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 24,
+    "skills": [
+      "Apply trait [Dragon] (3 turns) \\\n deal significant damage to a single enemy \\\n greatly increase DEF (1 turn) <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 25,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n low chance to decrease Charge <chance increases with Overcharge> for all enemies \\\n gain C. Stars",
+      "Deal heavy damage ▲ \\\n low chance ▲ to decrease Charge <chance increases with Overcharge> to all enemies \\\n Gain C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 66,
+    "skills": [
+      "Deal significant damage that gets more powerful when your HP is low to a single enemy <Special Attack damage increases with Overcharge>",
+      "Deal significant damage that gets more powerful when your HP is low to a single enemy ▲ <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 26,
+    "skills": [
+      "Increase DEF (3 turns) \\\n greatly increase DEF (1 turn) <effect increases with Overcharge> for all allies",
+      "Increase DEF (3 turns) \\\n greatly increase DEF (1 turn) <effect increases with Overcharge> \\\n increase ATK ▲ (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 118,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict NP Seal (1 turn) \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage ▲ \\\n inflict NP Seal (1 turn) \\\n decrease DEF (3 turns) <effect increases with Overcharge> to one enemy \\\n Apply a state where the field turns to [Sunlight] (5 turns) ▲ \\\n reduce skill cooldown by 1 ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 99,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Male] enemy <Special Attack damage increases with Overcharge> \\\n decrease Mental Debuff Resist (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant Special Attack damage to a single [Male] enemy ▲ <Special Attack damage increases with Overcharge> \\\n decrease Mental Debuff Resist ▲ (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 27,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n greatly increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for yourself",
+      "Deal significant damage to a single enemy ▲ \\\n greatly increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 28,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n gain C. Stars <effect increases with Overcharge>",
+      "Deal heavy damage to all enemies ▲ \\\n gain C. Stars ▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 29,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n restore HP <effect increases with Overcharge> \\\n remove debuffs for all allies",
+      "Deal heavy damage to all enemies ▲ \\\n restore HP ▲ <effect increases with Overcharge> \\\n remove Debuffs \\\n increase Critical Strength ▲ (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 144,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict NP Seal (1 turn) \\\n Burn (5 turns) <effect increases with Overcharge> for a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 30,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n greatly decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Increase Buster Card effectiveness ▲ (1 turn) for yourself \\\n deal heavy damage to all enemies ▲ \\\n greatly decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 73,
+    "skills": [
+      "Deal very heavy damage to all enemies \\\n slightly restore your NP Gauge <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 115,
+    "skills": [
+      "Increase your Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 132,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n chance to decrease Charge <chance increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 172,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease Critical Rate ▲ (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease Critical Rate ▲ (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease Critical Rate ▲ (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 182,
+    "skills": [
+      "Increase your Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 179,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy \\\n Slightly restore your NP Gauge"
+    ]
+  },
+  {
+    "collectionNo": 205,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n decrease Buster Card Resistance (3 turns) for all enemies",
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage ▲ \\\n decrease Buster Card Resistance ▲ (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 206,
+    "skills": [
+      "Increase your Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies ",
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Critical Strength (3 turns) <effect increases with Overcharge> ▲ for yourself \\\n Deal heavy damage ▲ \\\n inflict [Confusion] (low chance of Skill Seal each turn) (3 turns) ▲ to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 211,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n chance to decrease Charge for a single enemy <chance increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 231,
+    "skills": [
+      "Deal heavy DEF-ignoring damage \\\n chance to apply Skill Seal (1 turn) <chance increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 241,
+    "skills": [
+      "Greatly decrease DEF (3 turns) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies \\\n Negate DEF disadvantage due to Class Affinity for all allies (3 turns) \\\n Remove debuffs for yourself",
+      "Greatly decrease DEF (3 turns) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies \\\n Negate DEF disadvantage due to Class Affinity (3 turns) \\\n increase NP Gain (3 turns) ▲ \\\n increase NP Charge by 1 level when using NP (1 time, 3 turns) ▲ for all allies \\\n Remove debuffs for yourself"
+    ]
+  },
+  {
+    "collectionNo": 257,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Low Rarity] enemies <Special Attack damage increases with Overcharge> \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 253,
+    "skills": [
+      "Increase your Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n Increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 263,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Quick Card resistance (3 turns) <effect increases with Overcharge> \\\n inflict Nullify Buff (1 time, 3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 296,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> \\\n increase NP Strength (1 turn) only when in [Near Water] or [Void Space] fields \\\n apply Sure Hit (1 turn) only when in [Near Water] or [Void Space] fields for yourself \\\n Deal significant Special Attack damage to a single [Super Giant] enemy "
+    ]
+  },
+  {
+    "collectionNo": 277,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Remove DEF Buffs \\\n deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 273,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy \\\n Decrease ATK (1 turn) for yourself [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 274,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n greatly increase DEF (1 turn) for yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 291,
+    "skills": [
+      "Deal significant damage \\\n chance to decrease Charge \\\n decrease Arts Card resistance (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant Special Attack [Earth Attribute] damage ▲ \\\n chance to decrease Charge \\\n decrease Arts Card resistance (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 315,
+    "skills": [
+      "Increase NP Strength (1 turn) for yourself \\\n Deal heavy DEF-ignoring damage to all enemies \\\n Gain a large amount of C. Stars <effect increases with Overcharge> \\\n Decrease C. Star Gather Rate (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 331,
+    "skills": [
+      "Deal heavy [Divine] Special Attack damage \\\n decrease Quick Card Resistance (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 332,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy DEF-ignoring damage \\\n inflict Burn (3 turns) \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 322,
+    "skills": [
+      "Increase NP Strength (3 turns) \\\n Critical Strength (3 turns) <effect increases with Overcharge> \\\n increase ATK (1 turn) only on [Near Water] field for yourself \\\n Deal significant damage to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 326,
+    "skills": [
+      "Remove Debuffs for yourself \\\n Increase ATK for all [Fairy Tale Servants] (3 turns) <effect increases with Overcharge> \\\n Deal significant damage to one enemy "
+    ]
+  },
+  {
+    "collectionNo": 342,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) \\\n apply Invincible (1 time, 1 turn) for yourself \\\n Greatly increase DEF (1 turn) <effect increases with Overcharge> for all allies \\\n Apply Damage Cut to all [Roman] trait allies (1 turn)"
+    ]
+  },
+  {
+    "collectionNo": 349,
+    "skills": [
+      "Apply Special Attack [Demonic] to yourself (1 turn) \\\n Deal heavy [Evil] Special Attack damage <Special Attack damage increases with Overcharge> to all enemies \\\n Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 366,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Arts Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Buster Card effectiveness (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 387,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n [Lawful] Special Attack (1 turn) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Earth Attribute] <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 31,
+    "skills": [
+      "Deal heavy damage to a single enemy \\\n remove all buffs for a single enemy \\\n restore NP Gauge <effect increases with Overcharge> for yourself",
+      "Deal heavy damage to a single enemy ▲ \\\n remove all buffs \\\n restore NP Gauge to yourself <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 32,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> \\\n DEF (3 turns) <effect increases with Overcharge> ▲ for all enemies \\\n Increase NP Gauge ▲ for all [Foreigner] allies"
+    ]
+  },
+  {
+    "collectionNo": 62,
+    "skills": [
+      "Reduce skill cooldown by 1 \\\n restore HP \\\n increase NP Gauge <effect increases with Overcharge> for all allies",
+      "Reduce skill cooldown by 1 \\\n restore HP ▲ \\\n increase NP Gauge <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 74,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n chance to decrease Charge <chance increases with Overcharge> \\\n decrease DEF (3 turns) for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n chance to decrease Charge <chance increases with Overcharge> \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 33,
+    "skills": [
+      "Chance to increase ATK (3 turns) <effect increases with Overcharge> \\\n chance to increase DEF (3 turns) <effect increases with Overcharge> \\\n restore HP per turn (3 turns) <effect increases with Overcharge> for all allies",
+      "Chance to increase ATK (3 turns) <effect increases with Overcharge> \\\n chance to increase DEF (3 turns) <effect increases with Overcharge> \\\n chance to increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> ▲ \\\n restore HP per turn (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 34,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n low chance to inflict Stun (1 turn) <chance increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n low chance ▲ to inflict Stun (1 turn) <chance increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 150,
+    "skills": [
+      "Restore HP each turn (5 turns) \\\n Increase NP Gauge each turn (5 turns) for all allies \\\n Gain C. Stars each turn for yourself (5 turns) <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 127,
+    "skills": [
+      "Increase NP Strength for yourself (1 turn) <effect increases with Overcharge> \\\n Deal heavy DEF-ignoring damage to all enemies \\\n decrease Critical Rate (3 turns) for all enemies",
+      "Increase NP Strength for yourself (1 turn) <effect increases with Overcharge> \\\n Deal heavy DEF-ignoring damage ▲ \\\n decrease Critical Rate ▲ (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 79,
+    "skills": [
+      "Deal increased damage to all enemies \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal increased damage to all enemies ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 80,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 120,
+    "skills": [
+      "Chance to inflict Death <chance increases with Overcharge> \\\n deal heavy damage to all enemies",
+      "Chance to inflict Death <chance increases with Overcharge> \\\n deal heavy damage to all enemies ▲ decrease Critical Rate (3 turns) for all enemies ▲"
+    ]
+  },
+  {
+    "collectionNo": 35,
+    "skills": [
+      "Deal heavy DEF-ignoring damage \\\n medium chance to inflict Curse (3 turns) <effect increases with Overcharge> to all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n high chance to inflict Curse (3 turns) ▲ <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 36,
+    "skills": [
+      "Chance to decrease ATK (3 turns) <effect increases with Overcharge> \\\n chance to decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Curse (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 104,
+    "skills": [
+      "Deal slightly heavy damage \\\n decrease Critical Rate (3 turns) to all enemies \\\n restore HP <effect increases with Overcharge> \\\n increase Debuff Resist (3 turns) <effect increases with Overcharge> for all allies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease Critical Rate (3 turns) for all enemies \\\n Restore HP <effect increases with Overcharge> \\\n increase Debuff Resist (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 67,
+    "skills": [
+      "Remove debuffs \\\n greatly restore HP \\\n greatly increase Debuff Resist (3 turns) <effect increases with Overcharge> for all allies",
+      "Remove debuffs \\\n greatly restore HP ▲ \\\n greatly increase Debuff Resist (3 turns) ▲ <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 145,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies \\\n Increase DEF for all allies (3 turns)",
+      "Deal heavy damage ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies \\\n Increase DEF (3 turns) \\\n increase Critical Strength (3 turns) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 37,
+    "skills": [
+      "Decrease Charge \\\n medium chance to inflict Stun (1 turn) <chance increases with Overcharge> \\\n inflict Curse (3 turns) \\\n decrease DEF (3 turns) for all enemies",
+      "Decrease Charge \\\n medium chance to inflict Stun (1 turn) <chance increases with Overcharge> \\\n inflict Curse ▲ (6 turns) \\\n greatly decrease DEF ▲ (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 111,
+    "skills": [
+      "Restore HP \\\n apply Guts (1 time, 3 turns) <Guts recovery amount increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 38,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Burn (10 turns) <effect increases with Overcharge> for all enemies",
+      "Increase Buster Card effectiveness for yourself (3 turns) ▲ \\\n Deal heavy damage ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Burn (10 turns) <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 113,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n greatly decrease Critical Rate (1 turn) <effect increases with Overcharge> for a single enemy",
+      "Deal significant DEF-ignoring damage to a single enemy ▲ \\\n greatly decrease Critical Rate (1 turn) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 100,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n Critical Rate (3 turns) <effect increases with Overcharge> \\\n Debuff Resist (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n Critical Rate (3 turns) <effect increases with Overcharge> \\\n Debuff Resist (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 103,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n inflict NP Seal (1 turn) \\\n Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n inflict NP Seal (1 turn) \\\n Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> \\\n ATK ▲ (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 61,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n inflict Curse (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 130,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Critical Rate (3 turns) \\\n increase Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 136,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal significant damage to a single enemy \\\n Decrease your ATK and DEF (3 turns) [Demerit]",
+      "Increase Buster Card effectiveness ▲ (1 turn) <effect increases with Overcharge> \\\n NP Gain ▲ (3 turns) \\\n C. Star Drop Rate ▲ (3 turns) for yourself \\\n Deal significant damage to a single enemy ▲ \\\n Decrease your ATK and DEF (3 turns) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 169,
+    "skills": [
+      "Increase your NP Strength (1 turn) \\\n Deal heavy Special Attack damage to all [King] enemies <Special Attack damage increases with Overcharge>",
+      "Increase your NP Strength (1 turn) \\\n Deal heavy Special Attack damage to all [King] enemies <Special Attack damage increases with Overcharge> ",
+      "Increase your NP Strength (1 turn) \\\n Deal heavy Special Attack damage to all [King] enemies ▲ <Special Attack damage increases with Overcharge> \\\n greatly decrease Debuff Resist ▲ (1 time, 3 turns) for all enemies",
+      "Increase your NP Strength (1 turn) \\\n Deal heavy Special Attack damage to all [King] enemies ▲ <Special Attack damage increases with Overcharge> \\\n greatly decrease Debuff Resist ▲ (1 time, 3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 175,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 192,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Pigify <Special Stun> (certain special enemies are immune) (1 turn) to a single enemy \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy ",
+      "Deal significant damage ▲ \\\n inflict Pigify <Special Stun> (certain special enemies are immune) (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> \\\n remove ATK Buffs ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 194,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n decrease ATK (3 turns) <effect increases with Overcharge> \\\n decrease HP Recovery Amount (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 201,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Skill Seal (1 turn) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 203,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n Increase NP Gain for all allies (3 turns) <effect increases with Overcharge>",
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> ▲ \\\n Deal heavy damage to all enemies ▲ \\\n Increase NP Gain for all allies (3 turns) <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 208,
+    "skills": [
+      "Decrease DEF for all enemies (3 turns) <effect increases with Overcharge> \\\n deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 215,
+    "skills": [
+      "Increase Critical Strength (3 times, 5 turns) \\\n apply Evade (1 time, 3 turns) \\\n Death Immune (1 time, 3 turns) \\\n Damage Cut (3 turns) <effect increases with Overcharge> for all allies ",
+      "Increase ATK (5 turns) ▲ \\\n Critical Strength ▲ (3 times, 5 turns) \\\n apply Evade (1 time, 3 turns) \\\n Death Immune (1 time, 3 turns) \\\n Damage Cut (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 225,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal significant damage \\\n inflict Poison (5 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 236,
+    "skills": [
+      "Apply [Protection of Sakatsuki] to yourself <Increase NP Gauge each turn \\\n restore HP each turn for all allies \\\n Gain C. Stars each turn <effect increases with Overcharge>> (3 turns) \\\n decrease HP by 3000 (leave at least 1) [Demerit]",
+      "Apply [Protection of Sakatsuki] state that \"increases NP Gauge \\\n restores HP ▲ \\\n increases ATK (3 turns) ▲ for all allies each turn \\\n Gain C. Stars <effect increases with Overcharge>\" for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 237,
+    "skills": [
+      "Deal heavy Special Attack damage [Demonic] <Special Attack damage increases with Overcharge> \\\n inflict Nullify Buff (1 turn) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 249,
+    "skills": [
+      "Apply Guts for all allies except yourself (1 time, 3 turns) \\\n Restore HP each turn (3 turns) <effect increases with Overcharge> \\\n apply Debuff Immune (1 time, 3 turns) for all allies "
+    ]
+  },
+  {
+    "collectionNo": 258,
+    "skills": [
+      "<Usable only when there is one or more ally on the field who can be sacrificed> Deal significant damage to all enemies <strength increases with Overcharge> \\\n Sacrifice one ally other than yourself (apply Death, ignoring Death Immune effects) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 284,
+    "skills": [
+      "Increase ATK (3 turns) \\\n remove Debuffs \\\n apply an anti-Enforcement DEF state <disregard [Ignore Invincible] and reduce ATK damage received to 0> (1 time, 3 turns) <times increase with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 307,
+    "skills": [
+      "<Usable only when there are more than 20 C. Stars> Increase the ATK (3 turns) \\\n NP Strength (3 turns) \\\n NP Gauge <effect increases with Overcharge> of the front-most single ally, excluding yourself \\\n Retreat to the sub-member slot <cannot retreat if there is only 1 allied Servant on the field>"
+    ]
+  },
+  {
+    "collectionNo": 340,
+    "skills": [
+      "Decrease Quick Card resistance (1 turn) for all enemies \\\n Deal heavy Special Attack damage against all enemies with [Earth powers] <Special Attack damage increases with Overcharge> \\\n Increase Critical Strength (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 319,
+    "skills": [
+      "Deal significant [Skill Seal] Special Attack damage to a single enemy <Special Attack damage increases with Overcharge> \\\n Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 327,
+    "skills": [
+      "Decrease Quick Card resistance (3 turns) \\\n deal significant Special Attack damage to a single [Demonic] enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 330,
+    "skills": [
+      "Restore HP <effect increases with Overcharge> \\\n increase ATK (3 turns) \\\n apply Special Attack [Divine, Demon, and Undead] (3 turns) for all allies \\\n Gain C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 348,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n When on a [Forest] field, decrease Quick Card resistance for all enemies (3 turns) \\\n When on a [Near Water] field, decrease Arts Card resistance for all enemies (3 turns) \\\n When on a [Sunlight] field, decrease Buster Card resistance for all enemies (3 turns) \\\n When on a [Burning] field, decrease Critical Rate for all enemies (3 turns) \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 358,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Apply [Undead] trait (3 turns) \\\n deal heavy Special Attack [Enemies with Human Attribute] damage \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 385,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n apply Invincible (1 time, 1 turn) \\\n reduce skill cooldown by 1 for Skill 3 <cooldown turns reduced increase with Overcharge> for yourself \\\n Deal heavy Special Attack [Evil] damage <Special Attack Strength increases with Noble Phantasm level> \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 39,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n gain large amount of C. Stars <effect increases with Overcharge>",
+      "Increase Quick Card effectiveness for yourself (3 turns) ▲ \\\n Deal significant damage to a single enemy ▲ \\\n Gain large amount of C. Stars <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 40,
+    "skills": [
+      "Deal significant damage \\\n high chance to inflict Death <chance increases with Overcharge> to a single enemy",
+      "Deal significant damage ▲ \\\n high chance to inflict Death <chance increases with Overcharge> to a single enemy \\\n When Death succeeds, increase ATK (3 turns) ▲ \\\n restore NP Gauge ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 110,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> \\\n Arts Card Resistance (3 turns) ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 75,
+    "skills": [
+      "Apply Special Attack [Female] status to yourself (1 turn) <effect increases with Overcharge> \\\n Deal significant DEF-ignoring damage to a single enemy",
+      "Apply Special Attack [Female] status to yourself (1 turn) <effect increases with Overcharge> \\\n Deal significant DEF-ignoring damage ▲ to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 81,
+    "skills": [
+      "Swap your personality \\\n increase Max HP \\\n fully restore HP \\\n increase Buster Card effectiveness <effect increases with Overcharge> for yourself",
+      "Swap your personality \\\n increase Max HP ▲ \\\n fully restore HP \\\n increase Buster Card effectiveness ▲ <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 0,
+    "skills": [
+      "Not Usable",
+      "Not Usable"
+    ]
+  },
+  {
+    "collectionNo": 139,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n Reduce your HP by 1000 [Demerit]",
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage ▲ \\\n Inflict Nullify Buff (1 time, 3 turns) ▲ to all enemies \\\n Reduce your HP by 1000 [Demerit] "
+    ]
+  },
+  {
+    "collectionNo": 124,
+    "skills": [
+      "Inflict Poison (5 turns) \\\n chance to inflict Skill Seal (1 turn) \\\n chance to inflict NP Seal (1 turn) \\\n chance to inflict Death <chance increases with Overcharge> \\\n deal significant damage to a single enemy",
+      "Inflict Poison ▲ (5 turns) \\\n chance to inflict Skill Seal (1 turn) \\\n chance to inflict NP Seal (1 turn) \\\n chance to inflict Death <chance increases with Overcharge> \\\n deal significant damage ▲ to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 41,
+    "skills": [
+      "High chance to inflict Death [Male only] \\\n Charm [Male only] (1 turn) <chance increases with Overcharge> \\\n decrease DEF (3 turns) for a single enemy",
+      "High chance to inflict Death [Male only] \\\n Charm [Male only] (1 turn) <chance increases with Overcharge> \\\n decrease DEF ▲ (3 turns) \\\n remove Buffs ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 42,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n medium chance to apply Death <chance increases with Overcharge> for a single enemy \\\n Gain a large amount of C. Stars <effect increases with Overcharge> \\\n Reduce your HP by 1000 [Demerit]",
+      "Deal significant damage to a single enemy ▲ \\\n medium chance to inflict Death <chance increases with Overcharge> for a single enemy \\\n Gain a large amount of C. Stars ▲ <effect increases with Overcharge> \\\n Reduce your HP by 1000 [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 43,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n low chance to inflict Death <chance increases with Overcharge> \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n low chance to inflict Death <chance increases with Overcharge> \\\n decrease DEF ▲ (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 44,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n decrease Debuff Resist (6 turns) ▲ <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 45,
+    "skills": [
+      "Medium chance to inflict Charm (1 turn) \\\n greatly decrease ATK (1 turn) <effect increases with Overcharge> \\\n greatly decrease DEF (1 turn) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 109,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Charge \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n decrease Charge \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 46,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Female] enemy <Special Attack damage increases with Overcharge> \\\n greatly restore HP \\\n increase ATK (3 turns) for yourself",
+      "Deal significant Special Attack damage to a single [Female] enemy ▲ <Special Attack damage increases with Overcharge> \\\n greatly restore HP \\\n increase ATK (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 86,
+    "skills": [
+      "Deal significant damage to an [Altria Face] enemy <Special Attack damage increases with Overcharge>",
+      "Deal significant damage to an [Altria Face] enemy ▲ <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 117,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n inflict Confusion (low chance of Skill Seal each turn) (5 turns) <chance increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n inflict Confusion (low chance of Skill Seal each turn) (5 turns) <chance increases with Overcharge> \\\n decrease DEF (3 turns) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 112,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n slightly decrease Debuff Resist (3 turns) \\\n DEF (3 turns) \\\n ATK (3 turns) \\\n NP Strength (3 turns) \\\n Critical Rate (3 turns) \\\n inflict Skill Seal (1 turn) \\\n Poison (5 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n slightly decrease Debuff Resist (3 turns) \\\n DEF (3 turns) \\\n ATK (3 turns) \\\n NP Strength (3 turns) \\\n Critical Rate (3 turns) \\\n inflict Skill Seal (1 turn) \\\n Poison (5 turns) <effect increases with Overcharge> \\\n Corroding Poison (increase Poison effectiveness) (5 turns) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 92,
+    "skills": [
+      "Deal significant DEF-ignoring damage \\\n chance to inflict Death <chance increases with Overcharge> to a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n chance to inflict Death <chance increases with Overcharge> \\\n decrease DEF (3 turns) ▲ to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 133,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n low chance to inflict Death <chance increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 154,
+    "skills": [
+      "Deal significant damage \\\n high chance to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 159,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Critical Strength (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage ▲ \\\n decrease Critical Strength (3 turns) <effect increases with Overcharge> \\\n decrease Quick Card Resistance (3 turns) ▲ for a single enemy \\\n Increase Critical Strength (3 turns) for yourself ▲"
+    ]
+  },
+  {
+    "collectionNo": 170,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Poison (3 turns) to a single enemy \\\n increase Critical Strength (3 turns) <effect increases with Overcharge> for yourself ",
+      "Deal significant damage to a single enemy \\\n inflict Poison (3 turns) to a single enemy \\\n increase Critical Strength (3 turns) <effect increases with Overcharge> for yourself",
+      "Deal significant damage ▲ \\\n remove Buffs ▲ \\\n inflict Poison (3 turns) to a single enemy \\\n Increase Critical Strength (3 turns) <effect increases with Overcharge> for yourself ",
+      "Deal significant damage ▲ \\\n remove Buffs ▲ \\\n inflict Poison (3 turns) to a single enemy \\\n Increase Critical Strength (3 turns) <effect increases with Overcharge> for yourself "
+    ]
+  },
+  {
+    "collectionNo": 177,
+    "skills": [
+      "Low chance to inflict Death <chance increases with Overcharge> \\\n deal heavy damage to all enemies \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 185,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy \\\n inflict Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n inflict Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> \\\n inflict Disastrous Curse (increase Curse damage) (3 turns) ▲ for a single enemy",
+      "Deal significant damage to a single enemy ▲ \\\n inflict Skill Seal (1 turn) \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> \\\n inflict Disastrous Curse (increase Curse damage) (3 turns) ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 188,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Demonic] enemies <Special Attack damage increases with Overcharge>",
+      "Deal heavy Special Attack damage to all [Demonic] enemies ▲ <Special Attack damage increases with Overcharge> \\\n Increase Buster Card effectiveness (3 turns) for all allies ▲"
+    ]
+  },
+  {
+    "collectionNo": 189,
+    "skills": [
+      "Increase DEF (3 turns) \\\n Quick Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Max HP (3 turns) for all allies",
+      "Increase DEF (3 turns) \\\n Quick Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Buster Card effectiveness (3 turns) ▲ <effect increases with Overcharge> \\\n Max HP ▲ (3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 199,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies \\\n Increase DEF for all allies (3 turns)",
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage ▲ to all enemies \\\n Increase DEF (3 turns) \\\n Buff Removal Resistance (1 turn) ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 210,
+    "skills": [
+      "Greatly increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy ",
+      "Greatly increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant Special Attack damage to an enemy with [Human Attribute] <Special Attack damage increases with Overcharge> ▲"
+    ]
+  },
+  {
+    "collectionNo": 218,
+    "skills": [
+      "Deal heavy damage \\\n remove ATK buffs \\\n decrease Quick Card Resistance (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy Special Attack <Lawful> damage ▲ \\\n remove ATK buffs \\\n decrease Quick Card Resistance (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 230,
+    "skills": [
+      "Remove Debuffs \\\n Buffs [Demerit] \\\n increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy DEF-ignoring damage \\\n inflict Curse (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 235,
+    "skills": [
+      "Decrease DEF (3 turns) <effect increases with Overcharge> \\\n deal significant damage \\\n chance to inflict Death to a single enemy",
+      "Decrease DEF (3 turns) <effect increases with Overcharge> \\\n deal significant damage ▲ \\\n high chance ▲ to inflict Death to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 239,
+    "skills": [
+      "Increase your Quick Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Deal significant damage \\\n high chance to inflict Charm (1 turn) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 259,
+    "skills": [
+      "Remove Evade \\\n deal significant DEF-ignoring damage \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 243,
+    "skills": [
+      "Deal heavy damage \\\n decrease Quick Card Resistance (3 turns) <effect increases with Overcharge> \\\n Buster Card Resistance (3 turns) <effect increases with Overcharge> for all enemies",
+      "Apply Ignore Invincible (1 turn) ▲ for yourself \\\n Deal heavy damage ▲ \\\n decrease Quick Card Resistance (3 turns) <effect increases with Overcharge> \\\n decrease Buster Card Resistance (3 turns) <effect increases with Overcharge> for all enemies \\\n Slightly restore NP Gauge for yourself ▲"
+    ]
+  },
+  {
+    "collectionNo": 267,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n remove DEF Buffs \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies \\\n Chance to inflict Stun to yourself (1 turn) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 304,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n remove DEF Buffs to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 314,
+    "skills": [
+      "Increase ATK (1 turn) for yourself \\\n Deal heavy damage \\\n decrease Charge to all enemies \\\n Slightly increase NP Gauge for all allies <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 361,
+    "skills": [
+      "Deal heavy Special Attack [Enemies with Earth Attribute] damage <Special Attack damage increases with Overcharge> to all enemies \\\n low chance to inflict Death to all [Demonic] enemies"
+    ]
+  },
+  {
+    "collectionNo": 360,
+    "skills": [
+      "Deal heavy Special Attack [Enemies with Earth Attribute] damage <Special Attack damage increases with Overcharge> to all enemies \\\n low chance to inflict Death to all [Demonic] enemies"
+    ]
+  },
+  {
+    "collectionNo": 359,
+    "skills": [
+      "Deal heavy Special Attack [Enemies with Earth Attribute] damage <Special Attack damage increases with Overcharge> to all enemies \\\n low chance to inflict Death to all [Demonic] enemies"
+    ]
+  },
+  {
+    "collectionNo": 365,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy Special Attack damage to all [Evil] enemies \\\n low chance to inflict Stun (1 turn) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 371,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Slightly increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 378,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Inflict Poison (5 turns) \\\n deal heavy Special Attack damage to a single [Poison] enemy <Special Attack damage increases with each [Poison] (Maximum 10) on the target> \\\n inflict Corroding Poison (increase Poison effectiveness) (5 turns) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 380,
+    "skills": [
+      "Medium chance to inflict Bind (1 turn) <chance increases with Overcharge> \\\n deal powerful [Bind] Special Attack damage <Special Attack damage increases with Overcharge> \\\n low chance to inflict Death to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 47,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 48,
+    "skills": [
+      "Increase your ATK (3 turns) <effect increases with Overcharge> \\\n deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 49,
+    "skills": [
+      "Deal significant DEF-ignoring damage \\\n low chance to inflict Stun (1 turn) <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 82,
+    "skills": [
+      "Deal considerable damage \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies \\\n Inflict Stun to yourself (2 turns) [Demerit]",
+      "Deal considerable damage ▲ \\\n decrease Critical Rate (3 turns) ▲ <effect increases with Overcharge> for all enemies \\\n Inflict Stun to yourself (2 turns) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 50,
+    "skills": [
+      "Deal heavy DEF-ignoring damage to all enemies \\\n greatly restore your HP <effect increases with Overcharge>",
+      "Deal heavy DEF-ignoring damage to all enemies ▲ \\\n greatly restore your HP ▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 51,
+    "skills": [
+      "Deal significant DEF-ignoring damage \\\n medium chance to inflict Stun (1 turn) <chance increases with Overcharge> to a single enemy",
+      "Deal significant DEF-ignoring damage ▲ \\\n medium chance to inflict Stun (1 turn) <chance increases with Overcharge> \\\n decrease Buster Card resistance (2 turns) ▲ for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 52,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n Gain a large amount of C. Stars <effect increases with Overcharge>",
+      "Deal significant damage to a single enemy ▲ \\\n Gain a large amount of C. Stars ▲ <effect increases with Overcharge>",
+      "Deal significant damage ▲ ▲ \\\n decrease Arts Card Resistance (3 turns) ▲ for a single enemy \\\n Gain a large amount of C. Stars ▲ <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 89,
+    "skills": [
+      "Apply Sure Hit for yourself (1 turn) \\\n Deal significant damage \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Apply Sure Hit for yourself (1 turn) \\\n Deal significant damage ▲ \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 53,
+    "skills": [
+      "Decrease ATK (6 turns) \\\n DEF (6 turns) <effect increases with Overcharge> for all enemies",
+      "Decrease ATK (6 turns) \\\n DEF (6 turns) <effect increases with Overcharge> \\\n greatly decrease ATK (1 turn) ▲ \\\n DEF (1 turn) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 54,
+    "skills": [
+      "High chance to inflict Skill Seal (3 turns) \\\n high chance to inflict NP Seal (3 turns) <chance increases with Overcharge> to all enemies",
+      "High chance to inflict Skill Seal (3 turns) \\\n high chance to inflict NP Seal (3 turns) <chance increases with Overcharge> \\\n decrease DEF (3 turns) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 55,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease ATK (3 turns) <effect increases with Overcharge> \\\n DEF (3 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage to all enemies ▲ \\\n decrease ATK (3 turns) <effect increases with Overcharge> \\\n DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 56,
+    "skills": [
+      "Deal heavy damage \\\n low chance to inflict Stun (1 turn) <chance increases with Overcharge> \\\n Burn (10 turns) <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 97,
+    "skills": [
+      "Decrease NP Strength for all enemies (1 turn) <effect increases with Overcharge> \\\n Remove debuffs \\\n recover HP for all allies",
+      "Decrease NP Strength (1 turn) <effect increases with Overcharge> \\\n greatly decrease ATK ▲ (1 turn) for all enemies \\\n Remove debuffs \\\n recover HP for all allies"
+    ]
+  },
+  {
+    "collectionNo": 57,
+    "skills": [
+      "Greatly increase your ATK (1 turn) <effect increases with Overcharge> \\\n deal heavy damage to all enemies \\\n reduce your HP by 1000 [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 58,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n restore your HP per turn (3 turns) <effect increases with Overcharge> \\\n inflict Stun to yourself (2 turns) [Demerit]",
+      "Deal heavy damage to all enemies ▲ \\\n restore your HP per turn (3 turns) ▲ <effect increases with Overcharge> \\\n inflict Stun to yourself (2 turns) [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 98,
+    "skills": [
+      "Increase ATK (1 turn) <effect increases with Overcharge> \\\n DEF (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy",
+      "Increase ATK (1 turn) <effect increases with Overcharge> \\\n DEF (1 turn) <effect increases with Overcharge> for yourself \\\n Remove DEF Buffs ▲ \\\n deal significant damage ▲ to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 116,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n remove buffs \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 114,
+    "skills": [
+      "Increase your C. Star Drop Rate (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies ",
+      "Increase your C. Star Drop Rate (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage ▲ \\\n decrease Critical Rate (3 turns) ▲ for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 155,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Saber-class Servant] enemy <Special Attack damage increases with Overcharge>",
+      "Apply Special Attack [Good] (1 turn) for yourself ▲ \\\n Deal significant Special Attack damage to a single [Saber-class Servant] enemy ▲ <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 161,
+    "skills": [
+      "Deal significant damage that gets more powerful when your HP is low to a single enemy <strength increases with Overcharge>",
+      "Deal significant damage to a single enemy that gets more powerful when your HP is low ▲ <strength increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 162,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Critical Rate (3 turns) \\\n inflict Burn (5 turns) <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 171,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease ATK (3 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage to a single enemy \\\n decrease ATK (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 174,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (5 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease DEF ▲ (5 turns) to all enemies <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 178,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Divine] enemy <Special Attack damage increases with Overcharge>",
+      "Deal significant Special Attack damage to a single [Divine] enemy ▲ <Special Attack damage increases with Overcharge> \\\n Apply \"Change field to [Burning]\" status (3 turns) ▲ for yourself"
+    ]
+  },
+  {
+    "collectionNo": 202,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict NP Seal (1 turn) \\\n inflict Curse (5 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 219,
+    "skills": [
+      "Deal significant damage \\\n inflict Burn (3 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 226,
+    "skills": [
+      "Increase your NP Strength (1 turn) <effect increases with Overcharge> \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 247,
+    "skills": [
+      "Decrease Buster Card Resistance (3 turns) <effect increases with Overcharge> \\\n deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 260,
+    "skills": [
+      "Deal significant damage \\\n inflict Curse (5 turns) \\\n inflict Disastrous Curse (5 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 251,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal significant DEF-ignoring damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 261,
+    "skills": [
+      "Deal heavy damage \\\n greatly decrease Critical Rate (3 turns) for all enemies \\\n high chance to inflict NP Seal (1 turn) to all [Saber Class] enemies <chance increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 282,
+    "skills": [
+      "Apply Burn (3 turns) [Demerit] \\\n increase ATK (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 287,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n apply Ignore Invincible (1 turn) for yourself \\\n Deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 306,
+    "skills": [
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage \\\n decrease Charge for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 309,
+    "skills": [
+      "Apply Special Attack [Round Table Knights or Fae] (1 turn) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Human Attribute] <Special Attack damage increases with Overcharge> \\\n inflict Curse (5 turns) to all enemies \\\n Increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 323,
+    "skills": [
+      "Apply Special Attack against enemies with [Human Attribute] (1 turn) <effect increases with Overcharge> \\\n Special Attack against [Lawful] Servant enemies (1 turn) \\\n Special Attack against [Shadow Servants] (1 turn) to yourself \\\n Deal significant damage to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 345,
+    "skills": [
+      "Remove DEF Buffs \\\n deal significant Special Attack [Dragon] damage \\\n decrease Arts Card resistance (3 turns) <effect increases with Overcharge> to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 355,
+    "skills": [
+      "Remove DEF Buffs \\\n deal heavy Special Attack [Enemies with Earth Attribute] damage <Special Attack damage increases with Overcharge> \\\n decrease Critical Rate (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 362,
+    "skills": [
+      "Deal heavy Special Attack [Human Attribute] damage <Special Attack damage increases with Overcharge> \\\n inflict NP Seal (1 turn) \\\n inflict Curse (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 382,
+    "skills": [
+      "Chance to decrease Quick Card Resistance (3 turns) <chance increases with Overcharge> \\\n chance to decrease Arts Card Resistance (3 turns) <chance increases with Overcharge> \\\n chance to decrease Buster Card Resistance (3 turns) <chance increases with Overcharge> \\\n deal heavy damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 386,
+    "skills": [
+      "Apply an anti-Enforcement DEF state <disregard [Ignore Invincible] and reduce ATK damage received to 0> (1 time, 1 turn) for all allies \\\n Apply Special Attack [Chaotic] (1 turn) <effect increases with Overcharge> \\\n Special Attack [Divine] (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant Special Attack [Threat to Humanity] damage \\\n decrease Critical Rate (3 turns) for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 1,
+    "skills": [
+      "Unknown",
+      "Increase DEF (3 turns) <effect increases with Overcharge> \\\n apply Incoming Damage Cut status (3 turns) for all allies",
+      "Increase DEF (3 turns) <effect increases with Overcharge> \\\n apply Incoming Damage Cut status (3 turns) for all allies \\\n increase ATK for all allies except yourself",
+      "Increase DEF (3 turns) <effect increases with Overcharge> \\\n apply Incoming Damage Cut status (3 times, 5 turns) for all allies",
+      "Increase DEF (3 turns) <effect increases with Overcharge> \\\n apply Incoming Damage Cut status (3 times, 5 turns) \\\n increase ATK (3 turns) <effect increases with Overcharge> ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 59,
+    "skills": [
+      "Apply Invincible (1 turn) for all allies \\\n increase DEF (3 turns) \\\n restore HP each turn (2 turns) <effect increases with Overcharge> for all allies \\\n Inflict Stun to yourself (2 turns) [Demerit]",
+      "Apply Invincible (1 turn) for all allies \\\n increase DEF (3 turns) \\\n restore HP each turn (2 turns) <effect increases with Overcharge> \\\n remove Debuffs ▲ for all allies"
+    ]
+  },
+  {
+    "collectionNo": 93,
+    "skills": [
+      "Remove Buffs \\\n deal heavy damage to all enemies \\\n decrease Critical Rate (1 turn) <effect increases with Overcharge> for all enemies",
+      "Remove Buffs \\\n deal heavy damage to all enemies ▲ \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 135,
+    "skills": [
+      "Decrease DEF (1 turn) <effect increases with Overcharge> for a single enemy \\\n deal significant damage to a single enemy ",
+      "Decrease DEF ▲ (1 turn) <effect increases with Overcharge> for a single enemy \\\n deal significant damage to a single enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 173,
+    "skills": [
+      "Decrease DEF for all enemies (3 turns) \\\n Apply Ignore Invincible (3 turns) \\\n Ignore DEF (3 turns) \\\n increase Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 229,
+    "skills": [
+      "Apply Invincible (1 turn) \\\n apply Target Focus (1 turn) \\\n increase ATK strength (3 turns) <effect increases with Overcharge> \\\n increase Critical Strength (3 turns) \\\n increase C. Star Gather Rate (3 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 233,
+    "skills": [
+      "Increase your C. Star Drop Rate (1 turn) \\\n Deal heavy damage to all enemies \\\n Increase Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 242,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Evil] enemy <Special Attack damage increases with Overcharge> \\\n Gain a large amount of C. Stars",
+      "Apply Ignore Invincible (1 turn) for yourself ▲ \\\n Deal heavy Special Attack damage to a single [Evil] enemy ▲ <Special Attack damage increases with Overcharge> \\\n Gain a large amount of C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 265,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy DEF-ignoring damage to all enemies \\\n Restore your NP Gauge"
+    ]
+  },
+  {
+    "collectionNo": 292,
+    "skills": [
+      "Increase Buster Card effectiveness (3 turns) \\\n Critical Strength (3 turns) <effect increases with Overcharge> \\\n increase NP Charge by 2 levels when using NP (1 time, 3 turns) for all allies"
+    ]
+  },
+  {
+    "collectionNo": 305,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n decrease Quick Card Resistance (3 turns) \\\n inflict Nullify Buff (1 time, 3 turns) for all enemies",
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy [Chaotic] Special Attack damage ▲ \\\n decrease Quick Card Resistance (3 turns) \\\n inflict Nullify Buff (1 time, 3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 320,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant damage to a single enemy \\\n Different effects will be activated depending on the random bullet color <[Green] Gain a large amount of C. Stars, [Blue] Increase NP Gauge for all allies, [Red] Increase ATK (3 turns) for all allies>"
+    ]
+  },
+  {
+    "collectionNo": 346,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all [Good] enemies \\\n inflict Skill Seal (1 turn) \\\n apply [Evil] trait to all enemies (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 357,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> only when on a [Near Water] field for yourself \\\n Deal heavy Special Attack [Lawful] damage <Special Attack damage increases with Overcharge> \\\n decrease Charge for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 364,
+    "skills": [
+      "Increase NP Strength (3 turns) for yourself \\\n Deal heavy damage \\\n inflict Curse (3 turns) <effect increases with Overcharge> \\\n inflict Disastrous Curse (increase Curse damage) (3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 374,
+    "skills": [
+      "Apply Special Attack [Evil] to yourself (1 turn) \\\n Deal heavy Special Attack damage to all enemies with [Human Attribute] <Special Attack damage increases with Overcharge> \\\n inflict Nullify Buff (1 time, 3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 390,
+    "skills": [
+      "Increase ATK (3 turns) <effect increases with Overcharge> \\\n Critical Strength (3 turns) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Earth Attribute] "
+    ]
+  },
+  {
+    "collectionNo": 164,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n restore HP <effect increases with Overcharge> for all allies",
+      "Deal heavy damage ▲ to all enemies \\\n restore HP ▲ <effect increases with Overcharge> for all allies"
+    ]
+  },
+  {
+    "collectionNo": 163,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n remove Buffs for a single enemy \\\n Increase your Quick Card effectiveness (3 turns) <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 167,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal heavy DEF-ignoring damage to all enemies \\\n Restore HP <effect increases with Overcharge> for yourself ",
+      "Apply Ignore Invincible (1 turn) for yourself \\\n Deal heavy DEF-ignoring damage to all enemies ▲ \\\n Restore HP ▲ <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 190,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n remove DEF Buffs \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 191,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n remove DEF Buffs \\\n decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 209,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Buster Card Resistance (3 turns) for all enemies <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 224,
+    "skills": [
+      "Deal significant damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n decrease Critical Rate (3 turns) <effect increases with Overcharge> to a single enemy \\\n decrease Charge for a single [Dragon] enemy"
+    ]
+  },
+  {
+    "collectionNo": 238,
+    "skills": [
+      "Increase your Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n increase your Buster Card effectiveness when a [Growth] state is applied (1 turn) \\\n Deal heavy damage to all enemies "
+    ]
+  },
+  {
+    "collectionNo": 297,
+    "skills": [
+      "Deal heavy damage \\\n inflict Curse (5 turns) \\\n inflict Disastrous Curse (increase Curse damage) (5 turns) <effect increases with Overcharge> \\\n high chance to inflict Death to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 336,
+    "skills": [
+      "Increase ATK (1 turn) <effect increases with Overcharge> \\\n apply Target Focus (1 turn) \\\n \"Fragarach Counter\" status (1 turn) <After an enemy performs a standard action against you, activate \"Deal heavy Quick Card damage \\\n decrease Quick Card Resistance (3 turns) for a single enemy \\\n Gain C. Stars\" (Not activated by special actions. If counterattack damage exceeds an enemy's Break Gauge, the enemy will be reduced to 1 HP without breaking the gauge)> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 338,
+    "skills": [
+      "Inflict [Taisui's Calamity] <Decrease all allies' Defense (3 turns) \\\n inflict Curse (3 turns) \\\n inflict Disastrous Curse (increase Curse damage) (3 turns) upon defeat> (3 turns) \\\n inflict Curse (5 turns) \\\n deal heavy [Human Attribute] Special Attack damage <effect increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 339,
+    "skills": [
+      "Deal significant damage <STR increases based on the number of [Likes!] applied to yourself (Max 10)> \\\n decrease DEF (3 turns) <effect increases with Overcharge> to a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 352,
+    "skills": [
+      "Greatly restore HP \\\n restore HP each turn (3 turns) <effect increases with Overcharge> \\\n gain C. Stars each turn (5 turns) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 369,
+    "skills": [
+      "Increase your Arts Card effectiveness (1 turn) <effect increases with Overcharge> \\\n Deal heavy Special Attack [Evil] damage \\\n inflict Burn (3 turns) \\\n inflict Spreading Fire (increase Burn damage) (3 turns) \\\n inflict Curse (3 turns) \\\n inflict Disastrous Curse (increase Curse damage) (3 turns) to all enemies \\\n Chance to inflict Death to all [Good] enemies"
+    ]
+  },
+  {
+    "collectionNo": 376,
+    "skills": [
+      "Remove Debuffs \\\n increase Buster Card effectiveness (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n inflict Skill Seal (1 turn) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 107,
+    "skills": [
+      "Apply Standby state for yourself (1 turn) [Demerit] \\\n restore HP <effect increases with Overcharge> \\\n at the end of the enemy's turn, reflect damage received during that turn onto all enemies at multiplied strength "
+    ]
+  },
+  {
+    "collectionNo": 96,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Curse (5 turns) <effect increases with Overcharge> for all enemies",
+      "Deal heavy damage ▲ \\\n decrease DEF (3 turns) <effect increases with Overcharge> \\\n inflict Curse (5 turns) <effect increases with Overcharge> \\\n inflict Disastrous Curse (increase Curse damage) ▲ (5 turns) to all enemies."
+    ]
+  },
+  {
+    "collectionNo": 106,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n inflict Nullify Buff (1 time) \\\n Curse (5 turns) <effect increases with Overcharge> for a single enemy",
+      "Deal significant damage ▲ \\\n inflict Nullify Buff (1 time) \\\n inflict Curse (5 turns) <effect increases with Overcharge> to a single enemy \\\n Gain a large amount of C. Stars ▲"
+    ]
+  },
+  {
+    "collectionNo": 147,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n inflict Curse (5 turns) <effect increases with Overcharge> for all enemies \\\n Increase NP Gauge for all allies",
+      "Deal heavy damage to all enemies ▲ \\\n inflict Curse (5 turns) <effect increases with Overcharge> to all enemies \\\n Increase NP Gauge for all allies ▲"
+    ]
+  },
+  {
+    "collectionNo": 158,
+    "skills": [
+      "Apply Sure Hit to yourself (1 turn) \\\n Deal significant damage \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy",
+      "Apply Sure Hit (1 turn) \\\n increase Critical Strength (3 turns) ▲ for yourself \\\n Deal significant damage ▲ \\\n medium chance to inflict Death <chance increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 204,
+    "skills": [
+      "Deal heavy damage to all enemies \\\n decrease Arts Card Resistance (3 turns) <effect increases with Overcharge> for all enemies \\\n Decrease C. Star Drop Rate (3 turns) for all allies [Demerit]"
+    ]
+  },
+  {
+    "collectionNo": 250,
+    "skills": [
+      "Remove DEF buffs \\\n deal heavy Special Attack damage to all [Divine] enemies <Special Attack damage increases with Overcharge> \\\n inflict Burn (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 268,
+    "skills": [
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Increase Extra Attack Strength (1 turn) for yourself",
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Increase Extra Attack Strength (1 turn) for yourself",
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage to all enemies \\\n Increase Extra Attack Strength (1 turn) for yourself"
+    ]
+  },
+  {
+    "collectionNo": 303,
+    "skills": [
+      "Remove Buffs \\\n deal significant damage <STR increases based on the number of [Grudge of Vengeance] applied to yourself (Max 4)> \\\n inflict Curse (5 turns) <effect increases with Overcharge> to one enemy"
+    ]
+  },
+  {
+    "collectionNo": 321,
+    "skills": [
+      "Deal heavy [Charm] Special Attack damage <Special Attack damage increases with Overcharge> \\\n decrease DEF (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 328,
+    "skills": [
+      "Increase C. Star Drop Rate (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy DEF-ignoring damage to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 356,
+    "skills": [
+      "Increase Arts Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant Special Attack [Curse] damage \\\n high chance to inflict Death to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 370,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all enemies with [Human Attribute] \\\n chance to inflict Death \\\n High chance to inflict Death to all [Evil] enemies"
+    ]
+  },
+  {
+    "collectionNo": 388,
+    "skills": [
+      "Increase Quick Card effectiveness (3 turns) <effect increases with Overcharge> for yourself \\\n Deal significant damage <damage increases based on the number of [Completed Draft] status applied to yourself (Max 10)> \\\n decrease Charge for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 83,
+    "skills": [
+      "Unknown"
+    ]
+  },
+  {
+    "collectionNo": 166,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n decrease Debuff Resist (3 turns) <effect increases with Overcharge> for a single enemy \\\n increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 220,
+    "skills": [
+      "Deal heavy damage \\\n decrease Charge \\\n extremely low chance to decrease Charge <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 244,
+    "skills": [
+      "Decrease DEF (3 turns) \\\n deal heavy damage to all enemies \\\n Apply Invincible (1 turn) \\\n recover HP <effect increases with Overcharge> for yourself"
+    ]
+  },
+  {
+    "collectionNo": 285,
+    "skills": [
+      "Deal heavy Special Attack [Mental Debuff] damage <Special Attack damage increases with each [Mental Debuff] (Maximum 10) on the target> \\\n high chance to inflict Death <chance increases with Overcharge> to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 351,
+    "skills": [
+      "Change field to [Millennium Castle] state (3 turns) \\\n Deal heavy Special Attack [Chaotic] damage <Special Attack strength increases with NP Level> to all enemies \\\n Increase NP Gauge for all [modern human (certain Pseudo-Servants, Demi-Servants, etc.)] allies excluding yourself <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 195,
+    "skills": [
+      "Remove Buffs for a single enemy \\\n deal significant damage to a single enemy \\\n decrease Critical Rate (1 turn) <effect increases with Overcharge> for a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 198,
+    "skills": [
+      "Deal heavy Special Attack damage to all enemies with [Human Attribute] <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 222,
+    "skills": [
+      "Increase your ATK (1 turn) <effect increases with Overcharge> \\\n Deal significant Special Attack damage to a single [Saber-class Servant] enemy ",
+      "Increase your ATK (1 turn) <effect increases with Overcharge> \\\n Deal significant Special Attack damage to a single [Saber-class Servant] enemy ▲"
+    ]
+  },
+  {
+    "collectionNo": 275,
+    "skills": [
+      "Deal significant Special Attack damage to a [Burned] enemy <Special Attack damage increases with Overcharge> \\\n inflict Burn (3 turns) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 281,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all [Heaven attribute] enemies \\\n Increase NP Gauge for all allies \\\n Slightly increase NP Gauge for all [modern human (certain Pseudo-Servants, Demi-Servants, etc.)] allies",
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all [Heaven attribute] enemies ▲ \\\n Increase NP Gauge for all allies \\\n Increase ▲ NP Gauge for all [modern human (certain Pseudo-Servants, Demi-Servants, etc.)] allies"
+    ]
+  },
+  {
+    "collectionNo": 295,
+    "skills": [
+      "Inflict Fear to all enemies (3 turns) \\\n Increase ATK (3 turns) <effect increases with Overcharge> \\\n Critical Strength (3 turns) for all allies \\\n Increase Critical Strength (3 turns) for all [Entity of the Outer Realm] allies \\\n Gain C. Stars each turn for yourself (3 turns)"
+    ]
+  },
+  {
+    "collectionNo": 289,
+    "skills": [
+      "Remove DEF Buffs \\\n deal heavy damage \\\n decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 308,
+    "skills": [
+      "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy Special Attack damage to all [Evil] enemies "
+    ]
+  },
+  {
+    "collectionNo": 334,
+    "skills": [
+      "Increase ATK (1 turn) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Earth powers] <Special Attack damage increases with Overcharge> \\\n remove ATK Buffs \\\n decrease Buster Card Resistance (3 turns) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 324,
+    "skills": [
+      "Increase NP Strength (3 turns) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n inflict Curse (5 turns) \\\n inflict Disastrous Curse (increase Curse damage) (5 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 373,
+    "skills": [
+      "Apply Special Attack [Threat to Humanity] (1 turn) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Earth attribute] <Special Attack damage increases with Overcharge> \\\n inflict Skill Seal (1 turn) to all enemies \\\n Gain a large amount of C. Stars"
+    ]
+  },
+  {
+    "collectionNo": 389,
+    "skills": [
+      "Deal heavy damage \\\n decrease DEF (3 turns) for all enemies \\\n Restore HP <effect increases with Overcharge> \\\n remove Debuffs for yourself",
+      "Deal heavy damage \\\n decrease DEF (3 turns) for all enemies \\\n Restore HP <effect increases with Overcharge> \\\n remove Debuffs for yourself"
+    ]
+  },
+  {
+    "collectionNo": 393,
+    "skills": [
+      "Apply Ignore Invincible (1 turn) \\\n increase NP Strength (1 turn) <effect increases with Overcharge> \\\n apply Special Attack [Threat to Humanity] (1 turn) for yourself \\\n Deal significant damage <STR increases based on the number of [Spirit's Anger] applied to yourself (Max 10)> to one enemy"
+    ]
+  },
+  {
+    "collectionNo": 316,
+    "skills": [
+      "Deal heavy Special Attack damage to all [Lawful] enemies <Special Attack damage increases with Overcharge> \\\n remove ATK buffs \\\n inflict Sleep (1 turn) \\\n apply Invincible (1 turn) [Demerit] to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 335,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal significant damage \\\n decrease Arts Card Resistance (3 turns) \\\n decrease Buster Card Resistance (3 turns) for a single enemy "
+    ]
+  },
+  {
+    "collectionNo": 353,
+    "skills": [
+      "Increase Max HP (3 turns) \\\n increase NP Gauge each turn (3 turns) for all allies \\\n Gain C. Stars each turn for yourself (5 turns) <effect increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 367,
+    "skills": [
+      "Increase C. Star Drop Rate (1 turn) <effect increases with Overcharge> \\\n NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Deal heavy damage \\\n decrease DEF (3 turns) to all enemies"
+    ]
+  },
+  {
+    "collectionNo": 372,
+    "skills": [
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Increase NP Gain (1 turn) for yourself only when on a [Near Water] field \\\n Deal heavy damage to all enemies \\\n Increase NP Strength (3 turns) for all allies except yourself",
+      "Increase NP Strength (1 turn) <effect increases with Overcharge> for yourself \\\n Increase NP Gain (1 turn) for yourself only when on a [Near Water] field \\\n Deal heavy damage to all enemies \\\n Increase NP Strength (3 turns) for all allies except yourself"
+    ]
+  },
+  {
+    "collectionNo": 392,
+    "skills": [
+      "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> \\\n restore HP each turn (3 turns) \\\n increase NP Gauge each turn (3 turns) \\\n gain C. Stars each turn (3 turns) for yourself \\\n Deal heavy Special Attack damage to all enemies with [Human Attribute] \\\n inflict Curse (3 turns) \\\n Poison (3 turns) \\\n greatly decrease ATK (1 turn) for all enemies"
+    ]
+  },
+  {
+    "collectionNo": 377,
+    "skills": [
+      "Deal significant Special Attack damage to a single [Seven Knights Servant] enemy <Special Attack damage increases with Overcharge>"
+    ]
+  },
+  {
+    "collectionNo": 149,
+    "skills": []
+  },
+  {
+    "collectionNo": 151,
+    "skills": [
+      null
+    ]
+  },
+  {
+    "collectionNo": 152,
+    "skills": [
+      "Deal significant damage \\\n inflict Burn (5 turns) <effect increases with Overcharge> to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 168,
+    "skills": [
+      "Deal significant damage to a single enemy \\\n chance to decrease Charge <chance increases with Overcharge> for a single enemy \\\n increase NP Gauge for all allies"
+    ]
+  },
+  {
+    "collectionNo": 240,
+    "skills": [
+      "Increase your Quick, Arts, and Buster Card effectiveness (3 turns) <effect increases with Overcharge> \\\n Deal significant damage \\\n high chance to inflict Charm (1 turn) to a single enemy"
+    ]
+  },
+  {
+    "collectionNo": 333,
+    "skills": []
+  }
+]

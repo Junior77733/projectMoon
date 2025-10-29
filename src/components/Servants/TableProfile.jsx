@@ -14,12 +14,22 @@ export default function TableProfile({ gender,
                                         starAbsorb, 
                                         instantDeath, 
                                         cardDeck })
+                                        
 {
+
+
+    const commandCards = [
+        {1 : "Arts"},
+        {2 : "Buster"},
+        {3 : "Quick"}
+    ]
+
+    console.log(commandCards.map(element => element))
 
     return (
         <table className="servant-profile">
             <tbody>
-                <tr className="row">
+                <tr>
                     <td className="first-col">Name</td>
                     <td colSpan={3} className="second-col">{name}</td>
                 </tr>
