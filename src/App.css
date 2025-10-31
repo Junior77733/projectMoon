@@ -270,6 +270,12 @@ h1 {
   background-image: linear-gradient(to top right, lightgrey 30%, white 50%);
 }
 
+.passive-container {
+  display: flex;
+  flex-direction: column;
+  width:100%;
+}
+
 .BGM {
   width:50%;
   padding:10px;

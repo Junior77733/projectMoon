@@ -3,6 +3,7 @@ import ServantImage from './ServantImage'
 import TableProfile from './TableProfile'
 import TableSkills from './TableSkills'
 import TableNP from './TableNP'
+import TablePassives from './TablePassives'
 
 export default function ServantDetails({servantId}) {
 
@@ -63,7 +64,7 @@ export default function ServantDetails({servantId}) {
       setNp(!np)
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, noblePhantasms, skills } = servant;
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive , noblePhantasms, skills } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
     const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
@@ -104,6 +105,7 @@ export default function ServantDetails({servantId}) {
           <button className="table-render-btn" onClick={handleNoblePhantasm}>Noble Phantasm</button>
 
           {activeSkill && <div><TableSkills skills={skills} collectorId={collectionNo} /></div>}
+          {passiveSkill && <><TablePassives classPassive={classPassive} /></> }
           {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
       </div>
   );

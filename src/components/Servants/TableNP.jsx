@@ -1,4 +1,5 @@
 import ServantNP from '../../components/servant-np.json'
+import ReactMarkdown from 'react-markdown'
 
 export default function TableNP( { noblePhantasms, collectorId } ) {
 
@@ -7,13 +8,13 @@ export default function TableNP( { noblePhantasms, collectorId } ) {
   )
 
   if (!getNP) {
-    return <p>This Servant {collectorId} Noble Phantasm information is not available...</p>
+    return <p>This Servant : {collectorId} -- Noble Phantasm information is not available...</p>
   }
 
   return (
     
     <>
-      {noblePhantasms.map(( {name, type, rank, npDistribution}, index ) => (
+      {noblePhantasms.map(( {id, name, type, rank, npDistribution}, index ) => (
         <div className="skill-table">
         <table className='servant-profile'>
           <tbody>
@@ -29,12 +30,13 @@ export default function TableNP( { noblePhantasms, collectorId } ) {
               <td className='first-col'>Hits</td>
               <td className='second-col'>{npDistribution.map((element, index) => (<span key={index} style={{padding:'3px'}}>{element}%</span>))}</td>
             </tr>
-            <tr>
+            <tr key={id}>
               <td className='first-col'>Details</td>
-              <td colSpan={5} className='second-col'>{getNP.skills[index]}</td>
-            </tr>
-            <tr>
-              <td></td>
+              <td colSpan={5} className='second-col'>
+                <ReactMarkdown>
+                  {getNP.skills[index]}
+                </ReactMarkdown>
+              </td>
             </tr>
           </tbody>
         </table>

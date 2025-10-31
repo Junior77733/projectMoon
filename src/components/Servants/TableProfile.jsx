@@ -24,8 +24,6 @@ export default function TableProfile({ gender,
         {3 : "Quick"}
     ]
 
-    console.log(commandCards.map(element => element))
-
     return (
         <table className="servant-profile">
             <tbody>
