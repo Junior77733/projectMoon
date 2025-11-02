@@ -4,6 +4,12 @@ import TableProfile from './TableProfile'
 import TableSkills from './TableSkills'
 import TableNP from './TableNP'
 import TablePassives from './TablePassives'
+import TableAppends from './TableAppends'
+import ServantTraits from './ServantTraits'
+import TableSkillMaterials from './TableSkillMaterials'
+import TableAscensionMaterials from './TableAscensionMaterials'
+import TableAppendMaterials from './TableAppendMaterials'
+import TableCostumeMaterials from './TableCostumeMaterials'
 
 export default function ServantDetails({servantId}) {
 
@@ -64,7 +70,7 @@ export default function ServantDetails({servantId}) {
       setNp(!np)
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive , noblePhantasms, skills } = servant;
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
     const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
@@ -105,8 +111,23 @@ export default function ServantDetails({servantId}) {
           <button className="table-render-btn" onClick={handleNoblePhantasm}>Noble Phantasm</button>
 
           {activeSkill && <div><TableSkills skills={skills} collectorId={collectionNo} /></div>}
-          {passiveSkill && <><TablePassives classPassive={classPassive} /></> }
+          {passiveSkill && <div><TablePassives classPassive={classPassive} /></div> }
+          {appendSkill && <div><TableAppends appendPassive={appendPassive} /></div>}
           {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
+
+          <h1 className="trait-title">Traits</h1>
+          <ServantTraits traits={traits} />
+
+          <h1 className="trait-title">Materials</h1>
+          <div className="material-table">
+            <TableAscensionMaterials ascensionMaterials={ascensionMaterials} />
+            <TableSkillMaterials skillMaterials={skillMaterials} />
+            <TableAppendMaterials appendSkillMaterials={appendSkillMaterials} />
+            <TableCostumeMaterials costumeMaterials={costumeMaterials} />
+          </div>
+
+          
+
       </div>
   );
 }

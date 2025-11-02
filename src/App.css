@@ -243,6 +243,11 @@ h1 {
   border: 1px solid white;
 }
 
+.appendVal {
+  border: 1px solid grey;
+  padding: 5px;
+}
+
 .table-bottom {
   margin-bottom: 5px;
 }
@@ -274,6 +279,57 @@ h1 {
   display: flex;
   flex-direction: column;
   width:100%;
+}
+
+.trait-container {
+  margin:30px;
+}
+
+.trait-title {
+  margin-left:10px;
+  margin-top:40px;
+  margin-bottom:0px;
+}
+
+.traits {
+  font-family: "Roboto";
+  margin:0px 0px 10px 10px;
+}
+
+.traits a {
+  color:white;
+}
+
+.materials {
+  font-family: "Mona Sans";
+}
+
+.material-container {
+  margin:10px;
+  text-align: center;
+}
+
+.material-table {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.material-first-col {
+  display:flex;
+  background-color: #1c1f20;
+  color: white;
+  font-family: "Inria Sans";
+  font-weight: 700;
+  text-align: start;
+  padding:10px;
+  border:1px solid #7d7467;
+}
+
+.material-img {
+  width:60px;
+  height:60px;
+  margin:5px;
 }
 
 .BGM {
