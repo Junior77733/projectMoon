@@ -10,6 +10,10 @@ import TableSkillMaterials from './TableSkillMaterials'
 import TableAscensionMaterials from './TableAscensionMaterials'
 import TableAppendMaterials from './TableAppendMaterials'
 import TableCostumeMaterials from './TableCostumeMaterials'
+import TableBondLevel from './TableBondLevel'
+import TableServantStats from './TableServantStats'
+import ServantAssets from './ServantAssets'
+import ServantCoins from './ServantCoins'
 
 export default function ServantDetails({servantId}) {
 
@@ -20,6 +24,7 @@ export default function ServantDetails({servantId}) {
     const [passiveSkill, setPassiveSkill] = useState(false)
     const [appendSkill, setAppendSkill] = useState(false)
     const [np, setNp] = useState(false)
+    const [assetRender, setAssetRender] = useState(false)
 
     useEffect(() => {
 
@@ -70,7 +75,11 @@ export default function ServantDetails({servantId}) {
       setNp(!np)
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials } = servant;
+    const handleAssetRendering = () => {
+      setAssetRender(!assetRender)
+    }
+
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials, bondGrowth, profile, coin } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
     const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
@@ -102,6 +111,7 @@ export default function ServantDetails({servantId}) {
                 starGen={servantStarGen}
                 instantDeath={servantDeathChance}
                 cardDeck={cards}
+                voice={profile}
               />
           </div>
 
@@ -115,8 +125,11 @@ export default function ServantDetails({servantId}) {
           {appendSkill && <div><TableAppends appendPassive={appendPassive} /></div>}
           {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
 
-          <h1 className="trait-title">Traits</h1>
-          <ServantTraits traits={traits} />
+          <div className="stats-and-bond">
+            <TableServantStats profile={profile} />
+            <TableBondLevel bondGrowth={bondGrowth} />
+          </div>
+          
 
           <h1 className="trait-title">Materials</h1>
           <div className="material-table">
@@ -126,7 +139,12 @@ export default function ServantDetails({servantId}) {
             <TableCostumeMaterials costumeMaterials={costumeMaterials} />
           </div>
 
-          
+          <ServantCoins coins={coin} />
+
+          <ServantTraits traits={traits} />
+
+          <button className="table-render-btn" onClick={handleAssetRendering}>Assets</button>
+          {assetRender && <ServantAssets extraAssets={extraAssets} />}
 
       </div>
   );

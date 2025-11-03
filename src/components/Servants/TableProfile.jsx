@@ -13,7 +13,8 @@ export default function TableProfile({ gender,
                                         starGen, 
                                         starAbsorb, 
                                         instantDeath, 
-                                        cardDeck })
+                                        cardDeck,
+                                        voice })
                                         
 {
 
@@ -82,6 +83,10 @@ export default function TableProfile({ gender,
                 <tr>
                     <td className="first-col">Deck</td>
                     <td colSpan={3} className="second-col">{cardDeck}</td>
+                </tr>
+                <tr>
+                    <td className="first-col">Voice</td>
+                    <td colSpan={3} className="second-col">{voice.cv}</td>
                 </tr>
             </tbody>
         </table>

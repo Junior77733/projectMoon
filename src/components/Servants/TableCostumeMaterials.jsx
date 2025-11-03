@@ -4,7 +4,7 @@ export default function TableCostumeMaterials( {costumeMaterials} ) {
 
     return (
         costumeMats.length > 0 && <div className="material-container">
-            <h1>Costume Materials</h1>
+            <h3 className="material-title">Costume Materials</h3>
 
             <table>
                 <tbody>

@@ -4,7 +4,7 @@ export default function TableAppendMaterials( {appendSkillMaterials} ) {
 
     return (
         <div className="material-container">
-            <h1>Append Materials</h1>
+            <h3 className="material-title">Append Materials</h3>
 
             <table>
                 <tbody>
@@ -18,7 +18,7 @@ export default function TableAppendMaterials( {appendSkillMaterials} ) {
                                 {items.map(({item, amount}) => ( <div><img className="material-img" src={item.icon} alt={item.name} title={item.name} />
                                 <span>{amount}</span></div> ))}
                             </td>
-                            <td className="first-col">{qp}</td>
+                            <td className="first-col">{qp.toLocaleString('en-US')}</td>
                         </tr>
                     ))}
                 </tbody>

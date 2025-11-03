@@ -4,7 +4,7 @@ export default function TableAscensionMaterials( {ascensionMaterials} ) {
 
     return (
         <div className="material-container">
-            <h1>Ascension Materials</h1>
+            <h3 className="material-title">Ascension Materials</h3>
 
             <table>
                 <tbody>
@@ -18,7 +18,7 @@ export default function TableAscensionMaterials( {ascensionMaterials} ) {
                                 {items.map(({item, amount}) => ( <div><img className="material-img" src={item.icon} alt={item.name} title={item.name} />
                                 <span>{amount}</span></div> ))}
                             </td>
-                            <td className="first-col">{qp}</td>
+                            <td className="first-col">{qp.toLocaleString('en-US')}</td>
                         </tr>
                     ))}
                 </tbody>

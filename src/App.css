@@ -286,9 +286,10 @@ h1 {
 }
 
 .trait-title {
+  font-family: "Roboto";
   margin-left:10px;
   margin-top:40px;
-  margin-bottom:0px;
+  margin-bottom:30px;
 }
 
 .traits {
@@ -302,6 +303,10 @@ h1 {
 
 .materials {
   font-family: "Mona Sans";
+}
+
+.material-title {
+  font-family:"Roboto"
 }
 
 .material-container {
@@ -330,6 +335,45 @@ h1 {
   width:60px;
   height:60px;
   margin:5px;
+}
+
+.traits-and-bond {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.bond-and-stats {
+  display:flex;
+}
+
+.stats-first-col {
+  background-color: #1c1f20;
+  color: white;
+  font-family: "Inria Sans";
+  font-weight: 700;
+  text-align: start;
+  padding:10px;
+  border-bottom:1px solid #7d7467;
+}
+
+.stats-second-col {
+  background-color: #181a1b;
+  color:white;
+  font-family: "Roboto";
+  text-align: center;
+  padding:10px;
+  line-height: 1cm;
+}
+
+.coin-cost-tab {
+  display:grid;
+  grid-template-columns: auto auto;
+}
+
+.story-images {
+  max-width: 100%;
+  height:auto;
 }
 
 .BGM {
