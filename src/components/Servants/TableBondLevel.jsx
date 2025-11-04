@@ -1,18 +1,18 @@
 export default function TableBondLevel( {bondGrowth} ) {
 
+    //hard code it instead of autoing it for better design.
+    const bondTen = bondGrowth.splice(0, 9);
+
+
     return (
         <div>
             <h1 className="trait-title">Bond Level</h1>
-            <table>
-                <tbody className="bond-and-stats">
-                    {bondGrowth.map((element, index) => (
-                        <div>
-                            <tr><td className="first-col">{index + 1}</td></tr>
-                            <tr><td className="second-col">{element.toLocaleString('en-US')}</td></tr>
-                        </div>
-                    ))}
-                </tbody>
-            </table>
+            <div className="stat-table">
+                <table>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
         </div>
     )
 }

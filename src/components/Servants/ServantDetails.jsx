@@ -14,6 +14,8 @@ import TableBondLevel from './TableBondLevel'
 import TableServantStats from './TableServantStats'
 import ServantAssets from './ServantAssets'
 import ServantCoins from './ServantCoins'
+import TableServantComments from './TableServantComments'
+import ServantVoiceFiles from './ServantVoiceFiles'
 
 export default function ServantDetails({servantId}) {
 
@@ -25,6 +27,7 @@ export default function ServantDetails({servantId}) {
     const [appendSkill, setAppendSkill] = useState(false)
     const [np, setNp] = useState(false)
     const [assetRender, setAssetRender] = useState(false)
+    const [commentRender, setCommentRender] = useState(false)
 
     useEffect(() => {
 
@@ -79,6 +82,10 @@ export default function ServantDetails({servantId}) {
       setAssetRender(!assetRender)
     }
 
+    const handleCommentRendering = () => {
+      setCommentRender(!commentRender)
+    }
+
     const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials, bondGrowth, profile, coin } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
@@ -125,11 +132,8 @@ export default function ServantDetails({servantId}) {
           {appendSkill && <div><TableAppends appendPassive={appendPassive} /></div>}
           {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
 
-          <div className="stats-and-bond">
-            <TableServantStats profile={profile} />
-            <TableBondLevel bondGrowth={bondGrowth} />
-          </div>
-          
+          <TableServantStats profile={profile} />
+          <TableBondLevel bondGrowth={bondGrowth} />
 
           <h1 className="trait-title">Materials</h1>
           <div className="material-table">
@@ -140,11 +144,15 @@ export default function ServantDetails({servantId}) {
           </div>
 
           <ServantCoins coins={coin} />
-
           <ServantTraits traits={traits} />
+
+          <button className="table-render-btn" onClick={handleCommentRendering}>Servant Comments</button>
+          {commentRender && <TableServantComments profile={profile} />}
 
           <button className="table-render-btn" onClick={handleAssetRendering}>Assets</button>
           {assetRender && <ServantAssets extraAssets={extraAssets} />}
+
+          <ServantVoiceFiles profile={profile} />
 
       </div>
   );

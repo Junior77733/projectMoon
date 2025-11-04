@@ -2169,7 +2169,7 @@
     "skills": [
       "Increase NP Gauge each turn (3 turns) for all allies \\\n Gain C. Stars each turn (3 turns) \\\n Increase NP Gauge \\\n Increase NP Strength (3 turns) for yourself",
       "Increase ATK (3 turns) \\\n Slightly increase ATK (3 turns) while HP is 99% or less \\\n Slightly increase ATK (3 turns) while HP is 75% or less \\\n Slightly increase ATK (3 turns) while HP is 50% or less \\\n Slightly increase ATK (3 turns) while HP is 25% or less for all allies \\\n Apply buff effect \\\ngains C. Stars at the end of turn when all allies' HP is at 100% (3 turns) for yourself",
-      "[Cannot use at the start of battle. Skill is under a 5 turn CoolDown] \\\n\\\n Increase NP Gauge \\\n Increase NP Strength (3 turns) \\\n Apply Guts (1 time, 3 turns) for all allies"
+      "[Cannot use at the start of battle. Skill is under a 5 turn CoolDown] \\\n\\\n Increase NP Gauge for all allies \\\n Increase NP Strength (3 turns) for all allies \\\n Apply Guts (1 time, 3 turns) for all allies"
     ]
   },
   {

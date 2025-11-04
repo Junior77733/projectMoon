@@ -343,8 +343,15 @@ h1 {
   justify-content: center;
 }
 
-.bond-and-stats {
+.stat-table {
   display:flex;
+  justify-content: center;
+  width:100%;
+  max-width: 100%;
+}
+
+.stat-table > table {
+  width:50%;
 }
 
 .stats-first-col {
@@ -352,9 +359,10 @@ h1 {
   color: white;
   font-family: "Inria Sans";
   font-weight: 700;
-  text-align: start;
-  padding:10px;
-  border-bottom:1px solid #7d7467;
+  text-align: center;
+  padding:10px 20px 10px 20px;
+  border-left: 1px solid white;
+  border-bottom: 1px solid white;
 }
 
 .stats-second-col {
@@ -364,6 +372,7 @@ h1 {
   text-align: center;
   padding:10px;
   line-height: 1cm;
+  padding:10px 20px 10px 20px;
 }
 
 .coin-cost-tab {
@@ -374,6 +383,53 @@ h1 {
 .story-images {
   max-width: 100%;
   height:auto;
+}
+
+.asset-btns {
+  display:grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto auto auto;
+  width:100%;
+  text-align: start;
+  background-color:purple;
+  font-family:"Roboto";
+  color:white;
+  padding:5px;
+  border:1px solid rgb(114, 179, 179);
+  cursor:pointer;
+}
+
+.asset-btns:hover {
+  background-color: rgb(184, 29, 184);
+}
+
+.asset-btns:active {
+  background-color: black;
+  border:2px solid blueviolet;
+}
+
+.comments {
+  margin:60px;
+  box-sizing: border-box;
+}
+
+.comment-first-col {
+  background-color: #07607e;
+  color: white;
+  font-family: "Inria Sans";
+  font-weight: 700;
+  text-align: start;
+  padding:10px;
+  border:1px solid #ccc8c3;
+}
+
+.comment-second-col {
+  background-color: #1c1f20;
+  color: white;
+  font-family: "Inria Sans";
+  text-align: start;
+  padding:20px;
+  border:1px solid #7d7467;
 }
 
 .BGM {

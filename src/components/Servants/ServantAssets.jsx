@@ -31,16 +31,16 @@ export default function ServantAssets( {extraAssets} ) {
 
     return (
         <>
-            <button onClick={handleMainAssets}>Ascensions & Statuses</button>
+            <button className="asset-btns" onClick={handleMainAssets}>Ascensions & Statuses</button>
             {loadGraph && <AssetGraphAndStatus charaGraph={charaGraph} status={status} />}
 
-            <button onClick={handleFacesCommands}>Faces & Commands</button>
+            <button className="asset-btns" onClick={handleFacesCommands}>Faces & Commands</button>
             {loadFaceCommand && <AssetFacesAndCommands faces={faces} commands={commands} />}
 
-            <button onClick={handleFigures}>Figures</button>
+            <button className="asset-btns" onClick={handleFigures}>Figures</button>
             {loadFigures && <AssetFigure narrowFigure={narrowFigure} charaFigure={charaFigure} />}
 
-            <button onClick={handleImages}>Images (Story/Event)</button>
+            <button className="asset-btns" onClick={handleImages}>Images (Story/Event)</button>
             {loadImages && <AssetStoryImages image={image} />}
         </>
     )
