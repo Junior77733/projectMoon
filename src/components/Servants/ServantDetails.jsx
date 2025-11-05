@@ -86,7 +86,7 @@ export default function ServantDetails({servantId}) {
       setCommentRender(!commentRender)
     }
 
-    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials, bondGrowth, profile, coin } = servant;
+    const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials, bondGrowth, profile, coin, bondEquip } = servant;
 
     const servantRarity = `${"★".repeat(servant.rarity)}`;
     const servantStarGen = `${(servant.starGen * 0.1).toFixed(1)}%`;
@@ -133,7 +133,7 @@ export default function ServantDetails({servantId}) {
           {np && <div><TableNP noblePhantasms={noblePhantasms} collectorId={collectionNo} /></div> }
 
           <TableServantStats profile={profile} />
-          <TableBondLevel bondGrowth={bondGrowth} />
+          <TableBondLevel bondGrowth={bondGrowth} bondId={bondEquip} />
 
           <h1 className="trait-title">Materials</h1>
           <div className="material-table">
