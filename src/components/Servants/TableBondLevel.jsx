@@ -44,8 +44,6 @@ export default function TableBondLevel( {bondId, bondGrowth} ) {
         const bondFifteen = bond.slice(10)
         const ceDetails = skills.map(element => element.detail)
 
-        console.log(ce)
-
     return (
         <>
             <h1 className="trait-title">Bond Level</h1>

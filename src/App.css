@@ -276,9 +276,17 @@ h1 {
 }
 
 .passive-container {
-  display: flex;
-  flex-direction: column;
-  width:100%;
+  width:50%;
+}
+
+.append-table {
+  display:flex;
+  justify-content: center;
+}
+
+.passive-table {
+  display:flex;
+  justify-content: center;
 }
 
 .trait-container {
@@ -352,8 +360,6 @@ h1 {
   table-layout: fixed;
 }
 
-.bond-table-row {}
-
 .bond-table-cell {
   width:80px;
   text-align: center;
@@ -396,6 +402,43 @@ h1 {
   padding:10px;
 }
 
+.servant-voices-table {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  margin:20px;
+}
+
+.servant-v-t {
+  width:100%;
+}
+
+.voice-first-col {
+  background-color: #06607e;
+  color: white;
+  font-family: "Inria Sans";
+  font-weight: 700;
+  text-align: start;
+  padding:10px;
+  border:1px solid #7d7467;
+}
+
+.voice-row {
+  display: flex;
+  flex-direction: column;
+  padding:5px;
+  margin-bottom:10px;
+  border:1px solid grey;
+}
+
+.voice-row a {
+  color:white;
+}
+
+.voice-td {
+  padding:5px;
+}
+
 .stat-table {
   display:flex;
   justify-content: center;
@@ -425,6 +468,10 @@ h1 {
   text-align: center;
   line-height: 1cm;
   padding:10px 20px 10px 20px;
+}
+
+.servant-coin-table {
+  margin:10px;
 }
 
 .coin-cost-tab {

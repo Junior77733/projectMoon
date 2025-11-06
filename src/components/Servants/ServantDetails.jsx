@@ -28,6 +28,7 @@ export default function ServantDetails({servantId}) {
     const [np, setNp] = useState(false)
     const [assetRender, setAssetRender] = useState(false)
     const [commentRender, setCommentRender] = useState(false)
+    const [voiceRender, setVoiceRender] = useState(false)
 
     useEffect(() => {
 
@@ -84,6 +85,10 @@ export default function ServantDetails({servantId}) {
 
     const handleCommentRendering = () => {
       setCommentRender(!commentRender)
+    }
+
+    const handleVoicesRendering = () => {
+      setVoiceRender(!voiceRender)
     }
 
     const { collectionNo, name, gender, className, cost, atkBase, hpBase, atkMax, hpMax, attribute, starAbsorb, cards, limits, extraAssets, classPassive, appendPassive, noblePhantasms, skills, traits, skillMaterials, ascensionMaterials, appendSkillMaterials, costumeMaterials, bondGrowth, profile, coin, bondEquip } = servant;
@@ -152,7 +157,8 @@ export default function ServantDetails({servantId}) {
           <button className="table-render-btn" onClick={handleAssetRendering}>Assets</button>
           {assetRender && <ServantAssets extraAssets={extraAssets} />}
 
-          <ServantVoiceFiles profile={profile} />
+          <button className="table-render-btn" onClick={handleVoicesRendering}>Voices</button>
+          {voiceRender && <ServantVoiceFiles profile={profile} />}
 
       </div>
   );

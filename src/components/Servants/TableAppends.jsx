@@ -33,7 +33,7 @@ export default function TableAppends({ appendPassive }) {
     });
 
     return (
-        <>
+        <div className="append-table">
             <table>
                 <tbody>
                     {getAppendSkillData.map(({name, icon, sval}) => (
@@ -49,6 +49,6 @@ export default function TableAppends({ appendPassive }) {
                     ))}
                 </tbody>
             </table>
-        </>
+        </div>
     )
 }

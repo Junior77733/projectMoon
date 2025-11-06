@@ -1,7 +1,7 @@
 export default function TablePassiveSkill( { classPassive } ) {
 
     return (
-        <>
+        <div className="passive-table">
             <table  className="passive-container">
                 <tbody>
                     {classPassive.map(({ id, name, icon, detail, functions }) => (
@@ -18,6 +18,6 @@ export default function TablePassiveSkill( { classPassive } ) {
                     ))}
                 </tbody>
             </table>
-        </>
+        </div>
     )
 }

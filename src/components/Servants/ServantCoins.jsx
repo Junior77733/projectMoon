@@ -3,7 +3,7 @@ export default function ServantCoins( {coins} ) {
     return (
         <>
             <h1 className="trait-title">Coins</h1>
-
+            <div className="servant-coin-table">
             <table>
                 <tbody>
                     <tr>
@@ -57,7 +57,7 @@ export default function ServantCoins( {coins} ) {
                     </tr>
                 </tbody>
             </table>
-
+            </div>
         </>
     )
 }
