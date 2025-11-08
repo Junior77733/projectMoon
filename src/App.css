@@ -43,6 +43,41 @@ h1 {
   display:block;
 }
 
+.story-chapter-parent-container {
+  width:400px;
+  height:600px;
+  overflow-y: scroll;
+  scrollbar-width: 20px; /* auto | thin | none */
+  scrollbar-color: #787373 #574d4d;
+}
+
+.story-chapter-parent-container::-webkit-scrollbar {
+  width:12px;
+}
+
+.story-chapter-parent-container::-webkit-thumb {
+  background: #888;
+}
+
+.story-chapter-parent-container::-webkit-track {
+  background: #333;
+}
+
+.story-chapters {
+  padding:10px;
+}
+
+.story-chapter-banner {
+  width: 350px;
+  height:100px;
+  margin:10px;
+  transition: 0.2s;
+}
+
+.story-chapter-banner:hover {
+  scale:1.1;
+}
+
 .filters {
   display:flex;
   justify-content: center;
